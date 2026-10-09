@@ -1,0 +1,111 @@
+{
+  "programYear": "2025-26",
+  "url": "https://immi.homeaffairs.gov.au/what-we-do/state-and-territory-nomination-allocations",
+  "title": "2025–26 State and territory nomination allocations",
+  "retrievedAt": "2026-10-08T10:11:36.179647+00:00",
+  "publishedAt": null,
+  "effectiveDate": null,
+  "hash": "2057c4713e0a18931a4227cad33e848fffbea7d861119f0a895852d10c334d5f",
+  "snapshotScope": "Unmodified official HTML allocation table excerpt",
+  "allocations": [
+    {
+      "state": "ACT",
+      "subclass": "190",
+      "value": 800,
+      "locator": "2025–26 table; row ACT; subclass 190"
+    },
+    {
+      "state": "ACT",
+      "subclass": "491",
+      "value": 800,
+      "locator": "2025–26 table; row ACT; subclass 491"
+    },
+    {
+      "state": "NSW",
+      "subclass": "190",
+      "value": 2100,
+      "locator": "2025–26 table; row NSW; subclass 190"
+    },
+    {
+      "state": "NSW",
+      "subclass": "491",
+      "value": 1500,
+      "locator": "2025–26 table; row NSW; subclass 491"
+    },
+    {
+      "state": "NT",
+      "subclass": "190",
+      "value": 850,
+      "locator": "2025–26 table; row NT; subclass 190"
+    },
+    {
+      "state": "NT",
+      "subclass": "491",
+      "value": 800,
+      "locator": "2025–26 table; row NT; subclass 491"
+    },
+    {
+      "state": "QLD",
+      "subclass": "190",
+      "value": 1850,
+      "locator": "2025–26 table; row QLD; subclass 190"
+    },
+    {
+      "state": "QLD",
+      "subclass": "491",
+      "value": 750,
+      "locator": "2025–26 table; row QLD; subclass 491"
+    },
+    {
+      "state": "SA",
+      "subclass": "190",
+      "value": 1350,
+      "locator": "2025–26 table; row SA; subclass 190"
+    },
+    {
+      "state": "SA",
+      "subclass": "491",
+      "value": 900,
+      "locator": "2025–26 table; row SA; subclass 491"
+    },
+    {
+      "state": "TAS",
+      "subclass": "190",
+      "value": 1200,
+      "locator": "2025–26 table; row TAS; subclass 190"
+    },
+    {
+      "state": "TAS",
+      "subclass": "491",
+      "value": 650,
+      "locator": "2025–26 table; row TAS; subclass 491"
+    },
+    {
+      "state": "VIC",
+      "subclass": "190",
+      "value": 2700,
+      "locator": "2025–26 table; row VIC; subclass 190"
+    },
+    {
+      "state": "VIC",
+      "subclass": "491",
+      "value": 700,
+      "locator": "2025–26 table; row VIC; subclass 491"
+    },
+    {
+      "state": "WA",
+      "subclass": "190",
+      "value": 2000,
+      "locator": "2025–26 table; row WA; subclass 190"
+    },
+    {
+      "state": "WA",
+      "subclass": "491",
+      "value": 1400,
+      "locator": "2025–26 table; row WA; subclass 491"
+    }
+  ],
+  "decisionDate": "2025-11-04",
+  "dateNote": "The source states the date the Government set allocations. It does not explicitly state an effective date or publication timestamp.",
+  "decisionContextHash": "d0a3bfcc40be5bc534e8c38c01c865ffeb7ec5d6f347d4ceb644c7e1d7f0f2a3"
+}
