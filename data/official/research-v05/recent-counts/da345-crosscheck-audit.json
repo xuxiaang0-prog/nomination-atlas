@@ -1,0 +1,20 @@
+{
+  "primaryDataset": "DA26/07/00344",
+  "crosscheckDataset": "DA26/07/00345",
+  "checkedPages": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58
+  ],
+  "checkedOccupationRows": 278,
+  "checkedCells": 2502,
+  "differences": [],
+  "comparisonOfBlank": "DA00344 empty text-layer cell matches DA00345 visually published dash; neither is converted to zero.",
+  "limitations": "Image-only DA00345 pages 50 and 59–68 not included in automated comparison. All DA00344 pages are text readable, and their 190/491 cells are independently parsed from coordinates.",
+  "noAdditiveRows": true
+}

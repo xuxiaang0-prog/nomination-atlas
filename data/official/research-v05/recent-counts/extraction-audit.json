@@ -1,0 +1,471 @@
+{
+  "checkedAt": "2026-10-09T04:00:26.245482+00:00",
+  "input": "da-260700344-document-released.PDF",
+  "sha256": "12068a59b51f2edc971cf8204a165ccd2e18c8d647a36327a242e869d3d2c3e7",
+  "pageCount": 30,
+  "rawOccupationRowCount": 631,
+  "uniqueOccupations": 373,
+  "rowsByVisaSubclass": {
+    "190": 315,
+    "491": 316
+  },
+  "recordCount": 2165,
+  "states": [
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+  ],
+  "blankCellsExcluded": 2883,
+  "nonblankNotSpecifiedCellsExcluded": 25,
+  "suppressedCells": 1381,
+  "publishedCellSubtotal": 17350,
+  "hasTableTotal": false,
+  "tableTotalNote": "Source has no grand-total or state-total row. Exact published cells are subtotals only; privacy-suppressed and blank cells prevent an exact complete total. No estimated total is produced.",
+  "pageAudit": [
+    {
+      "page": 1,
+      "rowCount": 9,
+      "firstCode": "121221",
+      "lastCode": "133411",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 2,
+      "rowCount": 21,
+      "firstCode": "133512",
+      "lastCode": "211311",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 3,
+      "rowCount": 26,
+      "firstCode": "212318",
+      "lastCode": "224511",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 4,
+      "rowCount": 24,
+      "firstCode": "224512",
+      "lastCode": "233111",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 5,
+      "rowCount": 23,
+      "firstCode": "233112",
+      "lastCode": "234113",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 6,
+      "rowCount": 23,
+      "firstCode": "234211",
+      "lastCode": "241511",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 7,
+      "rowCount": 21,
+      "firstCode": "241513",
+      "lastCode": "252111",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 8,
+      "rowCount": 23,
+      "firstCode": "252112",
+      "lastCode": "253912",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 9,
+      "rowCount": 17,
+      "firstCode": "253913",
+      "lastCode": "254424",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 10,
+      "rowCount": 22,
+      "firstCode": "254425",
+      "lastCode": "263311",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 11,
+      "rowCount": 23,
+      "firstCode": "263312",
+      "lastCode": "311411",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 12,
+      "rowCount": 19,
+      "firstCode": "311412",
+      "lastCode": "321211",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 13,
+      "rowCount": 24,
+      "firstCode": "321212",
+      "lastCode": "334112",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 14,
+      "rowCount": 20,
+      "firstCode": "334113",
+      "lastCode": "362213",
+      "visaSubclasses": [
+        "190"
+      ]
+    },
+    {
+      "page": 15,
+      "rowCount": 23,
+      "firstCode": "391111",
+      "lastCode": "121213",
+      "visaSubclasses": [
+        "190",
+        "491"
+      ]
+    },
+    {
+      "page": 16,
+      "rowCount": 19,
+      "firstCode": "121215",
+      "lastCode": "134211",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 17,
+      "rowCount": 21,
+      "firstCode": "134213",
+      "lastCode": "149914",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 18,
+      "rowCount": 26,
+      "firstCode": "212314",
+      "lastCode": "224712",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 19,
+      "rowCount": 26,
+      "firstCode": "224912",
+      "lastCode": "233214",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 20,
+      "rowCount": 22,
+      "firstCode": "233215",
+      "lastCode": "234312",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 21,
+      "rowCount": 22,
+      "firstCode": "234313",
+      "lastCode": "249299",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 22,
+      "rowCount": 21,
+      "firstCode": "249311",
+      "lastCode": "252712",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 23,
+      "rowCount": 20,
+      "firstCode": "253111",
+      "lastCode": "261112",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 24,
+      "rowCount": 21,
+      "firstCode": "261211",
+      "lastCode": "272112",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 25,
+      "rowCount": 23,
+      "firstCode": "272113",
+      "lastCode": "311413",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 26,
+      "rowCount": 19,
+      "firstCode": "311499",
+      "lastCode": "313113",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 27,
+      "rowCount": 21,
+      "firstCode": "313212",
+      "lastCode": "332111",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 28,
+      "rowCount": 20,
+      "firstCode": "332211",
+      "lastCode": "351111",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 29,
+      "rowCount": 25,
+      "firstCode": "351112",
+      "lastCode": "451815",
+      "visaSubclasses": [
+        "491"
+      ]
+    },
+    {
+      "page": 30,
+      "rowCount": 7,
+      "firstCode": "452317",
+      "lastCode": "639211",
+      "visaSubclasses": [
+        "491"
+      ]
+    }
+  ],
+  "stateVisaSummaries": [
+    {
+      "state": "ACT",
+      "visaSubclass": "190",
+      "occupationCellCount": 143,
+      "exactCellCount": 48,
+      "suppressedCellCount": 95,
+      "publishedCellsSubtotal": 605,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "ACT",
+      "visaSubclass": "491",
+      "occupationCellCount": 152,
+      "exactCellCount": 47,
+      "suppressedCellCount": 105,
+      "publishedCellsSubtotal": 582,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "NSW",
+      "visaSubclass": "190",
+      "occupationCellCount": 138,
+      "exactCellCount": 78,
+      "suppressedCellCount": 60,
+      "publishedCellsSubtotal": 2053,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "NSW",
+      "visaSubclass": "491",
+      "occupationCellCount": 181,
+      "exactCellCount": 84,
+      "suppressedCellCount": 97,
+      "publishedCellsSubtotal": 1636,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "NT",
+      "visaSubclass": "190",
+      "occupationCellCount": 105,
+      "exactCellCount": 33,
+      "suppressedCellCount": 72,
+      "publishedCellsSubtotal": 669,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "NT",
+      "visaSubclass": "491",
+      "occupationCellCount": 140,
+      "exactCellCount": 38,
+      "suppressedCellCount": 102,
+      "publishedCellsSubtotal": 538,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "QLD",
+      "visaSubclass": "190",
+      "occupationCellCount": 115,
+      "exactCellCount": 67,
+      "suppressedCellCount": 48,
+      "publishedCellsSubtotal": 1543,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "QLD",
+      "visaSubclass": "491",
+      "occupationCellCount": 119,
+      "exactCellCount": 35,
+      "suppressedCellCount": 84,
+      "publishedCellsSubtotal": 564,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "SA",
+      "visaSubclass": "190",
+      "occupationCellCount": 166,
+      "exactCellCount": 58,
+      "suppressedCellCount": 108,
+      "publishedCellsSubtotal": 1098,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "SA",
+      "visaSubclass": "491",
+      "occupationCellCount": 192,
+      "exactCellCount": 50,
+      "suppressedCellCount": 142,
+      "publishedCellsSubtotal": 569,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "TAS",
+      "visaSubclass": "190",
+      "occupationCellCount": 137,
+      "exactCellCount": 35,
+      "suppressedCellCount": 102,
+      "publishedCellsSubtotal": 997,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "TAS",
+      "visaSubclass": "491",
+      "occupationCellCount": 98,
+      "exactCellCount": 22,
+      "suppressedCellCount": 76,
+      "publishedCellsSubtotal": 480,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "VIC",
+      "visaSubclass": "190",
+      "occupationCellCount": 171,
+      "exactCellCount": 68,
+      "suppressedCellCount": 103,
+      "publishedCellsSubtotal": 2324,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "VIC",
+      "visaSubclass": "491",
+      "occupationCellCount": 88,
+      "exactCellCount": 30,
+      "suppressedCellCount": 58,
+      "publishedCellsSubtotal": 558,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "WA",
+      "visaSubclass": "190",
+      "occupationCellCount": 118,
+      "exactCellCount": 52,
+      "suppressedCellCount": 66,
+      "publishedCellsSubtotal": 1800,
+      "subtotalIsNotFullTotal": true
+    },
+    {
+      "state": "WA",
+      "visaSubclass": "491",
+      "occupationCellCount": 102,
+      "exactCellCount": 39,
+      "suppressedCellCount": 63,
+      "publishedCellsSubtotal": 1334,
+      "subtotalIsNotFullTotal": true
+    }
+  ],
+  "anomalies": [],
+  "unassignedNumericCells": [],
+  "readingCorrections": [
+    {
+      "page": 6,
+      "visaSubclass": "190",
+      "occupationCode": "241111",
+      "state": "QLD",
+      "pdfTextLayer": "so",
+      "renderedValue": "50",
+      "crosscheckSource": "DA26/07/00345 p.53",
+      "proofImage": "da344-p6-count50.png",
+      "countEstimated": false
+    }
+  ],
+  "titleNormalisation": {
+    "description": "Wrapped lines preserved including firstword atcodecolumn. Text-layer wholeword nee normalised tonec confirmedoriginalrenderedtable; rawtitle retainedinrawrows.",
+    "numericChanges": 0
+  },
+  "importedUniqueOccupations": 372,
+  "onlyUnspecifiedOccupationCodesExcluded": [
+    "253918"
+  ]
+}

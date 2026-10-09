@@ -1,0 +1,146 @@
+{
+  "checkedAt": "2026-10-09T04:01:26.279678+00:00",
+  "scope": "Complete public list items in HomeAffairsDataRequest2025/2026 and FOIDisclosureLog2025/2026. Bounded title/description screen, not proof no other sources exist. State occupational invitation point/count table not found in these logs. General189/family491 round documents are not treated as state nomination outcomes.",
+  "logs": [
+    {
+      "file": "data-request-log-2026.json",
+      "entryCount": 192,
+      "sha256": "226d6fdd29ee32634bfa7fc1866da955e4cc67c360403abb32a3e2900da692af",
+      "invitationEOIMatches": [
+        {
+          "reference": "DA 25/12/00550",
+          "description": "  Number of National Innovation Visa Expressions of Interest and invitations issued and received by month, Citizenship, priority sector from 6 December 2024 to 30 November 2025; Number of National Innovation (subclass 858) and Global Talent (subclass 858) visa applications granted from 1 December 2024 to 30 November 2025   Documents released (469KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 26/01/00015",
+          "description": "  Number of Mobility Arrangement for Talented Early-professionals Scheme (subclass 403) ballots used, visas approved and refused, date pre-registration ballot period closed, average processing time for visa applications and average time for invitation for visa after ballot was registered for the financial year 2024-25   Documents released (137 KB)  ​  "
+        },
+        {
+          "reference": "DA 26/04/00210",
+          "description": "  Employer Nomination Scheme (Direct Entry and Temporary Transition Streams) (subclass 186) visa processing times for visa applications decided from July 2023 to March 2026; number of National Innovation (subclass 858) visa applications lodged, granted or refused, and average processing time from December 2025 to March 2026; Invitation rate for National Innovation (subclass 858) visa Expressions of Interest (EOIs) submitted and invited, onshore and offshore, from 1 December 2025 to 21 April 2026; number and percentage of invited EOIs who hold a PhD degree from 1 December 2025 to 21 April 2026; number of National Innovation (subclass 858) visa EOIs invitations issued under Academia and Research from 1 December 2025 to 21 April 2026; Country of origin of National Innovation (subclass 858) visa EOI candidates that has received an invitation from 1 December 2025 to 21 April 2026   Documents released (667KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 26/06/00298",
+          "description": "  Number of National Innovation (Subclass 858) visa granted, Expressions of Interest received, invitations issued by priority sector from 1 April 2025 to 31 May 2026   Documents released (876KB PDF) ​​  "
+        }
+      ],
+      "recentStateOccupationPointsInvitationsLocated": false
+    },
+    {
+      "file": "data-request-log-2025.json",
+      "entryCount": 215,
+      "sha256": "7ffa8b566e5aaa02220b31b7ae3bf7bdca3c3509a62d5a90ba03ebcc1949484e",
+      "invitationEOIMatches": [
+        {
+          "reference": "DA 25/02/00044",
+          "description": "  Number of Subclass 858 (Global Talent Independent) visa applications on hand as of 28 February 2025; Number of National Innovation Visa Expression of Interest received by month from 7 December 2024 to 28 February 2025.   Documents released (441KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/03/00092",
+          "description": "  Number of Skilled Independent visa (subclass 189), Skilled Nominated visa (subclass 190), and Skilled Work Regional (Provisional) visa (subclass 491) invited and granted, monthly, from 1 January 2023 to 28 February 2025   Documents released (419KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/03/00108",
+          "description": "  Number of Expression of interest received since the introduction of National Innovation Visa by sector from 7 December 2024 to 21 March 2025; Number of invitations issued as at 21 March 2025.   Documents released (504KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/05/00180",
+          "description": "  Number of National Innovation (subclass 858) visa Expressions of Interest received as at 2 May 2025; number of National Innovation (subclass 858) visa invitations issued, by Priority Order, as at 2 May 2025   Documents released (189KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/05/00207",
+          "description": "  Number of National Innovation (subclass 858) Expressions of Interest received from 7 December 2024 to 15 May 2025; number of invitations to apply issued for a National Innovation (subclass 858) visa, by Priority Order, from 7 December 2024 to 15 May 2025; number of National Innovation (subclass 858) visas granted from 1 December 2024 to 30 April 2025   Documents released (230KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/05/00225",
+          "description": "  Number of National Innovation (subclass 858) Expressions of Interest received from 6 December 2024 to 31 May 2025; number of National Innovation (subclass 858) visas granted from 6 December 2024 to 31 May 2025; number of National Innovation (subclass 858) Expressions of Interest invited, by priority sector, from 6 December 2024 to 31 May 2025   Documents released (334KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/06/00249",
+          "description": "  Number of National Innovation visa (subclass 858) Invitations from 6 December 2024 to 31 May 2025; number of National Innovation visa (subclass 858) Expressions of Interest received from 6 December 2024 to 31 May 2025; number of National Innovation (subclass 858) visa applications granted from 6 December 2024 to 31 May 2025   Documents released (254KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/06/00268",
+          "description": "  Number of invitations issued under the Global Talent program and the National Innovation visa program in the migration program year 2024-25; number of Global Talent (subclass 858) and National Innovation (subclass 858) visas granted in the program year 2024-25   Documents released (624KB PDF)   "
+        },
+        {
+          "reference": "DA 25/07/00296",
+          "description": "  Number of Global Talent Independent visa (subclass 858) Expressions of Interest (EOI) received and invited, by sector, from 1 July 2023 to Global Talent program closure on 5 December 2024; number of Global Talent Independent (subclass 858) visa applications lodged, granted and refused from 1 July 2023 to 30 June 2025; number of National Innovation visa (subclass 858) EOI received and invited, by priority sector, from commencement of the National Innovation visa on 6 December 2024 to 30 June 2025; number of National Innovation (subclass 858) visa applications lodged and granted from commencement of National Innovation visa on 6 December 2024 to 30 June 2025   Documents released (401KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/08/00368",
+          "description": "  Number of National Innovation visa (NIV) (subclass 858) Expressions of Interest (EOI) received from commencement of NIV on 6 December 2024 to 31 July 2025; number of EOI invited under NIV by priority order from commencement of NIV on 6 December 2024 to 31 July 2025; number of EOI invited under NIV by citizenship from commencement of NIV on 6 December 2024 to 31 July 2025; number of EOI invited under NIV by priority sector from commencement of the NIV on 6 December 2024 to 31 July 2025; number of primary NIV (subclass 858) visa grants from commencement of NIV on 6 December 2024 to 30 June 2025; number of primary NIV (subclass 858) visa grants from 1 July 2025 to 31 July 2025   Documents released (335KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/08/00380",
+          "description": "  Number of Expressions of Interest (EOI) received, invited and not invited under Global Talent visa (subclass 858), monthly, from 1 January 2024 to Global Talent program closure 5 December 2024; number of EOI received under National Innovation visa (NIV) (subclass 858) from commencement of the NIV on 6 December 2024 to 31 August 2025; number of EOI invited under NIV from commencement of the NIV on 6 December 2024 to 31 August 2025   Documents released (241KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/09/00417",
+          "description": "  Number of National Innovation Visa (NIV) Expressions of Interest received from commencement of NIV on 6 December 2024 to 31 August 2025; number of NIV Expressions of Interest invited from commencement of NIV on 6 December 2024 to 31 August 2025; number of Expressions of Interest received and invited under NIV by priority sector from commencement of the NIV on 6 December 2024 to 31 August 2025   Documents released (165KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/09/00442",
+          "description": "  Number of people who acquired Australian citizenship by conferral at ceremonies conducted by the Greater Dandenong City Council (Vic), by month, from 22 June 2025 to 25 September 2025; number of people invited to attend an Australian citizenship ceremony conducted by City of Greater Dandenong Council (Vic), by approval month, on 16 July 2025, 20 August 2025, 17 September 2025, 1 October 2025, and 22 October 2025   Documents released (338KB PDF)  ​  "
+        }
+      ],
+      "recentStateOccupationPointsInvitationsLocated": false
+    },
+    {
+      "file": "foi-disclosure-log-2026.json",
+      "entryCount": 169,
+      "sha256": "1cf699d99fa07afdd7c36d5b4315cc4433515aa1230b8c04b4a4ed70fa3d06dc",
+      "invitationEOIMatches": [
+        {
+          "reference": "FA 26/05/00447",
+          "description": "  Procedural Instructions for Expression of Interest (EOI) for Overseas Long-Term Postings dated 28 April 2026   Documents released (1.2MB PDF)  ​  "
+        }
+      ],
+      "recentStateOccupationPointsInvitationsLocated": false
+    },
+    {
+      "file": "foi-disclosure-log-2025.json",
+      "entryCount": 300,
+      "sha256": "6eba87ec0fae58bc41b309beb0d06154e1467f1eb1e89485dff5b2ea0d07ed7f",
+      "invitationEOIMatches": [
+        {
+          "reference": "FA 24/11/00383",
+          "description": "  Documents relating to Skill Select Invitation round conducted on 7 November 2024   Documents released (2.8MB PDF)  ​  "
+        },
+        {
+          "reference": "FA 24/11/01525",
+          "description": "  Department of Home Affairs and Hawker Britton - Meeting invite 18 September 2024   Documents released (134KB PDF)  ​  "
+        },
+        {
+          "reference": "FA 24/09/00425",
+          "description": "  Documents relating to SkillSelect round conducted on 5 September 2024   Documents released (3.2MB PDF)  ​  "
+        },
+        {
+          "reference": "FA 24/09/00446",
+          "description": "  Documents and correspondence relating to SkillSelect invitation round on 5 September 2024   Documents released (5.8MB PDF)  ​  "
+        },
+        {
+          "reference": "FA 24/09/01510",
+          "description": "  Documents relating to SkillSelect round conducted on 5 September 2024   Documents released (14MB PDF)  ​  "
+        },
+        {
+          "reference": "FA 25/11/00658",
+          "description": "  Proposal for Skilled Independent visa (subclass 189) invitation rounds for Program Year 2025-26   Documents released (1MB PDF)  ​  "
+        },
+        {
+          "reference": "FA 25/10/00198",
+          "description": "  Reform of SkillSelect for Skilled Independent visa (subclass 189) and Skilled Work Regional (Provisional) visa (subclass 491) invitation rounds for Program Year 2025-26   Documents released (1.7MB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/04/00156",
+          "description": "  Median processing times for Temporary Skill Shortage (subclass 482) Skills in Demand sponsorship and nomination applications for March 2025; number of Temporary Skill Shortage (subclass 482) Skills in Demand visa nominations and visa applications approved and refused from 7 December 2024 to 4 April 2025; number of Employer Nomination Scheme (subclass 186) visa nominations and visa applications approved and refused from 1 July 2023 to 31 March 2025; number of National Innovation (subclass 858) visa applications granted and refused from 1 July 2023 to 31 March 2025; number of National Innovation (subclass 858) visa Expressions of Interest received, by Priority Sector, as at 10 April 2025; number of National Innovation (subclass 858) visa invitations to apply issued, by Priority Sector, as at 10 April 2025.   Documents released (465 KB PDF)  ​  "
+        },
+        {
+          "reference": "DA 25/04/00131",
+          "description": "  Number of National Innovation (subclass 858) visa Expression of Interests invited and number of National Innovation (subclass 858) visa Expression of Interests invited by sector from 7 December 2024 to 1 April 2025.   Documents released (232 KB PDF)  ​  "
+        }
+      ],
+      "recentStateOccupationPointsInvitationsLocated": false
+    }
+  ]
+}
