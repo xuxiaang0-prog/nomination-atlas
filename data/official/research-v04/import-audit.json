@@ -1,0 +1,29 @@
+{
+  "datasetVersion": "official-2026-10-09-v3",
+  "newRecords": 5875,
+  "newEOIRows": 6529,
+  "foiSources": {
+    "dha-foi-190900418-2019": {
+      "records": 2193,
+      "eoiRows": 2847
+    },
+    "dha-foi-fa191201350": {
+      "records": 266,
+      "eoiRows": 266
+    },
+    "nsw-foi-fa191201127": {
+      "records": 3416,
+      "eoiRows": 3416
+    }
+  },
+  "states": {
+    "NSW": 150,
+    "VIC": 72,
+    "QLD": 109,
+    "WA": 181,
+    "SA": 38,
+    "TAS": 109,
+    "ACT": 155,
+    "NT": 52
+  }
+}
