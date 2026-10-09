@@ -1,0 +1,3362 @@
+[
+  {
+    "occupationCode": "1331",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1331-0"
+  },
+  {
+    "occupationCode": "1331",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 100,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-1331-1"
+  },
+  {
+    "occupationCode": "1331",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1331-2"
+  },
+  {
+    "occupationCode": "1331",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1331-3"
+  },
+  {
+    "occupationCode": "1332",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1332-0"
+  },
+  {
+    "occupationCode": "1332",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 85,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-1332-1"
+  },
+  {
+    "occupationCode": "1332",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1332-2"
+  },
+  {
+    "occupationCode": "1332",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1332-3"
+  },
+  {
+    "occupationCode": "1336",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1336-0"
+  },
+  {
+    "occupationCode": "1336",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1336-1"
+  },
+  {
+    "occupationCode": "1336",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1336-2"
+  },
+  {
+    "occupationCode": "1336",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1336-3"
+  },
+  {
+    "occupationCode": "1341",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1341-0"
+  },
+  {
+    "occupationCode": "1341",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-1341-1"
+  },
+  {
+    "occupationCode": "1341",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1341-2"
+  },
+  {
+    "occupationCode": "1341",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1341-3"
+  },
+  {
+    "occupationCode": "1342",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1342-0"
+  },
+  {
+    "occupationCode": "1342",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1342-1"
+  },
+  {
+    "occupationCode": "1342",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1342-2"
+  },
+  {
+    "occupationCode": "1342",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1342-3"
+  },
+  {
+    "occupationCode": "1351",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1351-0"
+  },
+  {
+    "occupationCode": "1351",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1351-1"
+  },
+  {
+    "occupationCode": "1351",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1351-2"
+  },
+  {
+    "occupationCode": "1351",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1351-3"
+  },
+  {
+    "occupationCode": "1399",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1399-0"
+  },
+  {
+    "occupationCode": "1399",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1399-1"
+  },
+  {
+    "occupationCode": "1399",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1399-2"
+  },
+  {
+    "occupationCode": "1399",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1399-3"
+  },
+  {
+    "occupationCode": "1411",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1411-0"
+  },
+  {
+    "occupationCode": "1411",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 130,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-1411-1"
+  },
+  {
+    "occupationCode": "1411",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1411-2"
+  },
+  {
+    "occupationCode": "1411",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1411-3"
+  },
+  {
+    "occupationCode": "1413",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1413-0"
+  },
+  {
+    "occupationCode": "1413",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 105,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-1413-1"
+  },
+  {
+    "occupationCode": "1413",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1413-2"
+  },
+  {
+    "occupationCode": "1413",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-1413-3"
+  },
+  {
+    "occupationCode": "2211",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2211-0"
+  },
+  {
+    "occupationCode": "2211",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2211-1"
+  },
+  {
+    "occupationCode": "2211",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2211-2"
+  },
+  {
+    "occupationCode": "2211",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2211-3"
+  },
+  {
+    "occupationCode": "2212",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2212-0"
+  },
+  {
+    "occupationCode": "2212",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2212-1"
+  },
+  {
+    "occupationCode": "2212",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2212-2"
+  },
+  {
+    "occupationCode": "2212",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2212-3"
+  },
+  {
+    "occupationCode": "2242",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2242-0"
+  },
+  {
+    "occupationCode": "2242",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2242-1"
+  },
+  {
+    "occupationCode": "2242",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2242-2"
+  },
+  {
+    "occupationCode": "2242",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2242-3"
+  },
+  {
+    "occupationCode": "2321",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2321-0"
+  },
+  {
+    "occupationCode": "2321",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2321-1"
+  },
+  {
+    "occupationCode": "2321",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2321-2"
+  },
+  {
+    "occupationCode": "2321",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2321-3"
+  },
+  {
+    "occupationCode": "2322",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2322-0"
+  },
+  {
+    "occupationCode": "2322",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2322-1"
+  },
+  {
+    "occupationCode": "2322",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2322-2"
+  },
+  {
+    "occupationCode": "2322",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2322-3"
+  },
+  {
+    "occupationCode": "2326",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2326-0"
+  },
+  {
+    "occupationCode": "2326",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2326-1"
+  },
+  {
+    "occupationCode": "2326",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2326-2"
+  },
+  {
+    "occupationCode": "2326",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2326-3"
+  },
+  {
+    "occupationCode": "2332",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2332-0"
+  },
+  {
+    "occupationCode": "2332",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 110,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2332-1"
+  },
+  {
+    "occupationCode": "2332",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2332-2"
+  },
+  {
+    "occupationCode": "2332",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2332-3"
+  },
+  {
+    "occupationCode": "2333",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2333-0"
+  },
+  {
+    "occupationCode": "2333",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 105,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2333-1"
+  },
+  {
+    "occupationCode": "2333",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2333-2"
+  },
+  {
+    "occupationCode": "2333",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2333-3"
+  },
+  {
+    "occupationCode": "2334",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2334-0"
+  },
+  {
+    "occupationCode": "2334",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 115,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2334-1"
+  },
+  {
+    "occupationCode": "2334",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2334-2"
+  },
+  {
+    "occupationCode": "2334",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2334-3"
+  },
+  {
+    "occupationCode": "2335",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2335-0"
+  },
+  {
+    "occupationCode": "2335",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 105,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2335-1"
+  },
+  {
+    "occupationCode": "2335",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2335-2"
+  },
+  {
+    "occupationCode": "2335",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2335-3"
+  },
+  {
+    "occupationCode": "2339",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2339-0"
+  },
+  {
+    "occupationCode": "2339",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2339-1"
+  },
+  {
+    "occupationCode": "2339",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2339-2"
+  },
+  {
+    "occupationCode": "2339",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2339-3"
+  },
+  {
+    "occupationCode": "2343",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2343-0"
+  },
+  {
+    "occupationCode": "2343",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2343-1"
+  },
+  {
+    "occupationCode": "2343",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2343-2"
+  },
+  {
+    "occupationCode": "2343",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2343-3"
+  },
+  {
+    "occupationCode": "2345",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2345-0"
+  },
+  {
+    "occupationCode": "2345",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2345-1"
+  },
+  {
+    "occupationCode": "2345",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2345-2"
+  },
+  {
+    "occupationCode": "2345",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2345-3"
+  },
+  {
+    "occupationCode": "2346",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2346-0"
+  },
+  {
+    "occupationCode": "2346",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2346-1"
+  },
+  {
+    "occupationCode": "2346",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2346-2"
+  },
+  {
+    "occupationCode": "2346",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2346-3"
+  },
+  {
+    "occupationCode": "2347",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2347-0"
+  },
+  {
+    "occupationCode": "2347",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2347-1"
+  },
+  {
+    "occupationCode": "2347",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2347-2"
+  },
+  {
+    "occupationCode": "2347",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2347-3"
+  },
+  {
+    "occupationCode": "2349",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2349-0"
+  },
+  {
+    "occupationCode": "2349",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 85,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2349-1"
+  },
+  {
+    "occupationCode": "2349",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2349-2"
+  },
+  {
+    "occupationCode": "2349",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2349-3"
+  },
+  {
+    "occupationCode": "2411",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2411-0"
+  },
+  {
+    "occupationCode": "2411",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 125,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2411-1"
+  },
+  {
+    "occupationCode": "2411",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2411-2"
+  },
+  {
+    "occupationCode": "2411",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2411-3"
+  },
+  {
+    "occupationCode": "2412",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2412-0"
+  },
+  {
+    "occupationCode": "2412",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2412-1"
+  },
+  {
+    "occupationCode": "2412",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2412-2"
+  },
+  {
+    "occupationCode": "2412",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2412-3"
+  },
+  {
+    "occupationCode": "2413",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2413-0"
+  },
+  {
+    "occupationCode": "2413",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2413-1"
+  },
+  {
+    "occupationCode": "2413",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2413-2"
+  },
+  {
+    "occupationCode": "2413",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2413-3"
+  },
+  {
+    "occupationCode": "2414",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2414-0"
+  },
+  {
+    "occupationCode": "2414",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 70,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2414-1"
+  },
+  {
+    "occupationCode": "2414",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2414-2"
+  },
+  {
+    "occupationCode": "2414",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2414-3"
+  },
+  {
+    "occupationCode": "2415",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2415-0"
+  },
+  {
+    "occupationCode": "2415",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2415-1"
+  },
+  {
+    "occupationCode": "2415",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2415-2"
+  },
+  {
+    "occupationCode": "2415",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2415-3"
+  },
+  {
+    "occupationCode": "2422",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2422-0"
+  },
+  {
+    "occupationCode": "2422",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2422-1"
+  },
+  {
+    "occupationCode": "2422",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2422-2"
+  },
+  {
+    "occupationCode": "2422",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2422-3"
+  },
+  {
+    "occupationCode": "2511",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2511-0"
+  },
+  {
+    "occupationCode": "2511",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2511-1"
+  },
+  {
+    "occupationCode": "2511",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2511-2"
+  },
+  {
+    "occupationCode": "2511",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2511-3"
+  },
+  {
+    "occupationCode": "2512",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2512-0"
+  },
+  {
+    "occupationCode": "2512",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2512-1"
+  },
+  {
+    "occupationCode": "2512",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2512-2"
+  },
+  {
+    "occupationCode": "2512",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2512-3"
+  },
+  {
+    "occupationCode": "2513",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2513-0"
+  },
+  {
+    "occupationCode": "2513",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2513-1"
+  },
+  {
+    "occupationCode": "2513",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2513-2"
+  },
+  {
+    "occupationCode": "2513",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2513-3"
+  },
+  {
+    "occupationCode": "2514",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2514-0"
+  },
+  {
+    "occupationCode": "2514",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2514-1"
+  },
+  {
+    "occupationCode": "2514",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2514-2"
+  },
+  {
+    "occupationCode": "2514",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2514-3"
+  },
+  {
+    "occupationCode": "2515",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2515-0"
+  },
+  {
+    "occupationCode": "2515",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 85,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2515-1"
+  },
+  {
+    "occupationCode": "2515",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2515-2"
+  },
+  {
+    "occupationCode": "2515",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2515-3"
+  },
+  {
+    "occupationCode": "2519",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2519-0"
+  },
+  {
+    "occupationCode": "2519",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 75,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2519-1"
+  },
+  {
+    "occupationCode": "2519",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2519-2"
+  },
+  {
+    "occupationCode": "2519",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2519-3"
+  },
+  {
+    "occupationCode": "2521",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2521-0"
+  },
+  {
+    "occupationCode": "2521",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2521-1"
+  },
+  {
+    "occupationCode": "2521",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2521-2"
+  },
+  {
+    "occupationCode": "2521",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2521-3"
+  },
+  {
+    "occupationCode": "2522",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2522-0"
+  },
+  {
+    "occupationCode": "2522",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2522-1"
+  },
+  {
+    "occupationCode": "2522",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2522-2"
+  },
+  {
+    "occupationCode": "2522",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2522-3"
+  },
+  {
+    "occupationCode": "2523",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2523-0"
+  },
+  {
+    "occupationCode": "2523",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2523-1"
+  },
+  {
+    "occupationCode": "2523",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2523-2"
+  },
+  {
+    "occupationCode": "2523",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2523-3"
+  },
+  {
+    "occupationCode": "2524",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2524-0"
+  },
+  {
+    "occupationCode": "2524",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2524-1"
+  },
+  {
+    "occupationCode": "2524",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2524-2"
+  },
+  {
+    "occupationCode": "2524",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2524-3"
+  },
+  {
+    "occupationCode": "2525",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2525-0"
+  },
+  {
+    "occupationCode": "2525",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2525-1"
+  },
+  {
+    "occupationCode": "2525",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2525-2"
+  },
+  {
+    "occupationCode": "2525",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2525-3"
+  },
+  {
+    "occupationCode": "2526",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2526-0"
+  },
+  {
+    "occupationCode": "2526",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2526-1"
+  },
+  {
+    "occupationCode": "2526",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2526-2"
+  },
+  {
+    "occupationCode": "2526",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2526-3"
+  },
+  {
+    "occupationCode": "2527",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2527-0"
+  },
+  {
+    "occupationCode": "2527",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2527-1"
+  },
+  {
+    "occupationCode": "2527",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2527-2"
+  },
+  {
+    "occupationCode": "2527",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2527-3"
+  },
+  {
+    "occupationCode": "2531",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2531-0"
+  },
+  {
+    "occupationCode": "2531",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2531-1"
+  },
+  {
+    "occupationCode": "2531",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2531-2"
+  },
+  {
+    "occupationCode": "2531",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2531-3"
+  },
+  {
+    "occupationCode": "2532",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2532-0"
+  },
+  {
+    "occupationCode": "2532",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2532-1"
+  },
+  {
+    "occupationCode": "2532",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2532-2"
+  },
+  {
+    "occupationCode": "2532",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2532-3"
+  },
+  {
+    "occupationCode": "2533",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2533-0"
+  },
+  {
+    "occupationCode": "2533",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2533-1"
+  },
+  {
+    "occupationCode": "2533",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2533-2"
+  },
+  {
+    "occupationCode": "2533",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2533-3"
+  },
+  {
+    "occupationCode": "2534",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2534-0"
+  },
+  {
+    "occupationCode": "2534",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2534-1"
+  },
+  {
+    "occupationCode": "2534",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2534-2"
+  },
+  {
+    "occupationCode": "2534",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2534-3"
+  },
+  {
+    "occupationCode": "2535",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2535-0"
+  },
+  {
+    "occupationCode": "2535",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2535-1"
+  },
+  {
+    "occupationCode": "2535",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2535-2"
+  },
+  {
+    "occupationCode": "2535",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2535-3"
+  },
+  {
+    "occupationCode": "2539",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2539-0"
+  },
+  {
+    "occupationCode": "2539",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2539-1"
+  },
+  {
+    "occupationCode": "2539",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2539-2"
+  },
+  {
+    "occupationCode": "2539",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2539-3"
+  },
+  {
+    "occupationCode": "2541",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2541-0"
+  },
+  {
+    "occupationCode": "2541",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2541-1"
+  },
+  {
+    "occupationCode": "2541",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2541-2"
+  },
+  {
+    "occupationCode": "2541",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2541-3"
+  },
+  {
+    "occupationCode": "2542",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2542-0"
+  },
+  {
+    "occupationCode": "2542",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2542-1"
+  },
+  {
+    "occupationCode": "2542",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2542-2"
+  },
+  {
+    "occupationCode": "2542",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2542-3"
+  },
+  {
+    "occupationCode": "2543",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2543-0"
+  },
+  {
+    "occupationCode": "2543",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2543-1"
+  },
+  {
+    "occupationCode": "2543",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2543-2"
+  },
+  {
+    "occupationCode": "2543",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2543-3"
+  },
+  {
+    "occupationCode": "2544",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2544-0"
+  },
+  {
+    "occupationCode": "2544",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 105,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2544-1"
+  },
+  {
+    "occupationCode": "2544",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2544-2"
+  },
+  {
+    "occupationCode": "2544",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2544-3"
+  },
+  {
+    "occupationCode": "2611",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2611-0"
+  },
+  {
+    "occupationCode": "2611",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2611-1"
+  },
+  {
+    "occupationCode": "2611",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2611-2"
+  },
+  {
+    "occupationCode": "2611",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2611-3"
+  },
+  {
+    "occupationCode": "2613",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2613-0"
+  },
+  {
+    "occupationCode": "2613",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 130,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2613-1"
+  },
+  {
+    "occupationCode": "2613",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2613-2"
+  },
+  {
+    "occupationCode": "2613",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2613-3"
+  },
+  {
+    "occupationCode": "2621",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2621-0"
+  },
+  {
+    "occupationCode": "2621",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 130,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2621-1"
+  },
+  {
+    "occupationCode": "2621",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2621-2"
+  },
+  {
+    "occupationCode": "2621",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2621-3"
+  },
+  {
+    "occupationCode": "2631",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2631-0"
+  },
+  {
+    "occupationCode": "2631",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2631-1"
+  },
+  {
+    "occupationCode": "2631",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2631-2"
+  },
+  {
+    "occupationCode": "2631",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2631-3"
+  },
+  {
+    "occupationCode": "2632",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2632-0"
+  },
+  {
+    "occupationCode": "2632",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 130,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2632-1"
+  },
+  {
+    "occupationCode": "2632",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2632-2"
+  },
+  {
+    "occupationCode": "2632",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2632-3"
+  },
+  {
+    "occupationCode": "2633",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2633-0"
+  },
+  {
+    "occupationCode": "2633",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2633-1"
+  },
+  {
+    "occupationCode": "2633",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2633-2"
+  },
+  {
+    "occupationCode": "2633",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2633-3"
+  },
+  {
+    "occupationCode": "2713",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2713-0"
+  },
+  {
+    "occupationCode": "2713",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2713-1"
+  },
+  {
+    "occupationCode": "2713",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2713-2"
+  },
+  {
+    "occupationCode": "2713",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2713-3"
+  },
+  {
+    "occupationCode": "2721",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2721-0"
+  },
+  {
+    "occupationCode": "2721",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2721-1"
+  },
+  {
+    "occupationCode": "2721",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2721-2"
+  },
+  {
+    "occupationCode": "2721",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2721-3"
+  },
+  {
+    "occupationCode": "2723",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2723-0"
+  },
+  {
+    "occupationCode": "2723",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2723-1"
+  },
+  {
+    "occupationCode": "2723",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2723-2"
+  },
+  {
+    "occupationCode": "2723",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2723-3"
+  },
+  {
+    "occupationCode": "2725",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2725-0"
+  },
+  {
+    "occupationCode": "2725",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2725-1"
+  },
+  {
+    "occupationCode": "2725",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2725-2"
+  },
+  {
+    "occupationCode": "2725",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2725-3"
+  },
+  {
+    "occupationCode": "2726",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2726-0"
+  },
+  {
+    "occupationCode": "2726",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 105,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-2726-1"
+  },
+  {
+    "occupationCode": "2726",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2726-2"
+  },
+  {
+    "occupationCode": "2726",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-2726-3"
+  },
+  {
+    "occupationCode": "3112",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3112-0"
+  },
+  {
+    "occupationCode": "3112",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 80,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3112-1"
+  },
+  {
+    "occupationCode": "3112",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3112-2"
+  },
+  {
+    "occupationCode": "3112",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3112-3"
+  },
+  {
+    "occupationCode": "3114",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3114-0"
+  },
+  {
+    "occupationCode": "3114",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3114-1"
+  },
+  {
+    "occupationCode": "3114",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3114-2"
+  },
+  {
+    "occupationCode": "3114",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3114-3"
+  },
+  {
+    "occupationCode": "3121",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3121-0"
+  },
+  {
+    "occupationCode": "3121",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3121-1"
+  },
+  {
+    "occupationCode": "3121",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3121-2"
+  },
+  {
+    "occupationCode": "3121",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3121-3"
+  },
+  {
+    "occupationCode": "3122",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3122-0"
+  },
+  {
+    "occupationCode": "3122",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 120,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3122-1"
+  },
+  {
+    "occupationCode": "3122",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3122-2"
+  },
+  {
+    "occupationCode": "3122",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3122-3"
+  },
+  {
+    "occupationCode": "3123",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3123-0"
+  },
+  {
+    "occupationCode": "3123",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3123-1"
+  },
+  {
+    "occupationCode": "3123",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3123-2"
+  },
+  {
+    "occupationCode": "3123",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3123-3"
+  },
+  {
+    "occupationCode": "3125",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3125-0"
+  },
+  {
+    "occupationCode": "3125",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3125-1"
+  },
+  {
+    "occupationCode": "3125",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3125-2"
+  },
+  {
+    "occupationCode": "3125",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3125-3"
+  },
+  {
+    "occupationCode": "3129",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3129-0"
+  },
+  {
+    "occupationCode": "3129",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3129-1"
+  },
+  {
+    "occupationCode": "3129",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3129-2"
+  },
+  {
+    "occupationCode": "3129",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3129-3"
+  },
+  {
+    "occupationCode": "3131",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3131-0"
+  },
+  {
+    "occupationCode": "3131",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3131-1"
+  },
+  {
+    "occupationCode": "3131",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3131-2"
+  },
+  {
+    "occupationCode": "3131",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3131-3"
+  },
+  {
+    "occupationCode": "3132",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3132-0"
+  },
+  {
+    "occupationCode": "3132",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3132-1"
+  },
+  {
+    "occupationCode": "3132",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3132-2"
+  },
+  {
+    "occupationCode": "3132",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3132-3"
+  },
+  {
+    "occupationCode": "3211",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3211-0"
+  },
+  {
+    "occupationCode": "3211",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3211-1"
+  },
+  {
+    "occupationCode": "3211",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3211-2"
+  },
+  {
+    "occupationCode": "3211",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3211-3"
+  },
+  {
+    "occupationCode": "3212",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3212-0"
+  },
+  {
+    "occupationCode": "3212",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 110,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3212-1"
+  },
+  {
+    "occupationCode": "3212",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3212-2"
+  },
+  {
+    "occupationCode": "3212",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3212-3"
+  },
+  {
+    "occupationCode": "3231",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3231-0"
+  },
+  {
+    "occupationCode": "3231",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3231-1"
+  },
+  {
+    "occupationCode": "3231",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3231-2"
+  },
+  {
+    "occupationCode": "3231",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3231-3"
+  },
+  {
+    "occupationCode": "3232",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3232-0"
+  },
+  {
+    "occupationCode": "3232",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3232-1"
+  },
+  {
+    "occupationCode": "3232",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3232-2"
+  },
+  {
+    "occupationCode": "3232",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3232-3"
+  },
+  {
+    "occupationCode": "3233",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3233-0"
+  },
+  {
+    "occupationCode": "3233",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3233-1"
+  },
+  {
+    "occupationCode": "3233",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3233-2"
+  },
+  {
+    "occupationCode": "3233",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3233-3"
+  },
+  {
+    "occupationCode": "3241",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3241-0"
+  },
+  {
+    "occupationCode": "3241",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3241-1"
+  },
+  {
+    "occupationCode": "3241",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3241-2"
+  },
+  {
+    "occupationCode": "3241",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3241-3"
+  },
+  {
+    "occupationCode": "3242",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3242-0"
+  },
+  {
+    "occupationCode": "3242",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3242-1"
+  },
+  {
+    "occupationCode": "3242",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3242-2"
+  },
+  {
+    "occupationCode": "3242",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3242-3"
+  },
+  {
+    "occupationCode": "3243",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3243-0"
+  },
+  {
+    "occupationCode": "3243",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3243-1"
+  },
+  {
+    "occupationCode": "3243",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3243-2"
+  },
+  {
+    "occupationCode": "3243",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3243-3"
+  },
+  {
+    "occupationCode": "3311",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3311-0"
+  },
+  {
+    "occupationCode": "3311",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3311-1"
+  },
+  {
+    "occupationCode": "3311",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3311-2"
+  },
+  {
+    "occupationCode": "3311",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3311-3"
+  },
+  {
+    "occupationCode": "3312",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3312-0"
+  },
+  {
+    "occupationCode": "3312",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 100,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3312-1"
+  },
+  {
+    "occupationCode": "3312",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3312-2"
+  },
+  {
+    "occupationCode": "3312",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3312-3"
+  },
+  {
+    "occupationCode": "3321",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3321-0"
+  },
+  {
+    "occupationCode": "3321",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3321-1"
+  },
+  {
+    "occupationCode": "3321",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3321-2"
+  },
+  {
+    "occupationCode": "3321",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3321-3"
+  },
+  {
+    "occupationCode": "3322",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3322-0"
+  },
+  {
+    "occupationCode": "3322",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 100,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3322-1"
+  },
+  {
+    "occupationCode": "3322",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3322-2"
+  },
+  {
+    "occupationCode": "3322",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3322-3"
+  },
+  {
+    "occupationCode": "3331",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3331-0"
+  },
+  {
+    "occupationCode": "3331",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3331-1"
+  },
+  {
+    "occupationCode": "3331",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3331-2"
+  },
+  {
+    "occupationCode": "3331",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3331-3"
+  },
+  {
+    "occupationCode": "3332",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3332-0"
+  },
+  {
+    "occupationCode": "3332",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3332-1"
+  },
+  {
+    "occupationCode": "3332",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3332-2"
+  },
+  {
+    "occupationCode": "3332",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3332-3"
+  },
+  {
+    "occupationCode": "3333",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3333-0"
+  },
+  {
+    "occupationCode": "3333",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3333-1"
+  },
+  {
+    "occupationCode": "3333",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3333-2"
+  },
+  {
+    "occupationCode": "3333",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3333-3"
+  },
+  {
+    "occupationCode": "3334",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3334-0"
+  },
+  {
+    "occupationCode": "3334",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3334-1"
+  },
+  {
+    "occupationCode": "3334",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3334-2"
+  },
+  {
+    "occupationCode": "3334",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3334-3"
+  },
+  {
+    "occupationCode": "3341",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3341-0"
+  },
+  {
+    "occupationCode": "3341",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3341-1"
+  },
+  {
+    "occupationCode": "3341",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3341-2"
+  },
+  {
+    "occupationCode": "3341",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3341-3"
+  },
+  {
+    "occupationCode": "3411",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3411-0"
+  },
+  {
+    "occupationCode": "3411",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3411-1"
+  },
+  {
+    "occupationCode": "3411",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3411-2"
+  },
+  {
+    "occupationCode": "3411",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3411-3"
+  },
+  {
+    "occupationCode": "3421",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3421-0"
+  },
+  {
+    "occupationCode": "3421",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3421-1"
+  },
+  {
+    "occupationCode": "3421",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3421-2"
+  },
+  {
+    "occupationCode": "3421",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3421-3"
+  },
+  {
+    "occupationCode": "3422",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3422-0"
+  },
+  {
+    "occupationCode": "3422",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3422-1"
+  },
+  {
+    "occupationCode": "3422",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3422-2"
+  },
+  {
+    "occupationCode": "3422",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3422-3"
+  },
+  {
+    "occupationCode": "3424",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3424-0"
+  },
+  {
+    "occupationCode": "3424",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3424-1"
+  },
+  {
+    "occupationCode": "3424",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3424-2"
+  },
+  {
+    "occupationCode": "3424",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3424-3"
+  },
+  {
+    "occupationCode": "3512",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3512-0"
+  },
+  {
+    "occupationCode": "3512",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3512-1"
+  },
+  {
+    "occupationCode": "3512",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3512-2"
+  },
+  {
+    "occupationCode": "3512",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3512-3"
+  },
+  {
+    "occupationCode": "3513",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3513-0"
+  },
+  {
+    "occupationCode": "3513",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 125,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3513-1"
+  },
+  {
+    "occupationCode": "3513",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3513-2"
+  },
+  {
+    "occupationCode": "3513",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3513-3"
+  },
+  {
+    "occupationCode": "3514",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3514-0"
+  },
+  {
+    "occupationCode": "3514",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 125,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-3514-1"
+  },
+  {
+    "occupationCode": "3514",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3514-2"
+  },
+  {
+    "occupationCode": "3514",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3514-3"
+  },
+  {
+    "occupationCode": "3613",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3613-0"
+  },
+  {
+    "occupationCode": "3613",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3613-1"
+  },
+  {
+    "occupationCode": "3613",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3613-2"
+  },
+  {
+    "occupationCode": "3613",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-3613-3"
+  },
+  {
+    "occupationCode": "4111",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4111-0"
+  },
+  {
+    "occupationCode": "4111",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-4111-1"
+  },
+  {
+    "occupationCode": "4111",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4111-2"
+  },
+  {
+    "occupationCode": "4111",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4111-3"
+  },
+  {
+    "occupationCode": "4112",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4112-0"
+  },
+  {
+    "occupationCode": "4112",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 65,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-4112-1"
+  },
+  {
+    "occupationCode": "4112",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4112-2"
+  },
+  {
+    "occupationCode": "4112",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4112-3"
+  },
+  {
+    "occupationCode": "4113",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4113-0"
+  },
+  {
+    "occupationCode": "4113",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 110,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-4113-1"
+  },
+  {
+    "occupationCode": "4113",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4113-2"
+  },
+  {
+    "occupationCode": "4113",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4113-3"
+  },
+  {
+    "occupationCode": "4114",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4114-0"
+  },
+  {
+    "occupationCode": "4114",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 90,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-4114-1"
+  },
+  {
+    "occupationCode": "4114",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4114-2"
+  },
+  {
+    "occupationCode": "4114",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4114-3"
+  },
+  {
+    "occupationCode": "4117",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4117-0"
+  },
+  {
+    "occupationCode": "4117",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": 80,
+    "pointsStatus": "published",
+    "existingRecordId": "act-2026-06-11-4117-1"
+  },
+  {
+    "occupationCode": "4117",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4117-2"
+  },
+  {
+    "occupationCode": "4117",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-4117-3"
+  },
+  {
+    "occupationCode": "5111",
+    "residence": "Canberra resident",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-5111-0"
+  },
+  {
+    "occupationCode": "5111",
+    "residence": "Canberra resident",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-5111-1"
+  },
+  {
+    "occupationCode": "5111",
+    "residence": "Overseas applicant",
+    "visaSubclass": "491",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-5111-2"
+  },
+  {
+    "occupationCode": "5111",
+    "residence": "Overseas applicant",
+    "visaSubclass": "190",
+    "points": null,
+    "pointsStatus": "not_considered",
+    "existingRecordId": "act-2026-06-11-5111-3"
+  }
+]

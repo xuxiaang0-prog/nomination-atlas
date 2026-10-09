@@ -1,0 +1,92 @@
+{
+  "checkedAt": "2026-10-09T03:55:28.141347+00:00",
+  "asOfDate": "2026-10-09",
+  "states": {
+    "WA": {
+      "latestInvitationPeriod": "2026-05",
+      "latestVerifiedInvitationDate": "2026-05-20",
+      "latestDisclosedOccupationSource": "wa-may2026",
+      "latestDatasetUpdated": false,
+      "newImportRecords": 0,
+      "granularity": "six_digit_occupation, points only, occupational counts not published",
+      "pointsBasis": "last_invited_eoi_points",
+      "latestRoundOccupations": 13,
+      "latestRoundRecords": 18,
+      "latestKnownFullOccupationCoverage": 181,
+      "recentPointExamples": [],
+      "note": "WA original live program HTML and latest May occupation PDF match existing SHA-256 bytes. No newer 2026-27 official invitation occupational release was verified. May summary stream counts conflict with monthly history: 209 vs 206 total; preserve conflict."
+    },
+    "ACT": {
+      "latestInvitationPeriod": "2026-06",
+      "latestVerifiedInvitationDate": "2026-06-11",
+      "latestDisclosedOccupationSource": "act-rankings",
+      "latestDatasetUpdated": false,
+      "newImportRecords": 0,
+      "granularity": "four_digit_unit_group, Matrix points; counts only at pathway/residency/subclass level",
+      "pointsBasis": "canberra_matrix",
+      "latestRoundGroups": 105,
+      "latestRoundCells": 420,
+      "publishedPointCells": 83,
+      "notConsideredCells": 337,
+      "independentOriginalPdfCellsCompared": 420,
+      "comparisonDiscrepancies": 0,
+      "countsBySubclass": {
+        "190": 77,
+        "491": 5
+      },
+      "occupationCountsPublished": false,
+      "nextTentativeRound": "Week starting 12 October 2026 (Subclass 190 only)",
+      "note": "Upcoming 12 October schedule is future on review date and is not a completed round. Original 23-page PDF downloaded successfully; usable as stronger source snapshot than existing retrieved text."
+    },
+    "SA": {
+      "latestInvitationPeriod": "2026-05",
+      "latestVerifiedInvitationDate": "2026-05-21",
+      "latestDisclosedOccupationSource": "sa-late-may-2026",
+      "latestDatasetUpdated": false,
+      "newImportRecords": 0,
+      "granularity": "two_digit_sub_major_group counts, no invited EOI point scores",
+      "pointsBasis": "not_reported",
+      "latestRoundGroups": 17,
+      "countsBySubclass": {
+        "190": 161,
+        "491": 77
+      },
+      "ytdCountsBySubclass": {
+        "190": 1767,
+        "491": 1086
+      },
+      "comparisonDiscrepancies": 0,
+      "note": "Live category index and article bytes match existing snapshots. Article says final scheduled 2025-26 round, further activity may occur; no newer official release located in bounded check."
+    },
+    "TAS": {
+      "latestInvitationPeriod": "2026-10",
+      "latestVerifiedInvitationDate": "2026-10-08",
+      "latestDisclosedOccupationSource": "tas-current-2026-10-08",
+      "latestDatasetUpdated": false,
+      "newImportRecords": 0,
+      "granularity": "all_occupations subclass and priority-pass totals, not occupational counts",
+      "pointsBasis": "tasmania_priority_score",
+      "countsBySubclass": {
+        "190": 37,
+        "491": 24
+      },
+      "lowestInvitedPriorityPoints": {
+        "190": 323,
+        "491": 89
+      },
+      "priorityPassCounts": {
+        "190_gold": 13,
+        "190_green": 24,
+        "491_gold": 2,
+        "491_further": 22
+      },
+      "rollingThreeMonthLowestAtAssessment": {
+        "190": 440,
+        "491": 81
+      },
+      "note": "8 October page update, round date and original current stats independently verified. Rolling assessment score is separate from this round score. Do not sum priority-pass subset counts with subclass total."
+    }
+  },
+  "newRecords": [],
+  "allStatesUnchanged": true
+}
