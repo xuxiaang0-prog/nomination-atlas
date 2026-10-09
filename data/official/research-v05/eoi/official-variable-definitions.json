@@ -1,0 +1,289 @@
+{
+  "vShowSubmittedOn": {
+    "handle": 11,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "82ec8d77-7f4e-4957-844e-8e029766b953",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowSubmittedOn",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowOccupationGroups": {
+    "handle": 12,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "e03ed23d-1c85-4b0f-a783-fc6610b8c256",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowOccupationGroups",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowOccupations": {
+    "handle": 13,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "a12dcc02-2568-4d26-b95d-efdf6fdd29d7",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowOccupations",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowPoints": {
+    "handle": 14,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "1a6bce1d-0540-488d-8dad-a6a4c1fe2525",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowPoints",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowPartnerSkillsScore": {
+    "handle": 15,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "97d4baa1-0c1d-4012-8890-7fd63accf5d3",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowPartnerSkillsScore",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowEnglishLanguageScore": {
+    "handle": 16,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "7c16c0ae-e09d-471e-8d06-dd11f55fc654",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowEnglishLanguageScore",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowAustralianStudy": {
+    "handle": 17,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "04c9ad4f-812d-4326-b20d-0f91ce1dc59f",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowAustralianStudy",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowRegionalStudy": {
+    "handle": 18,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "ab14bc32-110d-488f-9917-009eeb4792e4",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowRegionalStudy",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowSpecialistEducation": {
+    "handle": 19,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "d78b5b0a-6a64-4380-b182-c5bc6766e630",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowSpecialistEducation",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowEOINomState": {
+    "handle": 20,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "60cb33c4-c22e-40f1-9e45-6d59e1d87854",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowEOINomState",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowEduCommLanguageQual": {
+    "handle": 21,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "ecbcfb89-de6d-4666-9f98-6383aa183ac0",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowEduCommLanguageQual",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vShowEmpProfessionalYear": {
+    "handle": 22,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "55a9c74b-de59-4668-9fef-8fa7cb5ba289",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vShowEmpProfessionalYear",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "N"
+      }
+    }
+  },
+  "vSelectionsLimit": {
+    "handle": 23,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "af06b88d-5472-47c0-811d-21700da09da6",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vSelectionsLimit",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "2"
+      }
+    }
+  },
+  "vFiltersCounter": {
+    "handle": 24,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "697357ac-c7b1-463e-8746-7850b0256302",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vFiltersCounter",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "=if('$(vShowOccupationGroups)'='Y',1,0)\r\n+if('$(vShowOccupations)'='Y',1,0)\n+if('$(vShowPoints)'='Y',1,0)\n+if('$(vShowSubmittedOn)'='Y',1,0)\n+if('$(vShowPartnerSkillsScore)'='Y',1,0)\n+if('$(vShowEnglishLanguageScore)'='Y',1,0)\n+if('$(vShowAustralianStudy)'='Y',1,0)\n+if('$(vShowRegionalStudy)'='Y',1,0)\n+if('$(vShowSpecialistEducation)'='Y',1,0)\n+if('$(vShowEOINomState)'='Y',1,0)\n+if('$(vShowEduCommLanguageQual)'='Y',1,0)\n+if('$(vShowEmpProfessionalYear)'='Y',1,0)",
+        "tags": []
+      }
+    }
+  },
+  "vSelectionsCounter": {
+    "handle": 25,
+    "properties": {
+      "qProp": {
+        "qInfo": {
+          "qId": "dcabc662-ec23-4323-b527-9b8e476d3542",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "qName": "vSelectionsCounter",
+        "qNumberPresentation": {
+          "qType": "U",
+          "qnDec": 10,
+          "qUseThou": 0
+        },
+        "qDefinition": "=if(isnull(GetFieldSelections(\"Occupation Group\")),0,1)\r\n+if(isnull(GetFieldSelections(\"Occupation\")),0,1)\n+if(isnull(GetFieldSelections(\"Score\")),0,1) \n+if(isnull(GetFieldSelections(\"Month Submitted\")),0,1)\n+if(isnull(GetFieldSelections(\"PartnerSkills Score\")),0,1) \n+if(isnull(GetFieldSelections(\"English Test Score\")),0,1)\n+if(isnull(GetFieldSelections(\"Australian Study Flag\")),0,1) \n+if(isnull(GetFieldSelections(\"Regional Study\")),0,1)\n+if(isnull(GetFieldSelections(\"Specialist Education\")),0,1)\n+if(isnull(GetFieldSelections(\"Nominated State\")),0,1)\n+if(isnull(GetFieldSelections(\"Comm Language Qual\")),0,1)\n+if(isnull(GetFieldSelections(\"Professional Year\")),0,1)",
+        "tags": []
+      }
+    }
+  }
+}

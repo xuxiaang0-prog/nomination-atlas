@@ -1,0 +1,6990 @@
+{
+  "qDataPages": [
+    {
+      "qMatrix": [
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "134499 Education Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 332,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "139914 Quality Assurance Manager",
+            "qNum": "NaN",
+            "qElemNumber": 191,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "141111 Cafe or Restaurant Manager",
+            "qNum": "NaN",
+            "qElemNumber": 38,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221112 Management Accountant",
+            "qNum": "NaN",
+            "qElemNumber": 57,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "221112 Management Accountant",
+            "qNum": "NaN",
+            "qElemNumber": 57,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "225113 Marketing Specialist",
+            "qNum": "NaN",
+            "qElemNumber": 33,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233211 Civil Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233211 Civil Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233211 Civil Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233214 Structural Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 27,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233214 Structural Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 27,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233311 Electrical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 18,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233411 Electronics Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 77,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233512 Mechanical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233512 Mechanical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233512 Mechanical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233611 Mining Engineer (excluding Petroleum)",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233611 Mining Engineer (excluding Petroleum)",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233914 Engineering Technologist",
+            "qNum": "NaN",
+            "qElemNumber": 45,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233914 Engineering Technologist",
+            "qNum": "NaN",
+            "qElemNumber": 45,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "233914 Engineering Technologist",
+            "qNum": "NaN",
+            "qElemNumber": 45,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "234611 Medical Laboratory Scientist",
+            "qNum": "NaN",
+            "qElemNumber": 79,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "234611 Medical Laboratory Scientist",
+            "qNum": "NaN",
+            "qElemNumber": 79,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "241111 Early Childhood (Pre-primary School) Teacher",
+            "qNum": "NaN",
+            "qElemNumber": 138,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "241111 Early Childhood (Pre-primary School) Teacher",
+            "qNum": "NaN",
+            "qElemNumber": 138,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "241111 Early Childhood (Pre-primary School) Teacher",
+            "qNum": "NaN",
+            "qElemNumber": 138,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "95",
+            "qNum": 95,
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "241411 Secondary School Teacher",
+            "qNum": "NaN",
+            "qElemNumber": 139,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "251513 Retail Pharmacist",
+            "qNum": "NaN",
+            "qElemNumber": 104,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "251911 Health Promotion Officer",
+            "qNum": "NaN",
+            "qElemNumber": 35,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "254499 Registered Nurses nec",
+            "qNum": "NaN",
+            "qElemNumber": 186,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "261313 Software Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "261313 Software Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "262112 ICT Security Specialist",
+            "qNum": "NaN",
+            "qElemNumber": 23,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "263212 ICT Support Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 55,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "272314 Psychotherapist",
+            "qNum": "NaN",
+            "qElemNumber": 281,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "272511 Social Worker",
+            "qNum": "NaN",
+            "qElemNumber": 188,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "272511 Social Worker",
+            "qNum": "NaN",
+            "qElemNumber": 188,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "272613 Welfare Worker",
+            "qNum": "NaN",
+            "qElemNumber": 133,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "272613 Welfare Worker",
+            "qNum": "NaN",
+            "qElemNumber": 133,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "272613 Welfare Worker",
+            "qNum": "NaN",
+            "qElemNumber": 133,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "351311 Chef",
+            "qNum": "NaN",
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "351311 Chef",
+            "qNum": "NaN",
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "351311 Chef",
+            "qNum": "NaN",
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "351411 Cook",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "190SAS Skilled Australian Sponsored",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "S"
+          },
+          {
+            "qText": "511111 Contract Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 75,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "121221 Vegetable Grower",
+            "qNum": "NaN",
+            "qElemNumber": 212,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "121221 Vegetable Grower",
+            "qNum": "NaN",
+            "qElemNumber": 212,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "95",
+            "qNum": 95,
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "132211 Finance Manager",
+            "qNum": "NaN",
+            "qElemNumber": 47,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "132211 Finance Manager",
+            "qNum": "NaN",
+            "qElemNumber": 47,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "132311 Human Resource Manager",
+            "qNum": "NaN",
+            "qElemNumber": 19,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "132511 Research and Development Manager",
+            "qNum": "NaN",
+            "qElemNumber": 272,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "133111 Construction Project Manager",
+            "qNum": "NaN",
+            "qElemNumber": 43,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "133611 Supply and Distribution Manager",
+            "qNum": "NaN",
+            "qElemNumber": 148,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "133611 Supply and Distribution Manager",
+            "qNum": "NaN",
+            "qElemNumber": 148,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "133611 Supply and Distribution Manager",
+            "qNum": "NaN",
+            "qElemNumber": 148,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "133611 Supply and Distribution Manager",
+            "qNum": "NaN",
+            "qElemNumber": 148,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "133611 Supply and Distribution Manager",
+            "qNum": "NaN",
+            "qElemNumber": 148,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "134299 Health and Welfare Services Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 115,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "134299 Health and Welfare Services Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 115,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "134299 Health and Welfare Services Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 115,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "134299 Health and Welfare Services Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 115,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "134299 Health and Welfare Services Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 115,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "134499 Education Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 332,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "134499 Education Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 332,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "139914 Quality Assurance Manager",
+            "qNum": "NaN",
+            "qElemNumber": 191,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "139999 Specialist Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 304,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "139999 Specialist Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 304,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "141311 Hotel or Motel Manager",
+            "qNum": "NaN",
+            "qElemNumber": 96,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "141311 Hotel or Motel Manager",
+            "qNum": "NaN",
+            "qElemNumber": 96,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "141999 Accommodation and Hospitality Managers nec",
+            "qNum": "NaN",
+            "qElemNumber": 270,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "221111 Accountant (General)",
+            "qNum": "NaN",
+            "qElemNumber": 16,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "100",
+            "qNum": 100,
+            "qElemNumber": 9,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "221112 Management Accountant",
+            "qNum": "NaN",
+            "qElemNumber": 57,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "221113 Taxation Accountant",
+            "qNum": "NaN",
+            "qElemNumber": 25,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "221213 External Auditor",
+            "qNum": "NaN",
+            "qElemNumber": 20,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "221213 External Auditor",
+            "qNum": "NaN",
+            "qElemNumber": 20,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "100",
+            "qNum": 100,
+            "qElemNumber": 9,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "223112 Recruitment Consultant",
+            "qNum": "NaN",
+            "qElemNumber": 13,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "223112 Recruitment Consultant",
+            "qNum": "NaN",
+            "qElemNumber": 13,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "225113 Marketing Specialist",
+            "qNum": "NaN",
+            "qElemNumber": 33,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "225113 Marketing Specialist",
+            "qNum": "NaN",
+            "qElemNumber": 33,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "225113 Marketing Specialist",
+            "qNum": "NaN",
+            "qElemNumber": 33,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "232112 Landscape Architect",
+            "qNum": "NaN",
+            "qElemNumber": 158,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "232112 Landscape Architect",
+            "qNum": "NaN",
+            "qElemNumber": 158,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "232212 Surveyor",
+            "qNum": "NaN",
+            "qElemNumber": 107,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233211 Civil Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233311 Electrical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 18,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "105",
+            "qNum": 105,
+            "qElemNumber": 12,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233511 Industrial Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 39,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233512 Mechanical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233611 Mining Engineer (excluding Petroleum)",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233611 Mining Engineer (excluding Petroleum)",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233611 Mining Engineer (excluding Petroleum)",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233611 Mining Engineer (excluding Petroleum)",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233913 Biomedical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 67,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233913 Biomedical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 67,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233913 Biomedical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 67,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233913 Biomedical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 67,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233913 Biomedical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 67,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "95",
+            "qNum": 95,
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233913 Biomedical Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 67,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "100",
+            "qNum": 100,
+            "qElemNumber": 9,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "233914 Engineering Technologist",
+            "qNum": "NaN",
+            "qElemNumber": 45,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "234611 Medical Laboratory Scientist",
+            "qNum": "NaN",
+            "qElemNumber": 79,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "234611 Medical Laboratory Scientist",
+            "qNum": "NaN",
+            "qElemNumber": 79,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "234611 Medical Laboratory Scientist",
+            "qNum": "NaN",
+            "qElemNumber": 79,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "242111 University Lecturer",
+            "qNum": "NaN",
+            "qElemNumber": 8,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "251312 Occupational Health and Safety Adviser",
+            "qNum": "NaN",
+            "qElemNumber": 89,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "251312 Occupational Health and Safety Adviser",
+            "qNum": "NaN",
+            "qElemNumber": 89,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "251511 Hospital Pharmacist",
+            "qNum": "NaN",
+            "qElemNumber": 201,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "251511 Hospital Pharmacist",
+            "qNum": "NaN",
+            "qElemNumber": 201,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "251511 Hospital Pharmacist",
+            "qNum": "NaN",
+            "qElemNumber": 201,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "105",
+            "qNum": 105,
+            "qElemNumber": 12,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "254499 Registered Nurses nec",
+            "qNum": "NaN",
+            "qElemNumber": 186,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261111 ICT Business Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 37,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261112 Systems Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 44,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261112 Systems Analyst",
+            "qNum": "NaN",
+            "qElemNumber": 44,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261313 Software Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261313 Software Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "261313 Software Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "262113 Systems Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 9,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "262113 Systems Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 9,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "263112 Network Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 106,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "263212 ICT Support Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 55,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "263212 ICT Support Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 55,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "263212 ICT Support Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 55,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "263212 ICT Support Engineer",
+            "qNum": "NaN",
+            "qElemNumber": 55,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "95",
+            "qNum": 95,
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "272115 Student Counsellor",
+            "qNum": "NaN",
+            "qElemNumber": 325,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "272612 Recreation Officer",
+            "qNum": "NaN",
+            "qElemNumber": 163,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "272613 Welfare Worker",
+            "qNum": "NaN",
+            "qElemNumber": 133,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "311215 Pharmacy Technician",
+            "qNum": "NaN",
+            "qElemNumber": 247,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "311215 Pharmacy Technician",
+            "qNum": "NaN",
+            "qElemNumber": 247,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "311215 Pharmacy Technician",
+            "qNum": "NaN",
+            "qElemNumber": 247,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "311215 Pharmacy Technician",
+            "qNum": "NaN",
+            "qElemNumber": 247,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312111 Architectural Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 116,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312111 Architectural Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 116,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312111 Architectural Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 116,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312111 Architectural Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 116,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312211 Civil Engineering Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 83,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312211 Civil Engineering Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 83,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312211 Civil Engineering Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 83,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312211 Civil Engineering Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 83,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312211 Civil Engineering Draftsperson",
+            "qNum": "NaN",
+            "qElemNumber": 83,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312212 Civil Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 81,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312212 Civil Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 81,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312212 Civil Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 81,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312212 Civil Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 81,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312212 Civil Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 81,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312212 Civil Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 81,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "90",
+            "qNum": 90,
+            "qElemNumber": 6,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312212 Civil Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 81,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "95",
+            "qNum": 95,
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312512 Mechanical Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 120,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "312512 Mechanical Engineering Technician",
+            "qNum": "NaN",
+            "qElemNumber": 120,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "323211 Fitter (General)",
+            "qNum": "NaN",
+            "qElemNumber": 50,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "323211 Fitter (General)",
+            "qNum": "NaN",
+            "qElemNumber": 50,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "351111 Baker",
+            "qNum": "NaN",
+            "qElemNumber": 78,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "351112 Pastrycook",
+            "qNum": "NaN",
+            "qElemNumber": 180,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "351311 Chef",
+            "qNum": "NaN",
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "351311 Chef",
+            "qNum": "NaN",
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "351411 Cook",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "391111 Hairdresser",
+            "qNum": "NaN",
+            "qElemNumber": 165,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "391111 Hairdresser",
+            "qNum": "NaN",
+            "qElemNumber": 165,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "391111 Hairdresser",
+            "qNum": "NaN",
+            "qElemNumber": 165,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "75",
+            "qNum": 75,
+            "qElemNumber": 1,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "391111 Hairdresser",
+            "qNum": "NaN",
+            "qElemNumber": 165,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "391111 Hairdresser",
+            "qNum": "NaN",
+            "qElemNumber": 165,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "85",
+            "qNum": 85,
+            "qElemNumber": 5,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "411311 Diversional Therapist",
+            "qNum": "NaN",
+            "qElemNumber": 250,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511111 Contract Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 75,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511111 Contract Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 75,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511111 Contract Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 75,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511111 Contract Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 75,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "95",
+            "qNum": 95,
+            "qElemNumber": 7,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511111 Contract Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 75,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "100",
+            "qNum": 100,
+            "qElemNumber": 9,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511112 Program or Project Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 32,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "65",
+            "qNum": 65,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511112 Program or Project Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 32,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "70",
+            "qNum": 70,
+            "qElemNumber": 2,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "511112 Program or Project Administrator",
+            "qNum": "NaN",
+            "qElemNumber": 32,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ],
+        [
+          {
+            "qText": "09/2026",
+            "qNum": 46295,
+            "qElemNumber": 0,
+            "qState": "O"
+          },
+          {
+            "qText": "491SNR State or Territory Nominated - Regional",
+            "qNum": "NaN",
+            "qElemNumber": 1,
+            "qState": "S"
+          },
+          {
+            "qText": "612112 Property Manager",
+            "qNum": "NaN",
+            "qElemNumber": 68,
+            "qState": "O"
+          },
+          {
+            "qText": "INVITED",
+            "qNum": "NaN",
+            "qElemNumber": 3,
+            "qState": "S"
+          },
+          {
+            "qText": "80",
+            "qNum": 80,
+            "qElemNumber": 3,
+            "qState": "O"
+          },
+          {
+            "qText": "<20",
+            "qNum": "NaN",
+            "qElemNumber": 0,
+            "qState": "L"
+          }
+        ]
+      ],
+      "qTails": [
+        {
+          "qUp": 0,
+          "qDown": 0
+        },
+        {
+          "qUp": 0,
+          "qDown": 0
+        },
+        {
+          "qUp": 0,
+          "qDown": 0
+        },
+        {
+          "qUp": 0,
+          "qDown": 0
+        },
+        {
+          "qUp": 0,
+          "qDown": 0
+        }
+      ],
+      "qArea": {
+        "qLeft": 0,
+        "qTop": 0,
+        "qWidth": 6,
+        "qHeight": 183
+      }
+    }
+  ]
+}

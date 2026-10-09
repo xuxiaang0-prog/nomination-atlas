@@ -1,0 +1,105 @@
+{
+  "primarySource": true,
+  "allEightStatesPresent": true,
+  "rowCount": 325,
+  "perState": {
+    "ACT": {
+      "pointBandRows": 6,
+      "occupations": 4,
+      "occupationTotalRows": 6
+    },
+    "NSW": {
+      "pointBandRows": 8,
+      "occupations": 5,
+      "occupationTotalRows": 8
+    },
+    "NT": {
+      "pointBandRows": 183,
+      "occupations": 66,
+      "occupationTotalRows": 85
+    },
+    "QLD": {
+      "pointBandRows": 9,
+      "occupations": 6,
+      "occupationTotalRows": 9
+    },
+    "SA": {
+      "pointBandRows": 4,
+      "occupations": 3,
+      "occupationTotalRows": 4
+    },
+    "TAS": {
+      "pointBandRows": 65,
+      "occupations": 32,
+      "occupationTotalRows": 46
+    },
+    "VIC": {
+      "pointBandRows": 3,
+      "occupations": 2,
+      "occupationTotalRows": 3
+    },
+    "WA": {
+      "pointBandRows": 47,
+      "occupations": 18,
+      "occupationTotalRows": 28
+    }
+  },
+  "countStatuses": {
+    "suppressed_below_20": 325
+  },
+  "maskedRawQNumKinds": [
+    "NaN"
+  ],
+  "duplicatePointBandKeys": 0,
+  "separateAnyPointRows": 8,
+  "stateTotalsSeparateQuery": true,
+  "occupationTotalsSeparateQuery": true,
+  "noMaskedCountEstimated": true,
+  "noMonthlySum": true,
+  "rawFileHashes": {
+    "official-invited-ACT-data.json": {
+      "sha256": "98383c9b0310305538f7ae808515ece398ba987062c44ebf5b0608a356612a9f",
+      "bytes": 5940
+    },
+    "official-invited-NSW-data.json": {
+      "sha256": "f45f7fa83fbcc8133c11a31bc460429c08d374a4480f6c72597ac4925fdecaec",
+      "bytes": 7757
+    },
+    "official-invited-NT-data.json": {
+      "sha256": "089bb38f27ee3247703f3fcbd158e5703f67cdd7f71601bdec76615f340f8498",
+      "bytes": 166481
+    },
+    "official-invited-QLD-data.json": {
+      "sha256": "c90e8beb78dc8c49bdcdbdcd0573a0ee0414d709e03f2fd707ef31ef961d209f",
+      "bytes": 8691
+    },
+    "official-invited-SA-data.json": {
+      "sha256": "d5692668fbedade22330dcdaef5bec27004fdb03a3d44dce940ac572aaa595b9",
+      "bytes": 4120
+    },
+    "official-invited-TAS-data.json": {
+      "sha256": "a269f3d70068c09eb9fa1e26beb8f93f453051e8102815d42f16a7d44c2b20f3",
+      "bytes": 59211
+    },
+    "official-invited-VIC-data.json": {
+      "sha256": "896bba88bee9981c5c0f3a53f8f1c218666a49d9d194e9e93b2d37af770dd151",
+      "bytes": 3215
+    },
+    "official-invited-WA-data.json": {
+      "sha256": "8bded4fa78a025861978e0757b0dc3d5fc2b526bf54b1d7a79a545867222f1aa",
+      "bytes": 42869
+    },
+    "official-invited-ANY-data.json": {
+      "sha256": "147aa2d9f3ba372c2573a71bbafc0438f11abc0ab104b70f57023304ffadd901",
+      "bytes": 7753
+    },
+    "official-invited-state-totals-data.json": {
+      "sha256": "3132da1aa972edf952d9be9791924c6817a0061d028d01a4ceac06e688832b9e",
+      "bytes": 13836
+    },
+    "official-invited-occupation-totals-data.json": {
+      "sha256": "d8fef96a59bf0c43aba02f8ef23b47b8af22f10cc3ca62740581aa80309a42a8",
+      "bytes": 179391
+    }
+  }
+}

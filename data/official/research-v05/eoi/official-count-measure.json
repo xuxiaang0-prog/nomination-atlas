@@ -1,0 +1,26 @@
+{
+  "qProp": {
+    "qInfo": {
+      "qId": "fPpzEmW",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Count EOIs",
+      "qDef": "IF((COUNT(DISTINCT %EOIID) < vMinCountMask)\r\nAND (COUNT(DISTINCT %EOIID)>0),'<'&'$(vMinCountMask)',\nCOUNT(DISTINCT %EOIID))",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      },
+      "coloring": {}
+    },
+    "qMetaDef": {
+      "title": "Count EOIs",
+      "description": "",
+      "tags": []
+    }
+  }
+}

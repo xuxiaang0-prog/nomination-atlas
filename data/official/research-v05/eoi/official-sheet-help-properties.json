@@ -1,0 +1,46 @@
+{
+  "qProp": {
+    "qInfo": {
+      "qId": "d8e3c4e6-6e84-42d2-bf62-82a2bab79d63",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Help and How To's",
+      "description": "This sheet contains some basic help - how to navigate and use Qlik"
+    },
+    "rank": 2.265625,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 27,
+    "cells": [
+      {
+        "name": "YvjARJ",
+        "type": "text-image",
+        "col": 0,
+        "row": 0,
+        "colspan": 22,
+        "rowspan": 27,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 91.66666666666666,
+          "height": 100
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST",
+      "extendable": true,
+      "sheetMode": "RESPONSIVE"
+    },
+    "height": 225
+  }
+}
