@@ -1,0 +1,27 @@
+{
+  "datasetVersion": "official-2026-10-09-v4",
+  "historyRowsUnchanged": 9719,
+  "currentActivityRows": 5299,
+  "sources": 55,
+  "datasets": [
+    {
+      "id": "dha-primary-lodged-fy2025-26",
+      "rows": 2165,
+      "occupations": 372
+    },
+    {
+      "id": "skillselect-invited-2026-09",
+      "rows": 325,
+      "occupations": 88
+    },
+    {
+      "id": "skillselect-invited-2026-06",
+      "rows": 2809,
+      "occupations": 242
+    }
+  ],
+  "actJuneCellsVerified": 420,
+  "suppressedValuesNeverEstimated": true,
+  "noMonthlySnapshotSums": true,
+  "previousReleaseArchived": "official-2026-10-09-v3.json"
+}
