@@ -1,0 +1,1757 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "Api | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://127.0.0.1:5080/"
+    }
+  ],
+  "paths": {
+    "/health/live": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/health/ready": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/history": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HistoryData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/states": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfStatesData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/coverage": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfStatesData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/states/{state}/overview": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "state",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfStateOverview"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/states/{state}/observations": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "state",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfListOfMetricValue"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/states/{state}/top-occupations": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "state",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfTopData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/occupations/search": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfListOfOccupationSummary"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/occupations/{id}": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfOccupationData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/occupations/{id}/observations": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfOccupationData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/occupations/{id}/distribution": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfDistributionData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/occupations/{id}/annual-trend": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfTrendData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/sources/{source}/versions/{version}": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "parameters": [
+          {
+            "name": "source",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "version",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfSourceData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/query/interpret": {
+      "post": {
+        "tags": [
+          "Api"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InterpretRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfInterpretation"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/answers": {
+      "post": {
+        "tags": [
+          "Api"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AnswerRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnvelopeOfAnswerData"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AnswerData": {
+        "required": [
+          "answerMode",
+          "summary",
+          "facts",
+          "limitations",
+          "missingInputs"
+        ],
+        "type": "object",
+        "properties": {
+          "answerMode": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string"
+          },
+          "facts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MetricValue"
+            }
+          },
+          "limitations": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "missingInputs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "AnswerRequest": {
+        "required": [
+          "question",
+          "state",
+          "visaSubclass",
+          "programYear",
+          "mode",
+          "locale"
+        ],
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string"
+          },
+          "state": {
+            "type": "string"
+          },
+          "visaSubclass": {
+            "type": "string"
+          },
+          "programYear": {
+            "type": "string"
+          },
+          "mode": {
+            "type": "string"
+          },
+          "locale": {
+            "type": "string"
+          },
+          "occupationId": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "datasetVersion": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "confirmed": {
+            "type": "boolean",
+            "default": false
+          }
+        },
+        "additionalProperties": false
+      },
+      "Citation": {
+        "required": [
+          "sourceId",
+          "sourceVersionId",
+          "title",
+          "publisher",
+          "url",
+          "locator",
+          "retrievedAt",
+          "publishedAt",
+          "isDemo"
+        ],
+        "type": "object",
+        "properties": {
+          "sourceId": {
+            "type": "string"
+          },
+          "sourceVersionId": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "url": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "locator": {
+            "type": "string"
+          },
+          "retrievedAt": {
+            "type": "string"
+          },
+          "publishedAt": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "isDemo": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "DistributionData": {
+        "required": [
+          "status",
+          "chartAllowed",
+          "denominator",
+          "denominatorDefinition",
+          "cohortKind",
+          "reason",
+          "bins"
+        ],
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "chartAllowed": {
+            "type": "boolean"
+          },
+          "denominator": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "null",
+              "integer",
+              "string"
+            ],
+            "format": "int64"
+          },
+          "denominatorDefinition": {
+            "type": "string"
+          },
+          "cohortKind": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "bins": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PercentageRow"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfAnswerData": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/AnswerData"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfDistributionData": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/DistributionData"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfInterpretation": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/Interpretation"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfListOfMetricValue": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MetricValue"
+            }
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfListOfOccupationSummary": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/OccupationSummary"
+            }
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfOccupationData": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/OccupationData"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfSourceData": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/SourceData"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfStateOverview": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/StateOverview"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfStatesData": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/StatesData"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfTopData": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/TopData"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnvelopeOfTrendData": {
+        "required": [
+          "data",
+          "meta",
+          "sources",
+          "warnings"
+        ],
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/TrendData"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "HistoryData": {
+        "required": [
+          "datasetVersion",
+          "createdAt",
+          "records",
+          "sources",
+          "coverage",
+          "methodology",
+          "stats",
+          "nominations",
+          "guides",
+          "recentActivity"
+        ],
+        "type": "object",
+        "properties": {
+          "datasetVersion": {
+            "type": "string"
+          },
+          "createdAt": {
+            "type": "string"
+          },
+          "records": {
+            "type": "array"
+          },
+          "sources": {
+            "type": "array"
+          },
+          "coverage": {
+            "type": "array"
+          },
+          "methodology": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "stats": {
+            "$ref": "#/components/schemas/JsonElement"
+          },
+          "nominations": {
+            "type": "array"
+          },
+          "guides": {
+            "type": "array"
+          },
+          "recentActivity": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/JsonElement"
+              }
+            ]
+          }
+        },
+        "additionalProperties": false
+      },
+      "Interpretation": {
+        "required": [
+          "intent",
+          "occupationCandidates",
+          "stateCandidates",
+          "visaSubclass",
+          "programYear",
+          "needsClarification",
+          "missingInputs"
+        ],
+        "type": "object",
+        "properties": {
+          "intent": {
+            "type": "string"
+          },
+          "occupationCandidates": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/OccupationSummary"
+            }
+          },
+          "stateCandidates": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "visaSubclass": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "programYear": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "needsClarification": {
+            "type": "boolean"
+          },
+          "missingInputs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "InterpretRequest": {
+        "required": [
+          "text"
+        ],
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "locale": {
+            "type": "string",
+            "default": "zh"
+          },
+          "mode": {
+            "type": "string",
+            "default": "verified_historical"
+          }
+        },
+        "additionalProperties": false
+      },
+      "JsonElement": {},
+      "Meta": {
+        "required": [
+          "datasetVersion",
+          "isDemo",
+          "generatedAt",
+          "coverageStatus",
+          "definition"
+        ],
+        "type": "object",
+        "properties": {
+          "datasetVersion": {
+            "type": "string"
+          },
+          "isDemo": {
+            "type": "boolean"
+          },
+          "generatedAt": {
+            "type": "string"
+          },
+          "coverageStatus": {
+            "type": "string"
+          },
+          "definition": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "MetricValue": {
+        "required": [
+          "id",
+          "metricType",
+          "value",
+          "unit",
+          "status",
+          "nullReason",
+          "programYear",
+          "visaSubclass",
+          "eventDate",
+          "periodStart",
+          "periodEnd",
+          "pointsBasis",
+          "occupationId",
+          "sourceVersionId",
+          "locator",
+          "eoiEffectiveAt",
+          "state",
+          "stream",
+          "residenceCategory",
+          "classificationVersion",
+          "roundId",
+          "asOfDate"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "metricType": {
+            "type": "string"
+          },
+          "value": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "null",
+              "number",
+              "string"
+            ],
+            "format": "double"
+          },
+          "unit": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "nullReason": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "programYear": {
+            "type": "string"
+          },
+          "visaSubclass": {
+            "type": "string"
+          },
+          "eventDate": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "periodStart": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "periodEnd": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "pointsBasis": {
+            "type": "string"
+          },
+          "occupationId": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "sourceVersionId": {
+            "type": "string"
+          },
+          "locator": {
+            "type": "string"
+          },
+          "eoiEffectiveAt": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "state": {
+            "type": "string"
+          },
+          "stream": {
+            "type": "string"
+          },
+          "residenceCategory": {
+            "type": "string"
+          },
+          "classificationVersion": {
+            "type": "string"
+          },
+          "roundId": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "asOfDate": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "additionalProperties": false
+      },
+      "OccupationData": {
+        "required": [
+          "occupation",
+          "observations",
+          "status"
+        ],
+        "type": "object",
+        "properties": {
+          "occupation": {
+            "$ref": "#/components/schemas/OccupationSummary"
+          },
+          "observations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MetricValue"
+            }
+          },
+          "status": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "OccupationSummary": {
+        "required": [
+          "id",
+          "system",
+          "version",
+          "code",
+          "title",
+          "titleZh"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "system": {
+            "type": "string"
+          },
+          "version": {
+            "type": "string"
+          },
+          "code": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "titleZh": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PercentageRow": {
+        "required": [
+          "lower",
+          "upper",
+          "count",
+          "status",
+          "percentage"
+        ],
+        "type": "object",
+        "properties": {
+          "lower": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "number",
+              "string"
+            ],
+            "format": "double"
+          },
+          "upper": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "number",
+              "string"
+            ],
+            "format": "double"
+          },
+          "count": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "null",
+              "integer",
+              "string"
+            ],
+            "format": "int64"
+          },
+          "status": {
+            "type": "string"
+          },
+          "percentage": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "null",
+              "number",
+              "string"
+            ],
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RankedItem": {
+        "required": [
+          "occupationId",
+          "code",
+          "title",
+          "titleZh",
+          "value",
+          "rank",
+          "sourceVersionId",
+          "locator",
+          "eoiEffectiveAt"
+        ],
+        "type": "object",
+        "properties": {
+          "occupationId": {
+            "type": "string"
+          },
+          "code": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "titleZh": {
+            "type": "string"
+          },
+          "value": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "number",
+              "string"
+            ],
+            "format": "double"
+          },
+          "rank": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int64"
+          },
+          "sourceVersionId": {
+            "type": "string"
+          },
+          "locator": {
+            "type": "string"
+          },
+          "eoiEffectiveAt": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "additionalProperties": false
+      },
+      "ScopeChoice": {
+        "required": [
+          "id",
+          "roundId",
+          "stream",
+          "residenceCategory",
+          "pointsBasis",
+          "classificationVersion",
+          "eventDate"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "roundId": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "stream": {
+            "type": "string"
+          },
+          "residenceCategory": {
+            "type": "string"
+          },
+          "pointsBasis": {
+            "type": "string"
+          },
+          "classificationVersion": {
+            "type": "string"
+          },
+          "eventDate": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "additionalProperties": false
+      },
+      "SourceData": {
+        "required": [
+          "sourceId",
+          "sourceVersionId",
+          "title",
+          "publisher",
+          "url",
+          "termsUrl",
+          "license",
+          "hash",
+          "retrievedAt",
+          "publishedAt",
+          "effectiveDate",
+          "decisionDate",
+          "snapshotScope",
+          "reviewNote",
+          "datasetVersions"
+        ],
+        "type": "object",
+        "properties": {
+          "sourceId": {
+            "type": "string"
+          },
+          "sourceVersionId": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "url": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "termsUrl": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "license": {
+            "type": "string"
+          },
+          "hash": {
+            "type": "string"
+          },
+          "retrievedAt": {
+            "type": "string"
+          },
+          "publishedAt": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "effectiveDate": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "decisionDate": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "snapshotScope": {
+            "type": "string"
+          },
+          "reviewNote": {
+            "type": "string"
+          },
+          "datasetVersions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "StateOverview": {
+        "required": [
+          "code",
+          "nameEn",
+          "nameZh",
+          "policyStatus",
+          "policySummary",
+          "allocations",
+          "scopes",
+          "visaSubclasses"
+        ],
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string"
+          },
+          "nameEn": {
+            "type": "string"
+          },
+          "nameZh": {
+            "type": "string"
+          },
+          "policyStatus": {
+            "type": "string"
+          },
+          "policySummary": {
+            "type": "string"
+          },
+          "allocations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MetricValue"
+            }
+          },
+          "scopes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ScopeChoice"
+            }
+          },
+          "visaSubclasses": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "StatesData": {
+        "required": [
+          "items",
+          "programYears",
+          "versions"
+        ],
+        "type": "object",
+        "properties": {
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/StateSummary"
+            }
+          },
+          "programYears": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "versions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "StateSummary": {
+        "required": [
+          "code",
+          "nameEn",
+          "nameZh",
+          "coverageStatus",
+          "allocation190",
+          "allocation491",
+          "publishedOccupationObservations"
+        ],
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string"
+          },
+          "nameEn": {
+            "type": "string"
+          },
+          "nameZh": {
+            "type": "string"
+          },
+          "coverageStatus": {
+            "type": "string"
+          },
+          "allocation190": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "null",
+              "number",
+              "string"
+            ],
+            "format": "double"
+          },
+          "allocation491": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "null",
+              "number",
+              "string"
+            ],
+            "format": "double"
+          },
+          "publishedOccupationObservations": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TopData": {
+        "required": [
+          "status",
+          "title",
+          "metricType",
+          "items",
+          "tieCount",
+          "publishedRecords",
+          "reason"
+        ],
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "metricType": {
+            "type": "string"
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/RankedItem"
+            }
+          },
+          "tieCount": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "publishedRecords": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "reason": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "additionalProperties": false
+      },
+      "TrendData": {
+        "required": [
+          "status",
+          "metricType",
+          "unit",
+          "items",
+          "reason"
+        ],
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "metricType": {
+            "type": "string"
+          },
+          "unit": {
+            "type": "string"
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TrendPoint"
+            }
+          },
+          "reason": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "additionalProperties": false
+      },
+      "TrendPoint": {
+        "required": [
+          "programYear",
+          "value",
+          "periodEnd",
+          "isYtd"
+        ],
+        "type": "object",
+        "properties": {
+          "programYear": {
+            "type": "string"
+          },
+          "value": {
+            "pattern": "^-?(?:0|[1-9]\\d*)(?:\\.\\d+)?$",
+            "type": [
+              "number",
+              "string"
+            ],
+            "format": "double"
+          },
+          "periodEnd": {
+            "type": "string"
+          },
+          "isYtd": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Api"
+    }
+  ]
+}

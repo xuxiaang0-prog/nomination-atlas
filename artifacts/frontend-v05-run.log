@@ -1,0 +1,14 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> nomination-atlas-web@0.5.0 test
+> vitest run
+
+
+ RUN  v4.1.11 /workspace/scratch/9dc4f3e8f75a/recovered/source/NominationAtlas/apps/web
+
+
+ Test Files  2 passed (2)
+      Tests  53 passed (53)
+   Start at  01:10:35
+   Duration  12.19s (transform 801ms, setup 245ms, import 2.05s, tests 10.45s, environment 1.63s)
+

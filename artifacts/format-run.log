@@ -1,0 +1,5 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+apps/web/src/OccupationBoard.tsx 297ms
+apps/web/src/App.tsx 175ms
+apps/web/src/App.test.tsx 57ms
+apps/web/src/styles.css 212ms

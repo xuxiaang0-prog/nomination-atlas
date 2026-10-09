@@ -1,0 +1,26 @@
+PASS C# valid program year 2025-26
+PASS C# valid program year 2026-27
+PASS C# valid program year 2099-00
+PASS C# invalid program year 2025-27
+PASS C# invalid program year 2025/26
+PASS C# invalid program year 25-26
+PASS C# invalid program year 2025-2026
+PASS C# invalid program year abcd-ef
+PASS C# 8 distinct jurisdictions
+PASS C# Unicode search normalization
+PASS C# stable UUID identity
+PASS C# SHA-256 known vector
+PASS C# state 190 allowed
+PASS C# state 491 allowed
+PASS C# family 491 excluded
+PASS C# 189 excluded
+PASS C# zero can be an observed value
+PASS C# missing is null plus reason
+PASS C# suppressed remains unknown
+PASS C# missing cannot be zero
+PASS C# count cannot be fractional
+PASS C# negative value excluded
+PASS C# points have bounded value
+PASS C# unknown metric excluded
+PASS C# JSON retains missing and demo metadata
+25 C# checks passed

@@ -1,0 +1,137 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> nomination-atlas-tools@0.5.0 verify:local
+> node scripts/verify.mjs
+
+Applying EF migration and C# seed on PostgreSQL WASM engine…
+Seed completed
+
+Reapplying identical release to verify idempotency…
+PASS official history import, source membership and idempotent record count
+PASS state nominations preserve date, EOI units and historical-index provenance
+PASS suppressed state counts remain null; Tasmania current counts remain exact
+PASS 2019 FOI keeps eight-state coverage and invitation stage separate
+PASS FOI sources never import overlapping cross-checks or alter point values
+PASS recent official activity survives database and API without becoming invitations
+PASS EOI and application privacy markers retain their different limits
+PASS independent occupation and state snapshot totals do not estimate score masks
+PASS WA Analyst Programmer keeps actual scores, unknown counts and unsplit visas
+PASS ACT unit groups and Tasmania priority scores cannot become EOI thresholds
+PASS SA ICT invitations stay at two-digit group level
+PASS source conflicts and ambiguous ACT extraction are preserved
+PASS official history rejects demo mode and unknown releases
+PASS read-only database health
+PASS 16 official allocation cells and 8 jurisdictions
+PASS demo isolation has no copied official allocations
+PASS legacy exact-subclass ranking does not invent a WA visa split
+PASS round confirmation is mandatory
+PASS invalid textual limit returns a typed 400
+PASS mixed scope rejected
+PASS Top5 stable order, dense ranks and boundary tie
+PASS fewer than five observations are not padded
+PASS bilingual aliases and classification version
+PASS published release v1 stays 35; v2 corrects to 40
+PASS complete sample percentage calculated by SQL
+PASS unknown denominator withholds percentages
+PASS suppressed bins remain null and cannot be inferred
+PASS last invited is not a distribution
+PASS annual SQL flow totals and separate YTD
+PASS stock metric cannot be summed as an annual flow
+PASS invalid consecutive year rejected
+PASS family 491 and unrelated visa rejected
+PASS dataset mode mismatch is not a fallback
+PASS source is confined to selected release and mode
+PASS ambiguous occupation requires clarification
+PASS WA and ACT are not extracted from software/contract
+PASS answer requires explicit scope confirmation
+PASS template answers work without external model credentials
+PASS unmapped JSON is rejected rather than ignored
+PASS question rate limit yields 429 and Retry-After
+PASS database access failure becomes 503 ProblemDetails
+PASS SQL published fact update
+PASS SQL published fact deletion
+PASS SQL published release membership insertion
+PASS SQL published release membership deletion
+PASS SQL published membership cannot move into draft
+PASS SQL published evidence cannot move into draft
+PASS SQL published distribution cannot move into draft
+PASS SQL published source modification
+PASS SQL published evidence deletion
+PASS SQL published scope modification
+PASS SQL published occupation label modification
+PASS SQL published distribution modification
+PASS SQL published distribution bin modification
+PASS SQL release metadata frozen
+PASS SQL publication audit is append-only
+PASS SQL retraction cannot become published
+PASS SQL mode mismatch on draft membership
+PASS SQL missing value is not zero
+PASS SQL count must be integer
+PASS SQL nullable unique scope does not allow duplicates
+PASS SQL read-only role rejects writes
+PASS SQL official membership exactly 16
+PASS SQL old revision unchanged
+PASS SQL new revision selected
+PASS published official rows cannot be modified
+PASS published official sources cannot be deleted
+PASS published official release cannot be changed
+PASS reader can select official evidence but cannot write
+{
+  "date": "2026-10-09T04:09:51.162Z",
+  "engine": "PostgreSQL 18.3 via PGlite 0.5.8; EF migration and C# seed executed through TCP adapter",
+  "apiChecks": 41,
+  "sqlChecks": 24,
+  "officialSqlChecks": 4,
+  "officialHistory": {
+    "records": 9719,
+    "sources": 55
+  },
+  "passed": [
+    "official history import, source membership and idempotent record count",
+    "state nominations preserve date, EOI units and historical-index provenance",
+    "suppressed state counts remain null; Tasmania current counts remain exact",
+    "2019 FOI keeps eight-state coverage and invitation stage separate",
+    "FOI sources never import overlapping cross-checks or alter point values",
+    "recent official activity survives database and API without becoming invitations",
+    "EOI and application privacy markers retain their different limits",
+    "independent occupation and state snapshot totals do not estimate score masks",
+    "WA Analyst Programmer keeps actual scores, unknown counts and unsplit visas",
+    "ACT unit groups and Tasmania priority scores cannot become EOI thresholds",
+    "SA ICT invitations stay at two-digit group level",
+    "source conflicts and ambiguous ACT extraction are preserved",
+    "official history rejects demo mode and unknown releases",
+    "read-only database health",
+    "16 official allocation cells and 8 jurisdictions",
+    "demo isolation has no copied official allocations",
+    "legacy exact-subclass ranking does not invent a WA visa split",
+    "round confirmation is mandatory",
+    "invalid textual limit returns a typed 400",
+    "mixed scope rejected",
+    "Top5 stable order, dense ranks and boundary tie",
+    "fewer than five observations are not padded",
+    "bilingual aliases and classification version",
+    "published release v1 stays 35; v2 corrects to 40",
+    "complete sample percentage calculated by SQL",
+    "unknown denominator withholds percentages",
+    "suppressed bins remain null and cannot be inferred",
+    "last invited is not a distribution",
+    "annual SQL flow totals and separate YTD",
+    "stock metric cannot be summed as an annual flow",
+    "invalid consecutive year rejected",
+    "family 491 and unrelated visa rejected",
+    "dataset mode mismatch is not a fallback",
+    "source is confined to selected release and mode",
+    "ambiguous occupation requires clarification",
+    "WA and ACT are not extracted from software/contract",
+    "answer requires explicit scope confirmation",
+    "template answers work without external model credentials",
+    "unmapped JSON is rejected rather than ignored",
+    "question rate limit yields 429 and Retry-After",
+    "database access failure becomes 503 ProblemDetails"
+  ],
+  "limitations": [
+    "Native PostgreSQL/Docker run not performed",
+    "Browser visual QA not performed",
+    "No external deployment or Gemini integration"
+  ]
+}

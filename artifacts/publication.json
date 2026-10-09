@@ -1,0 +1,19 @@
+{
+  "publishedAt": "2026-10-09T06:16:02.870810+00:00",
+  "platform": "Sites",
+  "access": "public",
+  "url": "https://nomination-atlas-sam-xu.xuxiaang0.chatgpt.site",
+  "status": "succeeded",
+  "projectId": "appgprj_6ac885cd961c8191aaee3b5c915c084a",
+  "versionId": "appgprj_6ac885cd961c8191aaee3b5c915c084a~appgver_1c587be39f0c8191b458630a6099504e",
+  "deploymentId": "appgdep_6ac8868d3c9081918163032179497b2a",
+  "sourceCommit": "6592a29086d1e9d6ee6aa699c121b8a3e2b83205",
+  "datasetVersion": "official-2026-10-09-v4",
+  "release": "0.5.0",
+  "hostingMode": "static HTML with inline React application and verified API snapshot",
+  "liveBackend": false,
+  "automaticDataUpdates": false,
+  "githubRepository": null,
+  "githubPagesWorkflowExecuted": false,
+  "verificationBasis": "Successful native Sites publish result; browser visual QA not performed"
+}
