@@ -1,0 +1,448 @@
+{
+  "rawRows": 3416,
+  "occupations": 150,
+  "parsedPages": 69,
+  "companionPages": 69,
+  "pageCounts": [
+    {
+      "page": 1,
+      "rowCount": 40,
+      "companionPage": 70,
+      "companionRowCount": 40
+    },
+    {
+      "page": 2,
+      "rowCount": 50,
+      "companionPage": 71,
+      "companionRowCount": 50
+    },
+    {
+      "page": 3,
+      "rowCount": 50,
+      "companionPage": 72,
+      "companionRowCount": 50
+    },
+    {
+      "page": 4,
+      "rowCount": 50,
+      "companionPage": 73,
+      "companionRowCount": 50
+    },
+    {
+      "page": 5,
+      "rowCount": 50,
+      "companionPage": 74,
+      "companionRowCount": 50
+    },
+    {
+      "page": 6,
+      "rowCount": 50,
+      "companionPage": 75,
+      "companionRowCount": 50
+    },
+    {
+      "page": 7,
+      "rowCount": 50,
+      "companionPage": 76,
+      "companionRowCount": 50
+    },
+    {
+      "page": 8,
+      "rowCount": 50,
+      "companionPage": 77,
+      "companionRowCount": 50
+    },
+    {
+      "page": 9,
+      "rowCount": 50,
+      "companionPage": 78,
+      "companionRowCount": 50
+    },
+    {
+      "page": 10,
+      "rowCount": 50,
+      "companionPage": 79,
+      "companionRowCount": 50
+    },
+    {
+      "page": 11,
+      "rowCount": 50,
+      "companionPage": 80,
+      "companionRowCount": 50
+    },
+    {
+      "page": 12,
+      "rowCount": 50,
+      "companionPage": 81,
+      "companionRowCount": 50
+    },
+    {
+      "page": 13,
+      "rowCount": 50,
+      "companionPage": 82,
+      "companionRowCount": 50
+    },
+    {
+      "page": 14,
+      "rowCount": 50,
+      "companionPage": 83,
+      "companionRowCount": 50
+    },
+    {
+      "page": 15,
+      "rowCount": 50,
+      "companionPage": 84,
+      "companionRowCount": 50
+    },
+    {
+      "page": 16,
+      "rowCount": 50,
+      "companionPage": 85,
+      "companionRowCount": 50
+    },
+    {
+      "page": 17,
+      "rowCount": 50,
+      "companionPage": 86,
+      "companionRowCount": 50
+    },
+    {
+      "page": 18,
+      "rowCount": 50,
+      "companionPage": 87,
+      "companionRowCount": 50
+    },
+    {
+      "page": 19,
+      "rowCount": 50,
+      "companionPage": 88,
+      "companionRowCount": 50
+    },
+    {
+      "page": 20,
+      "rowCount": 50,
+      "companionPage": 89,
+      "companionRowCount": 50
+    },
+    {
+      "page": 21,
+      "rowCount": 50,
+      "companionPage": 90,
+      "companionRowCount": 50
+    },
+    {
+      "page": 22,
+      "rowCount": 50,
+      "companionPage": 91,
+      "companionRowCount": 50
+    },
+    {
+      "page": 23,
+      "rowCount": 50,
+      "companionPage": 92,
+      "companionRowCount": 50
+    },
+    {
+      "page": 24,
+      "rowCount": 50,
+      "companionPage": 93,
+      "companionRowCount": 50
+    },
+    {
+      "page": 25,
+      "rowCount": 50,
+      "companionPage": 94,
+      "companionRowCount": 50
+    },
+    {
+      "page": 26,
+      "rowCount": 50,
+      "companionPage": 95,
+      "companionRowCount": 50
+    },
+    {
+      "page": 27,
+      "rowCount": 50,
+      "companionPage": 96,
+      "companionRowCount": 50
+    },
+    {
+      "page": 28,
+      "rowCount": 50,
+      "companionPage": 97,
+      "companionRowCount": 50
+    },
+    {
+      "page": 29,
+      "rowCount": 50,
+      "companionPage": 98,
+      "companionRowCount": 50
+    },
+    {
+      "page": 30,
+      "rowCount": 50,
+      "companionPage": 99,
+      "companionRowCount": 50
+    },
+    {
+      "page": 31,
+      "rowCount": 50,
+      "companionPage": 100,
+      "companionRowCount": 50
+    },
+    {
+      "page": 32,
+      "rowCount": 50,
+      "companionPage": 101,
+      "companionRowCount": 50
+    },
+    {
+      "page": 33,
+      "rowCount": 50,
+      "companionPage": 102,
+      "companionRowCount": 50
+    },
+    {
+      "page": 34,
+      "rowCount": 50,
+      "companionPage": 103,
+      "companionRowCount": 50
+    },
+    {
+      "page": 35,
+      "rowCount": 50,
+      "companionPage": 104,
+      "companionRowCount": 50
+    },
+    {
+      "page": 36,
+      "rowCount": 50,
+      "companionPage": 105,
+      "companionRowCount": 50
+    },
+    {
+      "page": 37,
+      "rowCount": 50,
+      "companionPage": 106,
+      "companionRowCount": 50
+    },
+    {
+      "page": 38,
+      "rowCount": 50,
+      "companionPage": 107,
+      "companionRowCount": 50
+    },
+    {
+      "page": 39,
+      "rowCount": 50,
+      "companionPage": 108,
+      "companionRowCount": 50
+    },
+    {
+      "page": 40,
+      "rowCount": 50,
+      "companionPage": 109,
+      "companionRowCount": 50
+    },
+    {
+      "page": 41,
+      "rowCount": 50,
+      "companionPage": 110,
+      "companionRowCount": 50
+    },
+    {
+      "page": 42,
+      "rowCount": 50,
+      "companionPage": 111,
+      "companionRowCount": 50
+    },
+    {
+      "page": 43,
+      "rowCount": 50,
+      "companionPage": 112,
+      "companionRowCount": 50
+    },
+    {
+      "page": 44,
+      "rowCount": 50,
+      "companionPage": 113,
+      "companionRowCount": 50
+    },
+    {
+      "page": 45,
+      "rowCount": 50,
+      "companionPage": 114,
+      "companionRowCount": 50
+    },
+    {
+      "page": 46,
+      "rowCount": 50,
+      "companionPage": 115,
+      "companionRowCount": 50
+    },
+    {
+      "page": 47,
+      "rowCount": 50,
+      "companionPage": 116,
+      "companionRowCount": 50
+    },
+    {
+      "page": 48,
+      "rowCount": 50,
+      "companionPage": 117,
+      "companionRowCount": 50
+    },
+    {
+      "page": 49,
+      "rowCount": 50,
+      "companionPage": 118,
+      "companionRowCount": 50
+    },
+    {
+      "page": 50,
+      "rowCount": 50,
+      "companionPage": 119,
+      "companionRowCount": 50
+    },
+    {
+      "page": 51,
+      "rowCount": 50,
+      "companionPage": 120,
+      "companionRowCount": 50
+    },
+    {
+      "page": 52,
+      "rowCount": 50,
+      "companionPage": 121,
+      "companionRowCount": 50
+    },
+    {
+      "page": 53,
+      "rowCount": 50,
+      "companionPage": 122,
+      "companionRowCount": 50
+    },
+    {
+      "page": 54,
+      "rowCount": 50,
+      "companionPage": 123,
+      "companionRowCount": 50
+    },
+    {
+      "page": 55,
+      "rowCount": 50,
+      "companionPage": 124,
+      "companionRowCount": 50
+    },
+    {
+      "page": 56,
+      "rowCount": 50,
+      "companionPage": 125,
+      "companionRowCount": 50
+    },
+    {
+      "page": 57,
+      "rowCount": 50,
+      "companionPage": 126,
+      "companionRowCount": 50
+    },
+    {
+      "page": 58,
+      "rowCount": 50,
+      "companionPage": 127,
+      "companionRowCount": 50
+    },
+    {
+      "page": 59,
+      "rowCount": 50,
+      "companionPage": 128,
+      "companionRowCount": 50
+    },
+    {
+      "page": 60,
+      "rowCount": 50,
+      "companionPage": 129,
+      "companionRowCount": 50
+    },
+    {
+      "page": 61,
+      "rowCount": 50,
+      "companionPage": 130,
+      "companionRowCount": 50
+    },
+    {
+      "page": 62,
+      "rowCount": 50,
+      "companionPage": 131,
+      "companionRowCount": 50
+    },
+    {
+      "page": 63,
+      "rowCount": 50,
+      "companionPage": 132,
+      "companionRowCount": 50
+    },
+    {
+      "page": 64,
+      "rowCount": 50,
+      "companionPage": 133,
+      "companionRowCount": 50
+    },
+    {
+      "page": 65,
+      "rowCount": 50,
+      "companionPage": 134,
+      "companionRowCount": 50
+    },
+    {
+      "page": 66,
+      "rowCount": 50,
+      "companionPage": 135,
+      "companionRowCount": 50
+    },
+    {
+      "page": 67,
+      "rowCount": 50,
+      "companionPage": 136,
+      "companionRowCount": 50
+    },
+    {
+      "page": 68,
+      "rowCount": 50,
+      "companionPage": 137,
+      "companionRowCount": 50
+    },
+    {
+      "page": 69,
+      "rowCount": 26,
+      "companionPage": 138,
+      "companionRowCount": 26
+    }
+  ],
+  "unparsedDataRows": 0,
+  "rawRowsDeduplicated": false,
+  "reason": "Each source row represents an EOI; identical columns may represent distinct EOIs.",
+  "secondarySourceId": "nsw-vic-foi-fa191200647",
+  "crossCheckedCells": 17104,
+  "disagreements": [],
+  "scoreCounts": {
+    "65": 279,
+    "70": 430,
+    "75": 599,
+    "80": 944,
+    "85": 760,
+    "90": 321,
+    "95": 74,
+    "100": 9
+  },
+  "suppressionInPrimarySource": false,
+  "classificationVersion": "Not stated in source; retained as null",
+  "metric": "skillselect_visa_application_invitation",
+  "periodStart": "2019-01-01",
+  "periodEnd": "2019-12-31",
+  "visualCheckedPages": [
+    1,
+    69
+  ],
+  "sourceSha256": "d734441cb313d38e8a3464c570293e69027e4e0c45e4845c53170cfa60f1a28d"
+}

@@ -1,0 +1,102 @@
+{
+  "state": "NSW",
+  "checkedAt": "2026-10-09",
+  "conclusion": "NSW 并非从无真实职业历史。当前常规州官网未找到2025–26或2026–27逐职业邀请分数与人数表，但 Home Affairs 已公开的2019年全年FOI包含六位具体职业、邀请日期和逐EOI积分。应把这份旧历史独立呈现，不能用它推测当前分数。",
+  "disclosureCategories": {
+    "officialExplicitlyNotPublished": {
+      "occupationalScoreAndCount": false,
+      "statement": "本次查到的 NSW 官方190、491、FAQ及披露索引中，没有找到明确表示不公布逐职业分数和邀请数量的原文。页面关于没有预定/公开邀请日期的表述，只关乎轮次日期，不能扩展成统计不披露政策。",
+      "sourceIds": ["nsw-190", "nsw-491", "nsw-faq"]
+    },
+    "searchedButNotFound": {
+      "statement": "在本次核查的NSW技能签证官网、FAQ、技能清单、NSW Treasury GIPA索引、NSW Data及Home Affairs近期FOI定向检索中，未找到可下载的2025–26/2026–27全职业邀请分数及邀请EOI数表。这是本次搜索覆盖的结果，不表示所有历史或其他档案均不存在。",
+      "periods": ["2025-26", "2026-27"],
+      "sourceIds": ["nsw-190", "nsw-491", "nsw-faq", "nsw-skills-lists", "nsw-treasury-disclosure-log"],
+      "searchLogFile": "search-log.json"
+    },
+    "actuallyAvailable": [
+      {
+        "sourceId": "nsw-foi-fa191201127",
+        "url": "https://www.homeaffairs.gov.au/foi/files/2020/fa-191201127-document-released.PDF",
+        "citationRef": "turn79view0",
+        "periodStart": "2019-01-01",
+        "periodEnd": "2019-12-31",
+        "publishedAt": "2020-02-06",
+        "metric": "skillselect_visa_application_invitation",
+        "visaSubclass": "190",
+        "occupationLevel": "occupation",
+        "codeDigits": 6,
+        "occupationCount": 150,
+        "eoiRows": 3416,
+        "points": "原表Subclass Score，逐EOI值；可派生区间、最低观察分数和分档分布，但不是官方公布的州提名最低邀请线。",
+        "counts": "按官方逐EOI行数计算，countStatus=derived_from_official_rows；不是独立申请人数、家属人数或获签人数。",
+        "classificationVersion": null,
+        "classificationNote": "原表有ANZSCO四位父组及六位职业，但未标明分类版本；不自行认定为ANZSCO2022。",
+        "rawRowsFile": "nsw-2019-raw-eois.json",
+        "occupationSummaryFile": "nsw-2019-occupation-summary.json",
+        "parseQaFile": "nsw-2019-parse-qa.json",
+        "parserFile": "parse_nsw_foi.py",
+        "validation": "138页中前69页含职业/邀请日期/分数，后69页是对应英语及居住国。3416行全部解析，保留相同值的不同EOI行。与另一官方FOI FA19/12/00647的17104个NSW日期×职业×积分单元格交叉验证，无差异。原始第1页、第69页已视觉核对。",
+        "displayLabel": "2019 历史档案 · NSW 190 · SkillSelect签证申请邀请",
+        "displayCaution": "这是2019年记录，不能代表当前门槛。EOI数量不等于独立人数；最低分是已披露记录中的最低值。"
+      },
+      {
+        "sourceId": "nsw-vic-foi-fa191200647",
+        "citationRef": "turn77view0",
+        "role": "Independent cross-check only for NSW; do not add to the raw invitation table because it overlaps the same 2019 EOIs.",
+        "periodStart": "2019-01-01",
+        "periodEnd": "2019-12-31",
+        "counts": "按日期、六位职业和65至100分档公布。小于5的数量为<5，不能转换为0或精确值；NSW计数以独立逐EOI原表统计而来，不是对脱敏数值猜测。"
+      },
+      {
+        "sourceId": "nsw-foi-fa190901701",
+        "citationRef": "turn53view0",
+        "role": "Corroborating narrow historical disclosure; overlaps the full-year source and must not be added to totals.",
+        "scope": "224711 Management Consultant，2019-07-01至09-25，3个邀请日的65–90积分档数量。85分在3个邀请日各<5，其他积分档显示0。第2页是签证申请递交数10，不是邀请数。"
+      },
+      {
+        "sourceId": "nsw-foi-fa191001713",
+        "citationRef": "turn53view1",
+        "role": "Corroborating narrow historical disclosure; overlaps the full-year source and must not be added to totals.",
+        "scope": "233915 Environmental Engineer，2019-01-01至10-26，共5条逐EOI邀请：80分3条，85分2条。"
+      }
+    ]
+  },
+  "publicProcessCopy": [
+    {
+      "title": "190：先提交EOI，再由NSW择优邀请",
+      "copy": "符合签证及NSW要求后，在SkillSelect提交EOI。NSW在同一ANZSCO四位职业组内，综合年龄、英语、学历、工作经验和积分择优。收到州邀请后须在14天内提交州提名申请；获州提名后再进入Home Affairs签证申请邀请阶段。",
+      "sourceIds": ["nsw-190", "nsw-faq"]
+    },
+    {
+      "title": "491：三条州提名路径，不能全部当同一种邀请轮次",
+      "copy": "Pathway 1面向符合要求的regional NSW在职申请人，Pathway 3面向符合要求的regional NSW毕业生，开放期间可申请州提名；Pathway 2需先提交EOI，再获Investment NSW邀请。Pathway 2获州邀请后同样须在14天内申请。",
+      "sourceIds": ["nsw-491"]
+    },
+    {
+      "title": "职业清单说明谁能被考虑，并非谁已获邀",
+      "copy": "NSW官方技能清单按四位ANZSCO职业组列出，190及491 Pathway 2/3使用各自清单；具体职业还须符合对应签证要求。491 Pathway 1不限NSW Regional Skills List。清单里没有职业获邀分数或人数，不能作为历史邀请记录。",
+      "sourceIds": ["nsw-skills-lists", "nsw-faq"]
+    }
+  ],
+  "currentStatus": {
+    "observedAt": "2026-10-09",
+    "copy": "核查时NSW190及491页面顶部均显示本期申请已关闭，名额已分配，后续配置待公布。页面该通知未给明确发布日期或财年，不能把它擅自标为2026–27关闭；仍须以原页最新通知为准。",
+    "sourceIds": ["nsw-190", "nsw-491"],
+    "statusDate": null,
+    "programYearOfClosureNotice": null,
+    "knownYearReference": "FAQ职业清单段落明确写2025–26。"
+  },
+  "gipaCheck": {
+    "sourceId": "nsw-treasury-disclosure-log",
+    "citationRef": "turn53view2",
+    "result": "找到2021年491相关条目（P21/547合同、P21/95 Regional Skilled Migration Visa），但索引没有可直接下载的职业分数/人数表，页面要求联系GIPA团队取件。未联系、未提交申请；不能声称这些条目内含当前职业邀请历史。"
+  },
+  "implementationRecommendations": [
+    "NSW也应展示职业榜与相同表头；明确将2019档案放入历史年份选择，且不冒充近期邀请。",
+    "职业榜可展示150个六位具体职业，按已披露最低观察积分高至低排列，每行同时给该年该职业获邀EOI数、最高分、分档分布与证据定位。",
+    "2025–26/2026–27的职业级数据缺口要如实显示；州级累计提名量不能均分给职业或重复放到每一职业。",
+    "默认不要混合2019签证申请邀请与2025/2026州提名邀请、提名量或签证获批量。",
+    "对于官方<5单元格保留<5；不当成0、1或5，亦不把已知原始EOI明细与重叠脱敏表累加。"
+  ]
+}

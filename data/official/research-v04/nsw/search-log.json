@@ -1,0 +1,129 @@
+{
+  "checkedAt": "2026-10-09",
+  "task": "NSW official occupational invitation disclosure, current/2025–26 and accessible historic FOI",
+  "searches": [
+    {
+      "engine": "system1",
+      "q": "site.nsw.gov.au skilled nominated visa 190 invitation rounds scores invitations occupation publish",
+      "refs": [
+        "turn43search0",
+        "turn43search3"
+      ]
+    },
+    {
+      "engine": "system1",
+      "q": "site.nsw.gov.au skilled work regional 491 pathways invitation selection criteria",
+      "refs": [
+        "turn43search1"
+      ]
+    },
+    {
+      "engine": "system2",
+      "q": "site:nsw.gov.au \"do not\" \"invitation rounds\" \"information\"",
+      "refs": [
+        "turn49search0"
+      ],
+      "result": "Contact page limits individual enquiries/timing; no statement of occupational-statistics nonpublication found."
+    },
+    {
+      "engine": "system2",
+      "q": "site:nsw.gov.au \"disclosure log\" \"skilled\" \"migration\"",
+      "refs": [
+        "turn49search1"
+      ],
+      "result": "Treasury GIPA index; 2021 491 entries only relevant items, no direct data files."
+    },
+    {
+      "engine": "system1",
+      "q": "site:homeaffairs.gov.au/foi/files/ \"New South Wales\" \"nominated\" \"points\"",
+      "refs": [
+        "turn50search10",
+        "turn50search14"
+      ],
+      "result": "2019 narrow occupational FOI PDFs found."
+    },
+    {
+      "engine": "system1",
+      "q": "site:data.nsw.gov.au \"skilled migration\"",
+      "result": "No relevant occupational invitation table found in results."
+    },
+    {
+      "engine": "system1",
+      "q": "site:homeaffairs.gov.au/foi/files/2025/ \"190\" \"New South Wales\" \"invited\"",
+      "result": "No relevant table in results."
+    },
+    {
+      "engine": "system1",
+      "q": "site:homeaffairs.gov.au/foi/files/2026/ \"190\" \"NSW\"",
+      "result": "No relevant table in results."
+    },
+    {
+      "engine": "system1",
+      "q": "site:homeaffairs.gov.au/foi/files/2024/ \"NSW\" \"Points\"",
+      "result": "Unrelated results; no relevant table."
+    },
+    {
+      "engine": "system1",
+      "q": "site:homeaffairs.gov.au/foi/files/2023/ \"New South Wales\" \"invitation\"",
+      "result": "No relevant table in results."
+    },
+    {
+      "engine": "system2",
+      "q": "site:homeaffairs.gov.au/foi \"NSW\" \"EOIs\" \"190\"",
+      "refs": [
+        "turn61search0",
+        "turn61search17"
+      ],
+      "result": "2020 FOI index lists full calendar-2019 NSW data."
+    },
+    {
+      "engine": "system2",
+      "q": "site:homeaffairs.gov.au/foi \"New South Wales\" \"invitations\" \"2025\"",
+      "refs": [
+        "turn61search3",
+        "turn61search4"
+      ],
+      "result": "State aggregate nominations; not occupation data."
+    },
+    {
+      "engine": "system2",
+      "q": "site:homeaffairs.gov.au/foi \"190\" \"New South Wales\" \"Point Score\"",
+      "refs": [
+        "turn61search15"
+      ],
+      "result": "2019 data only among relevant retrieved results."
+    }
+  ],
+  "retrievals": [
+    {
+      "url": "https://www.nsw.gov.au/visas-and-migration/skilled-visas/skilled-nominated-visa-subclass-190",
+      "ref": "turn44view1"
+    },
+    {
+      "url": "https://www.nsw.gov.au/visas-and-migration/skilled-visas/skilled-work-regional-visa-subclass-491",
+      "ref": "turn44view2"
+    },
+    {
+      "url": "https://www.nsw.gov.au/visas-and-migration/skilled-visas/common-questions-about-skilled-visas",
+      "ref": "turn44view0"
+    },
+    {
+      "url": "https://www.nsw.gov.au/visas-and-migration/skilled-visas/nsw-skills-lists",
+      "ref": "turn44view3"
+    },
+    {
+      "url": "https://www.homeaffairs.gov.au/foi/Pages/2020.aspx",
+      "ref": "turn64view0",
+      "note": "Web click failed; downloaded exact official HTML and parsed observed hrefs."
+    },
+    {
+      "url": "https://www.homeaffairs.gov.au/foi/files/2020/fa-191201127-document-released.PDF",
+      "ref": "turn79view0"
+    },
+    {
+      "url": "https://www.homeaffairs.gov.au/foi/files/2020/fa-191200647-documents-released.PDF",
+      "ref": "turn77view0"
+    }
+  ],
+  "limitation": "This bounded audit is not proof that no newer disclosure exists in every public source. No FOI or GIPA request was submitted and nobody was contacted."
+}
