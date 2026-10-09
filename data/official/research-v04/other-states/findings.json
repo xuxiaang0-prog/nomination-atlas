@@ -1,0 +1,1380 @@
+{
+  "checkedAt": "2026-10-09T02:48:31.885017+00:00",
+  "scope": "Official VIC / QLD / NT occupational invitation disclosure, including official FOI. TAS appears in the same official FOI and is retained. No third-party crowd reports imported.",
+  "usableDataset": {
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5",
+    "rawRowCount": 2847,
+    "aggregatedRowCount": 2193,
+    "stateOccupationGroupCount": 247,
+    "rawRowsByState": {
+      "VIC": 1549,
+      "TAS": 558,
+      "NT": 224,
+      "QLD": 516
+    },
+    "aggregateRowsByState": {
+      "NT": 187,
+      "QLD": 479,
+      "TAS": 437,
+      "VIC": 1090
+    },
+    "occupationGroupsByState": {
+      "NT": 41,
+      "QLD": 82,
+      "TAS": 59,
+      "VIC": 65
+    },
+    "dateRangeObserved": [
+      "2019-01-02",
+      "2019-09-06"
+    ],
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "aggregationKeys": [
+      "state",
+      "visaSubclass",
+      "roundDate",
+      "occupationCode",
+      "points",
+      "englishProficiencySourceValue"
+    ],
+    "pointDefinition": "Total points as requested; Points Score column. Source does not expressly say whether nomination points are included. No adjustment applied.",
+    "countDefinition": "Count of official primary-applicant EOI rows with exactly the stated aggregation keys. Not unique migrants, grants, or state ROI invitations. Identical rows are distinct listed EOIs and retained.",
+    "completeness": "All 41 pages parsed. Every row compared against independent PDF geometric extraction for date, code, state, points and English. Source is complete only within its stated period/states/visa, not current history.",
+    "pageAudit": [
+      {
+        "page": 1,
+        "parsedRows": 55,
+        "independentCoordinateRows": 55,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-01-02",
+        "lastRowDate": "2019-01-09",
+        "countsByState": {
+          "VIC": 34,
+          "TAS": 4,
+          "NT": 9,
+          "QLD": 8
+        }
+      },
+      {
+        "page": 2,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-01-09",
+        "lastRowDate": "2019-01-15",
+        "countsByState": {
+          "QLD": 10,
+          "NT": 1,
+          "VIC": 56,
+          "TAS": 3
+        }
+      },
+      {
+        "page": 3,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-01-15",
+        "lastRowDate": "2019-01-18",
+        "countsByState": {
+          "VIC": 41,
+          "TAS": 11,
+          "QLD": 15,
+          "NT": 3
+        }
+      },
+      {
+        "page": 4,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-01-18",
+        "lastRowDate": "2019-01-21",
+        "countsByState": {
+          "TAS": 17,
+          "VIC": 50,
+          "QLD": 2,
+          "NT": 1
+        }
+      },
+      {
+        "page": 5,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-01-22",
+        "lastRowDate": "2019-01-24",
+        "countsByState": {
+          "VIC": 42,
+          "QLD": 17,
+          "TAS": 6,
+          "NT": 5
+        }
+      },
+      {
+        "page": 6,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-01-25",
+        "lastRowDate": "2019-01-30",
+        "countsByState": {
+          "QLD": 15,
+          "TAS": 17,
+          "VIC": 32,
+          "NT": 6
+        }
+      },
+      {
+        "page": 7,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-01-30",
+        "lastRowDate": "2019-02-05",
+        "countsByState": {
+          "VIC": 23,
+          "NT": 10,
+          "TAS": 14,
+          "QLD": 23
+        }
+      },
+      {
+        "page": 8,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-02-05",
+        "lastRowDate": "2019-02-12",
+        "countsByState": {
+          "VIC": 19,
+          "QLD": 38,
+          "TAS": 11,
+          "NT": 2
+        }
+      },
+      {
+        "page": 9,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-02-12",
+        "lastRowDate": "2019-02-20",
+        "countsByState": {
+          "VIC": 25,
+          "QLD": 25,
+          "TAS": 11,
+          "NT": 9
+        }
+      },
+      {
+        "page": 10,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-02-20",
+        "lastRowDate": "2019-02-25",
+        "countsByState": {
+          "QLD": 24,
+          "VIC": 43,
+          "NT": 3
+        }
+      },
+      {
+        "page": 11,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-02-25",
+        "lastRowDate": "2019-03-01",
+        "countsByState": {
+          "VIC": 40,
+          "QLD": 14,
+          "NT": 4,
+          "TAS": 12
+        }
+      },
+      {
+        "page": 12,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-03-01",
+        "lastRowDate": "2019-03-06",
+        "countsByState": {
+          "TAS": 16,
+          "NT": 3,
+          "QLD": 14,
+          "VIC": 37
+        }
+      },
+      {
+        "page": 13,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-03-06",
+        "lastRowDate": "2019-03-08",
+        "countsByState": {
+          "TAS": 25,
+          "QLD": 10,
+          "VIC": 35
+        }
+      },
+      {
+        "page": 14,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-03-08",
+        "lastRowDate": "2019-03-14",
+        "countsByState": {
+          "QLD": 18,
+          "VIC": 17,
+          "NT": 8,
+          "TAS": 27
+        }
+      },
+      {
+        "page": 15,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-03-14",
+        "lastRowDate": "2019-03-18",
+        "countsByState": {
+          "VIC": 43,
+          "TAS": 14,
+          "QLD": 9,
+          "NT": 4
+        }
+      },
+      {
+        "page": 16,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-03-18",
+        "lastRowDate": "2019-03-25",
+        "countsByState": {
+          "VIC": 47,
+          "QLD": 13,
+          "TAS": 8,
+          "NT": 2
+        }
+      },
+      {
+        "page": 17,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-03-25",
+        "lastRowDate": "2019-03-27",
+        "countsByState": {
+          "VIC": 36,
+          "TAS": 31,
+          "QLD": 3
+        }
+      },
+      {
+        "page": 18,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-03-27",
+        "lastRowDate": "2019-04-03",
+        "countsByState": {
+          "VIC": 38,
+          "TAS": 13,
+          "QLD": 8,
+          "NT": 11
+        }
+      },
+      {
+        "page": 19,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-04-03",
+        "lastRowDate": "2019-04-09",
+        "countsByState": {
+          "VIC": 49,
+          "TAS": 6,
+          "QLD": 8,
+          "NT": 7
+        }
+      },
+      {
+        "page": 20,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-04-09",
+        "lastRowDate": "2019-04-16",
+        "countsByState": {
+          "VIC": 61,
+          "TAS": 6,
+          "QLD": 3
+        }
+      },
+      {
+        "page": 21,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-04-16",
+        "lastRowDate": "2019-04-18",
+        "countsByState": {
+          "VIC": 43,
+          "QLD": 3,
+          "TAS": 24
+        }
+      },
+      {
+        "page": 22,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-04-18",
+        "lastRowDate": "2019-04-24",
+        "countsByState": {
+          "VIC": 61,
+          "QLD": 1,
+          "TAS": 7,
+          "NT": 1
+        }
+      },
+      {
+        "page": 23,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-04-24",
+        "lastRowDate": "2019-05-03",
+        "countsByState": {
+          "VIC": 42,
+          "TAS": 13,
+          "NT": 4,
+          "QLD": 11
+        }
+      },
+      {
+        "page": 24,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-05-03",
+        "lastRowDate": "2019-05-10",
+        "countsByState": {
+          "VIC": 23,
+          "QLD": 26,
+          "TAS": 17,
+          "NT": 4
+        }
+      },
+      {
+        "page": 25,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-05-10",
+        "lastRowDate": "2019-05-21",
+        "countsByState": {
+          "QLD": 36,
+          "TAS": 16,
+          "VIC": 13,
+          "NT": 5
+        }
+      },
+      {
+        "page": 26,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-05-21",
+        "lastRowDate": "2019-05-24",
+        "countsByState": {
+          "TAS": 21,
+          "VIC": 43,
+          "QLD": 5,
+          "NT": 1
+        }
+      },
+      {
+        "page": 27,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-05-27",
+        "lastRowDate": "2019-06-03",
+        "countsByState": {
+          "VIC": 22,
+          "TAS": 19,
+          "NT": 6,
+          "QLD": 23
+        }
+      },
+      {
+        "page": 28,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-03",
+        "lastRowDate": "2019-06-05",
+        "countsByState": {
+          "QLD": 28,
+          "VIC": 16,
+          "NT": 8,
+          "TAS": 18
+        }
+      },
+      {
+        "page": 29,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-05",
+        "lastRowDate": "2019-06-10",
+        "countsByState": {
+          "QLD": 27,
+          "VIC": 37,
+          "NT": 2,
+          "TAS": 4
+        }
+      },
+      {
+        "page": 30,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-10",
+        "lastRowDate": "2019-06-13",
+        "countsByState": {
+          "QLD": 2,
+          "VIC": 50,
+          "TAS": 16,
+          "NT": 2
+        }
+      },
+      {
+        "page": 31,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-13",
+        "lastRowDate": "2019-06-20",
+        "countsByState": {
+          "VIC": 21,
+          "QLD": 24,
+          "TAS": 15,
+          "NT": 10
+        }
+      },
+      {
+        "page": 32,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-20",
+        "lastRowDate": "2019-06-21",
+        "countsByState": {
+          "NT": 2,
+          "TAS": 16,
+          "VIC": 52
+        }
+      },
+      {
+        "page": 33,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-21",
+        "lastRowDate": "2019-06-24",
+        "countsByState": {
+          "VIC": 66,
+          "QLD": 3,
+          "NT": 1
+        }
+      },
+      {
+        "page": 34,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-24",
+        "lastRowDate": "2019-06-27",
+        "countsByState": {
+          "NT": 5,
+          "VIC": 55,
+          "QLD": 2,
+          "TAS": 8
+        }
+      },
+      {
+        "page": 35,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-27",
+        "lastRowDate": "2019-06-28",
+        "countsByState": {
+          "VIC": 66,
+          "QLD": 4
+        }
+      },
+      {
+        "page": 36,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-06-28",
+        "lastRowDate": "2019-07-15",
+        "countsByState": {
+          "VIC": 25,
+          "TAS": 44,
+          "QLD": 1
+        }
+      },
+      {
+        "page": 37,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-07-15",
+        "lastRowDate": "2019-08-01",
+        "countsByState": {
+          "TAS": 32,
+          "VIC": 37,
+          "NT": 1
+        }
+      },
+      {
+        "page": 38,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-08-01",
+        "lastRowDate": "2019-08-12",
+        "countsByState": {
+          "NT": 38,
+          "QLD": 5,
+          "TAS": 5,
+          "VIC": 22
+        }
+      },
+      {
+        "page": 39,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-08-12",
+        "lastRowDate": "2019-08-19",
+        "countsByState": {
+          "VIC": 47,
+          "TAS": 6,
+          "QLD": 3,
+          "NT": 14
+        }
+      },
+      {
+        "page": 40,
+        "parsedRows": 70,
+        "independentCoordinateRows": 70,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-08-19",
+        "lastRowDate": "2019-08-27",
+        "countsByState": {
+          "NT": 22,
+          "QLD": 19,
+          "TAS": 20,
+          "VIC": 9
+        }
+      },
+      {
+        "page": 41,
+        "parsedRows": 62,
+        "independentCoordinateRows": 62,
+        "fieldComparisonsPassed": true,
+        "firstRowDate": "2019-08-27",
+        "lastRowDate": "2019-09-06",
+        "countsByState": {
+          "NT": 10,
+          "TAS": 5,
+          "VIC": 31,
+          "QLD": 16
+        }
+      }
+    ],
+    "visualInspectionPages": [
+      1,
+      41
+    ]
+  },
+  "integration": {
+    "records": "records.json",
+    "source": "foi-source.json",
+    "rawRows": "raw-rows.json",
+    "groupSummaries": "group-summaries.json",
+    "audit": "extraction-audit.json",
+    "newPointBasis": {
+      "eoi_total_points_as_published": "EOI 总分（FOI 原表）"
+    },
+    "newCountScope": {
+      "unit_group_points_english_date": "4 位职业组 · 同日同分同英语档位"
+    },
+    "newRecordKind": "foi_invitation_distribution",
+    "countStatus": "published, with additional countMethod/verificationStatus=derived_from_official_rows",
+    "extraComparableFields": [
+      "englishProficiency",
+      "englishProficiencySourceValue"
+    ],
+    "requiredUiLabel": "2019 年历史 FOI · 190 签证邀请 · 职业组；不是当年最新获邀门槛",
+    "aggregationRule": "For the same source, counts across mutually exclusive date / points / English bins may be summed. Do not combine this dataset with overlapping FOI periods without deduplication. The source has no EOI IDs, so cross-source individual deduplication is impossible.",
+    "minScoreRule": "Min(points) is an observed historical minimum among disclosed invitation rows, not an official published selection cutoff and not a current threshold.",
+    "notSupported": [
+      "6-digit occupational splits",
+      "onshore/offshore splits",
+      "unique individuals across EOIs",
+      "state ROI pre-invitation totals",
+      "visa-grant counts",
+      "latest 2025-26 or 2026-27 occupational thresholds"
+    ],
+    "rawTitleCaveat": "ANZSCO 2621 title is truncated in the original PDF at “Sp”; preserve source title or use an independently verified ANZSCO display label without claiming the source printed the expansion."
+  },
+  "states": [
+    {
+      "state": "VIC",
+      "usableHistoricalStatus": "available_official_foi",
+      "historicalInvitationCount": 1549,
+      "historicalOccupationGroups": 65,
+      "historicalPeriod": "2019-01-01 to 2019-09-07",
+      "historicalSourceId": "dha-foi-190900418-2019",
+      "examples": [
+        {
+          "state": "VIC",
+          "visaSubclass": "190",
+          "occupationCode": "2544",
+          "occupationTitle": "Registered Nurses",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 85,
+          "invitationCount": 637,
+          "pointsDistribution": [
+            {
+              "points": 85,
+              "invitationCount": 4
+            },
+            {
+              "points": 80,
+              "invitationCount": 32
+            },
+            {
+              "points": 75,
+              "invitationCount": 154
+            },
+            {
+              "points": 70,
+              "invitationCount": 217
+            },
+            {
+              "points": 65,
+              "invitationCount": 230
+            }
+          ],
+          "englishMix": {
+            "Proficient": 443,
+            "Superior": 190,
+            "Competent": 2,
+            "NULL": 2
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "VIC",
+          "visaSubclass": "190",
+          "occupationCode": "2339",
+          "occupationTitle": "Other Engineering Professionals",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 85,
+          "invitationCount": 98,
+          "pointsDistribution": [
+            {
+              "points": 85,
+              "invitationCount": 4
+            },
+            {
+              "points": 80,
+              "invitationCount": 12
+            },
+            {
+              "points": 75,
+              "invitationCount": 16
+            },
+            {
+              "points": 70,
+              "invitationCount": 23
+            },
+            {
+              "points": 65,
+              "invitationCount": 43
+            }
+          ],
+          "englishMix": {
+            "Competent": 20,
+            "Proficient": 57,
+            "Superior": 21
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "VIC",
+          "visaSubclass": "190",
+          "occupationCode": "2613",
+          "occupationTitle": "Software and Applications Programmers",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 85,
+          "invitationCount": 73,
+          "pointsDistribution": [
+            {
+              "points": 85,
+              "invitationCount": 7
+            },
+            {
+              "points": 80,
+              "invitationCount": 21
+            },
+            {
+              "points": 75,
+              "invitationCount": 25
+            },
+            {
+              "points": 70,
+              "invitationCount": 11
+            },
+            {
+              "points": 65,
+              "invitationCount": 9
+            }
+          ],
+          "englishMix": {
+            "Competent": 12,
+            "Proficient": 36,
+            "Superior": 25
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "VIC",
+          "visaSubclass": "190",
+          "occupationCode": "2621",
+          "occupationTitle": "Database and Systems Administrators, and ICT Security Sp",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 70,
+          "observedMaximumPoints": 90,
+          "invitationCount": 59,
+          "pointsDistribution": [
+            {
+              "points": 90,
+              "invitationCount": 1
+            },
+            {
+              "points": 85,
+              "invitationCount": 2
+            },
+            {
+              "points": 80,
+              "invitationCount": 21
+            },
+            {
+              "points": 75,
+              "invitationCount": 31
+            },
+            {
+              "points": 70,
+              "invitationCount": 4
+            }
+          ],
+          "englishMix": {
+            "Superior": 38,
+            "Proficient": 21
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        }
+      ],
+      "currentSourceIds": [
+        "vic-roi-current",
+        "vic-faq-current"
+      ],
+      "currentDisclosureStatus": "not_located",
+      "currentProcess": "提交 SkillSelect EOI 及维州 ROI；州按组合因素挑选 ROI、邀请州提名申请，提名成功后才进入签证申请邀请。",
+      "selectionExplanation": "维州比较年龄、英语、相关经验、学历、职业技能等级、配偶技能及境内收入，并优先部分行业。官网最低 65 是申请资格，不是所有职业历史获邀线。",
+      "explicitNotPublishedStatementFound": false,
+      "checkedUrls": [
+        "https://liveinmelbourne.vic.gov.au/migrate/skilled-migration-visas/registration-of-interest-for-victorian-state-visa-nomination",
+        "https://liveinmelbourne.vic.gov.au/migrate/skilled-migration-visas/skilled-visa-faqs"
+      ]
+    },
+    {
+      "state": "QLD",
+      "usableHistoricalStatus": "available_official_foi",
+      "historicalInvitationCount": 516,
+      "historicalOccupationGroups": 82,
+      "historicalPeriod": "2019-01-01 to 2019-09-07",
+      "historicalSourceId": "dha-foi-190900418-2019",
+      "examples": [
+        {
+          "state": "QLD",
+          "visaSubclass": "190",
+          "occupationCode": "2544",
+          "occupationTitle": "Registered Nurses",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 85,
+          "invitationCount": 84,
+          "pointsDistribution": [
+            {
+              "points": 85,
+              "invitationCount": 1
+            },
+            {
+              "points": 80,
+              "invitationCount": 2
+            },
+            {
+              "points": 75,
+              "invitationCount": 13
+            },
+            {
+              "points": 70,
+              "invitationCount": 29
+            },
+            {
+              "points": 65,
+              "invitationCount": 39
+            }
+          ],
+          "englishMix": {
+            "Proficient": 71,
+            "NULL": 1,
+            "Superior": 12
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "QLD",
+          "visaSubclass": "190",
+          "occupationCode": "2531",
+          "occupationTitle": "General Practitioners and Resident Medical officers",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 85,
+          "invitationCount": 46,
+          "pointsDistribution": [
+            {
+              "points": 85,
+              "invitationCount": 1
+            },
+            {
+              "points": 80,
+              "invitationCount": 3
+            },
+            {
+              "points": 75,
+              "invitationCount": 9
+            },
+            {
+              "points": 70,
+              "invitationCount": 20
+            },
+            {
+              "points": 65,
+              "invitationCount": 13
+            }
+          ],
+          "englishMix": {
+            "Proficient": 35,
+            "Superior": 11
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "QLD",
+          "visaSubclass": "190",
+          "occupationCode": "2332",
+          "occupationTitle": "Civil Engineering Professionals",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 80,
+          "invitationCount": 35,
+          "pointsDistribution": [
+            {
+              "points": 80,
+              "invitationCount": 1
+            },
+            {
+              "points": 75,
+              "invitationCount": 3
+            },
+            {
+              "points": 70,
+              "invitationCount": 16
+            },
+            {
+              "points": 65,
+              "invitationCount": 15
+            }
+          ],
+          "englishMix": {
+            "Proficient": 25,
+            "Competent": 9,
+            "Superior": 1
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "QLD",
+          "visaSubclass": "190",
+          "occupationCode": "2613",
+          "occupationTitle": "Software and Applications Programmers",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 85,
+          "invitationCount": 23,
+          "pointsDistribution": [
+            {
+              "points": 85,
+              "invitationCount": 2
+            },
+            {
+              "points": 80,
+              "invitationCount": 10
+            },
+            {
+              "points": 75,
+              "invitationCount": 4
+            },
+            {
+              "points": 70,
+              "invitationCount": 6
+            },
+            {
+              "points": 65,
+              "invitationCount": 1
+            }
+          ],
+          "englishMix": {
+            "Proficient": 11,
+            "Competent": 1,
+            "Superior": 11
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        }
+      ],
+      "currentSourceIds": [
+        "qld-faq-current"
+      ],
+      "currentDisclosureStatus": "not_located",
+      "currentProcess": "有效 EOI + Queensland ROI 进入每轮筛选；按职业组挑选排名靠前者，再邀请申请州提名。",
+      "selectionExplanation": "官网明确 Queensland selection is not based on the DHA points test；考虑职业、年薪、相关就业年限、就业地点、年龄、学历、英语和配偶技能。不能制造单一 EOI 排队分数线。",
+      "explicitNotPublishedStatementFound": false,
+      "checkedUrls": [
+        "https://migration.qld.gov.au/resources/frequently-asked-questions"
+      ]
+    },
+    {
+      "state": "NT",
+      "usableHistoricalStatus": "available_official_foi",
+      "historicalInvitationCount": 224,
+      "historicalOccupationGroups": 41,
+      "historicalPeriod": "2019-01-01 to 2019-09-07",
+      "historicalSourceId": "dha-foi-190900418-2019",
+      "examples": [
+        {
+          "state": "NT",
+          "visaSubclass": "190",
+          "occupationCode": "2211",
+          "occupationTitle": "Accountants",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 80,
+          "invitationCount": 76,
+          "pointsDistribution": [
+            {
+              "points": 80,
+              "invitationCount": 6
+            },
+            {
+              "points": 75,
+              "invitationCount": 6
+            },
+            {
+              "points": 70,
+              "invitationCount": 33
+            },
+            {
+              "points": 65,
+              "invitationCount": 31
+            }
+          ],
+          "englishMix": {
+            "Superior": 9,
+            "Proficient": 61,
+            "Competent": 6
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "NT",
+          "visaSubclass": "190",
+          "occupationCode": "2544",
+          "occupationTitle": "Registered Nurses",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 75,
+          "invitationCount": 52,
+          "pointsDistribution": [
+            {
+              "points": 75,
+              "invitationCount": 5
+            },
+            {
+              "points": 70,
+              "invitationCount": 29
+            },
+            {
+              "points": 65,
+              "invitationCount": 18
+            }
+          ],
+          "englishMix": {
+            "Proficient": 52
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "NT",
+          "visaSubclass": "190",
+          "occupationCode": "2613",
+          "occupationTitle": "Software and Applications Programmers",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 70,
+          "invitationCount": 11,
+          "pointsDistribution": [
+            {
+              "points": 70,
+              "invitationCount": 2
+            },
+            {
+              "points": 65,
+              "invitationCount": 9
+            }
+          ],
+          "englishMix": {
+            "Competent": 8,
+            "Proficient": 3
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "NT",
+          "visaSubclass": "190",
+          "occupationCode": "2334",
+          "occupationTitle": "Electronics Engineers",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 80,
+          "invitationCount": 9,
+          "pointsDistribution": [
+            {
+              "points": 80,
+              "invitationCount": 1
+            },
+            {
+              "points": 75,
+              "invitationCount": 1
+            },
+            {
+              "points": 70,
+              "invitationCount": 6
+            },
+            {
+              "points": 65,
+              "invitationCount": 1
+            }
+          ],
+          "englishMix": {
+            "Competent": 1,
+            "Superior": 1,
+            "Proficient": 7
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        }
+      ],
+      "currentSourceIds": [
+        "nt-eligibility-current"
+      ],
+      "currentDisclosureStatus": "not_located",
+      "currentProcess": "按 NT 毕业生、NT 居民、境外优先职业、境外工作邀请或境外家庭通道申请；州逐案判断提名。",
+      "selectionExplanation": "官网明确 MigrationNT does not prioritise applicants by points score；重视 NT 就业结果、居住/联系及长期承诺。职业清单只说明资格，并不列出实际获邀职业人数。",
+      "explicitNotPublishedStatementFound": false,
+      "checkedUrls": [
+        "https://australiasnorthernterritory.com.au/move/migrate-to-work/nt-government-visa-nomination/eligibility"
+      ]
+    },
+    {
+      "state": "TAS",
+      "usableHistoricalStatus": "available_official_foi",
+      "historicalInvitationCount": 558,
+      "historicalOccupationGroups": 59,
+      "historicalPeriod": "2019-01-01 to 2019-09-07",
+      "historicalSourceId": "dha-foi-190900418-2019",
+      "examples": [
+        {
+          "state": "TAS",
+          "visaSubclass": "190",
+          "occupationCode": "2211",
+          "occupationTitle": "Accountants",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 85,
+          "invitationCount": 284,
+          "pointsDistribution": [
+            {
+              "points": 85,
+              "invitationCount": 3
+            },
+            {
+              "points": 80,
+              "invitationCount": 8
+            },
+            {
+              "points": 75,
+              "invitationCount": 40
+            },
+            {
+              "points": 70,
+              "invitationCount": 115
+            },
+            {
+              "points": 65,
+              "invitationCount": 118
+            }
+          ],
+          "englishMix": {
+            "Proficient": 213,
+            "Competent": 54,
+            "Superior": 17
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "TAS",
+          "visaSubclass": "190",
+          "occupationCode": "2544",
+          "occupationTitle": "Registered Nurses",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 75,
+          "invitationCount": 40,
+          "pointsDistribution": [
+            {
+              "points": 75,
+              "invitationCount": 2
+            },
+            {
+              "points": 70,
+              "invitationCount": 13
+            },
+            {
+              "points": 65,
+              "invitationCount": 25
+            }
+          ],
+          "englishMix": {
+            "Superior": 4,
+            "Proficient": 35,
+            "NULL": 1
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "TAS",
+          "visaSubclass": "190",
+          "occupationCode": "2611",
+          "occupationTitle": "ICT Business and Systems Analysts",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 75,
+          "invitationCount": 24,
+          "pointsDistribution": [
+            {
+              "points": 75,
+              "invitationCount": 3
+            },
+            {
+              "points": 70,
+              "invitationCount": 7
+            },
+            {
+              "points": 65,
+              "invitationCount": 14
+            }
+          ],
+          "englishMix": {
+            "Competent": 19,
+            "Proficient": 5
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        },
+        {
+          "state": "TAS",
+          "visaSubclass": "190",
+          "occupationCode": "2515",
+          "occupationTitle": "Pharmacists",
+          "occupationLevel": "unit_group",
+          "periodStart": "2019-01-01",
+          "periodEnd": "2019-09-07",
+          "observedMinimumPoints": 65,
+          "observedMaximumPoints": 80,
+          "invitationCount": 20,
+          "pointsDistribution": [
+            {
+              "points": 80,
+              "invitationCount": 5
+            },
+            {
+              "points": 75,
+              "invitationCount": 2
+            },
+            {
+              "points": 70,
+              "invitationCount": 11
+            },
+            {
+              "points": 65,
+              "invitationCount": 2
+            }
+          ],
+          "englishMix": {
+            "Proficient": 11,
+            "Superior": 7,
+            "Competent": 2
+          },
+          "countMethod": "derived_from_official_rows",
+          "sourceId": "dha-foi-190900418-2019",
+          "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+        }
+      ],
+      "currentSourceIds": [],
+      "currentDisclosureStatus": "outside_recent_scope",
+      "currentProcess": "近期流程已由主代理研究，本分支只补相同 FOI 中的旧职业组邀请数据。",
+      "selectionExplanation": "2019 FOI 的 EOI 总分不得与当前塔州优先属性分数混排。",
+      "explicitNotPublishedStatementFound": false,
+      "checkedUrls": []
+    }
+  ],
+  "additionalOfficialLeadsNotMerged": [
+    {
+      "url": "https://www.homeaffairs.gov.au/foi/files/2020/fa-191200647-documents-released.PDF",
+      "ref": "FA 19/12/00647",
+      "scope": "NSW and VIC 190 invitations, calendar 2019; six-digit occupations and point bins; many <5 suppressed cells. 142-page split wide table.",
+      "reasonNotMerged": "Overlaps the fully parsed 41-page record set. Requires separate dataset identity and full coordinate reconstruction; do not merge counts."
+    },
+    {
+      "url": "https://www.homeaffairs.gov.au/foi/Pages/2020.aspx",
+      "ref": "FA 19/12/00717",
+      "scope": "QLD 190 invitation dates, occupations and points, 2019-07-29 through 2019-11-25.",
+      "reasonNotMerged": "Located on official disclosure log only, not used as numeric evidence."
+    },
+    {
+      "url": "https://www.homeaffairs.gov.au/foi/Pages/2020.aspx",
+      "ref": "FA 19/12/00639",
+      "scope": "NT 190 invitations, 2019-01-01 through 2019-12-10, date/code/title/points.",
+      "reasonNotMerged": "Located on official disclosure log only, not used as numeric evidence."
+    }
+  ],
+  "searchConclusion": "Recent occupation × points × invitation-count releases were not located in this bounded search for VIC, QLD, NT. This is not a claim that none exist or that these governments categorically never publish them.",
+  "searchQueries": [
+    "site:homeaffairs.gov.au/foi \"Queensland\" \"points\" \"190\"",
+    "site:homeaffairs.gov.au/foi \"Northern Territory\" \"invitations\"",
+    "site:homeaffairs.gov.au/foi/files/2025 \"invitations\" \"Victoria\" points",
+    "site:homeaffairs.gov.au/foi/files/2024 \"invitations\" \"Queensland\" points",
+    "site:homeaffairs.gov.au/foi/files/2026 \"invitations\" \"Northern Territory\" points",
+    "site:migration.qld.gov.au invitation statistics occupation points nomination",
+    "site:theterritory.com.au migration nomination invitation statistics occupation"
+  ],
+  "sourceReferences": {
+    "officialFoIPdf": "turn65view0",
+    "officialFoIAccessDecision": "turn81view0",
+    "officialDisclosureLog": "turn86view0",
+    "qldSelection": "turn62view0",
+    "ntSelection": "turn62view2",
+    "vicSelection": "turn90view0",
+    "vicFaq": "turn78view1"
+  }
+}

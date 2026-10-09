@@ -1,0 +1,611 @@
+{
+  "sourceId": "dha-foi-190900418-2019",
+  "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5",
+  "rawRowCount": 2847,
+  "aggregatedRowCount": 2193,
+  "stateOccupationGroupCount": 247,
+  "rawRowsByState": {
+    "VIC": 1549,
+    "TAS": 558,
+    "NT": 224,
+    "QLD": 516
+  },
+  "aggregateRowsByState": {
+    "NT": 187,
+    "QLD": 479,
+    "TAS": 437,
+    "VIC": 1090
+  },
+  "occupationGroupsByState": {
+    "NT": 41,
+    "QLD": 82,
+    "TAS": 59,
+    "VIC": 65
+  },
+  "dateRangeObserved": [
+    "2019-01-02",
+    "2019-09-06"
+  ],
+  "periodStart": "2019-01-01",
+  "periodEnd": "2019-09-07",
+  "aggregationKeys": [
+    "state",
+    "visaSubclass",
+    "roundDate",
+    "occupationCode",
+    "points",
+    "englishProficiencySourceValue"
+  ],
+  "pointDefinition": "Total points as requested; Points Score column. Source does not expressly say whether nomination points are included. No adjustment applied.",
+  "countDefinition": "Count of official primary-applicant EOI rows with exactly the stated aggregation keys. Not unique migrants, grants, or state ROI invitations. Identical rows are distinct listed EOIs and retained.",
+  "completeness": "All 41 pages parsed. Every row compared against independent PDF geometric extraction for date, code, state, points and English. Source is complete only within its stated period/states/visa, not current history.",
+  "pageAudit": [
+    {
+      "page": 1,
+      "parsedRows": 55,
+      "independentCoordinateRows": 55,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-01-02",
+      "lastRowDate": "2019-01-09",
+      "countsByState": {
+        "VIC": 34,
+        "TAS": 4,
+        "NT": 9,
+        "QLD": 8
+      }
+    },
+    {
+      "page": 2,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-01-09",
+      "lastRowDate": "2019-01-15",
+      "countsByState": {
+        "QLD": 10,
+        "NT": 1,
+        "VIC": 56,
+        "TAS": 3
+      }
+    },
+    {
+      "page": 3,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-01-15",
+      "lastRowDate": "2019-01-18",
+      "countsByState": {
+        "VIC": 41,
+        "TAS": 11,
+        "QLD": 15,
+        "NT": 3
+      }
+    },
+    {
+      "page": 4,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-01-18",
+      "lastRowDate": "2019-01-21",
+      "countsByState": {
+        "TAS": 17,
+        "VIC": 50,
+        "QLD": 2,
+        "NT": 1
+      }
+    },
+    {
+      "page": 5,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-01-22",
+      "lastRowDate": "2019-01-24",
+      "countsByState": {
+        "VIC": 42,
+        "QLD": 17,
+        "TAS": 6,
+        "NT": 5
+      }
+    },
+    {
+      "page": 6,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-01-25",
+      "lastRowDate": "2019-01-30",
+      "countsByState": {
+        "QLD": 15,
+        "TAS": 17,
+        "VIC": 32,
+        "NT": 6
+      }
+    },
+    {
+      "page": 7,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-01-30",
+      "lastRowDate": "2019-02-05",
+      "countsByState": {
+        "VIC": 23,
+        "NT": 10,
+        "TAS": 14,
+        "QLD": 23
+      }
+    },
+    {
+      "page": 8,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-02-05",
+      "lastRowDate": "2019-02-12",
+      "countsByState": {
+        "VIC": 19,
+        "QLD": 38,
+        "TAS": 11,
+        "NT": 2
+      }
+    },
+    {
+      "page": 9,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-02-12",
+      "lastRowDate": "2019-02-20",
+      "countsByState": {
+        "VIC": 25,
+        "QLD": 25,
+        "TAS": 11,
+        "NT": 9
+      }
+    },
+    {
+      "page": 10,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-02-20",
+      "lastRowDate": "2019-02-25",
+      "countsByState": {
+        "QLD": 24,
+        "VIC": 43,
+        "NT": 3
+      }
+    },
+    {
+      "page": 11,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-02-25",
+      "lastRowDate": "2019-03-01",
+      "countsByState": {
+        "VIC": 40,
+        "QLD": 14,
+        "NT": 4,
+        "TAS": 12
+      }
+    },
+    {
+      "page": 12,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-03-01",
+      "lastRowDate": "2019-03-06",
+      "countsByState": {
+        "TAS": 16,
+        "NT": 3,
+        "QLD": 14,
+        "VIC": 37
+      }
+    },
+    {
+      "page": 13,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-03-06",
+      "lastRowDate": "2019-03-08",
+      "countsByState": {
+        "TAS": 25,
+        "QLD": 10,
+        "VIC": 35
+      }
+    },
+    {
+      "page": 14,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-03-08",
+      "lastRowDate": "2019-03-14",
+      "countsByState": {
+        "QLD": 18,
+        "VIC": 17,
+        "NT": 8,
+        "TAS": 27
+      }
+    },
+    {
+      "page": 15,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-03-14",
+      "lastRowDate": "2019-03-18",
+      "countsByState": {
+        "VIC": 43,
+        "TAS": 14,
+        "QLD": 9,
+        "NT": 4
+      }
+    },
+    {
+      "page": 16,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-03-18",
+      "lastRowDate": "2019-03-25",
+      "countsByState": {
+        "VIC": 47,
+        "QLD": 13,
+        "TAS": 8,
+        "NT": 2
+      }
+    },
+    {
+      "page": 17,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-03-25",
+      "lastRowDate": "2019-03-27",
+      "countsByState": {
+        "VIC": 36,
+        "TAS": 31,
+        "QLD": 3
+      }
+    },
+    {
+      "page": 18,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-03-27",
+      "lastRowDate": "2019-04-03",
+      "countsByState": {
+        "VIC": 38,
+        "TAS": 13,
+        "QLD": 8,
+        "NT": 11
+      }
+    },
+    {
+      "page": 19,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-04-03",
+      "lastRowDate": "2019-04-09",
+      "countsByState": {
+        "VIC": 49,
+        "TAS": 6,
+        "QLD": 8,
+        "NT": 7
+      }
+    },
+    {
+      "page": 20,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-04-09",
+      "lastRowDate": "2019-04-16",
+      "countsByState": {
+        "VIC": 61,
+        "TAS": 6,
+        "QLD": 3
+      }
+    },
+    {
+      "page": 21,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-04-16",
+      "lastRowDate": "2019-04-18",
+      "countsByState": {
+        "VIC": 43,
+        "QLD": 3,
+        "TAS": 24
+      }
+    },
+    {
+      "page": 22,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-04-18",
+      "lastRowDate": "2019-04-24",
+      "countsByState": {
+        "VIC": 61,
+        "QLD": 1,
+        "TAS": 7,
+        "NT": 1
+      }
+    },
+    {
+      "page": 23,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-04-24",
+      "lastRowDate": "2019-05-03",
+      "countsByState": {
+        "VIC": 42,
+        "TAS": 13,
+        "NT": 4,
+        "QLD": 11
+      }
+    },
+    {
+      "page": 24,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-05-03",
+      "lastRowDate": "2019-05-10",
+      "countsByState": {
+        "VIC": 23,
+        "QLD": 26,
+        "TAS": 17,
+        "NT": 4
+      }
+    },
+    {
+      "page": 25,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-05-10",
+      "lastRowDate": "2019-05-21",
+      "countsByState": {
+        "QLD": 36,
+        "TAS": 16,
+        "VIC": 13,
+        "NT": 5
+      }
+    },
+    {
+      "page": 26,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-05-21",
+      "lastRowDate": "2019-05-24",
+      "countsByState": {
+        "TAS": 21,
+        "VIC": 43,
+        "QLD": 5,
+        "NT": 1
+      }
+    },
+    {
+      "page": 27,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-05-27",
+      "lastRowDate": "2019-06-03",
+      "countsByState": {
+        "VIC": 22,
+        "TAS": 19,
+        "NT": 6,
+        "QLD": 23
+      }
+    },
+    {
+      "page": 28,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-03",
+      "lastRowDate": "2019-06-05",
+      "countsByState": {
+        "QLD": 28,
+        "VIC": 16,
+        "NT": 8,
+        "TAS": 18
+      }
+    },
+    {
+      "page": 29,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-05",
+      "lastRowDate": "2019-06-10",
+      "countsByState": {
+        "QLD": 27,
+        "VIC": 37,
+        "NT": 2,
+        "TAS": 4
+      }
+    },
+    {
+      "page": 30,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-10",
+      "lastRowDate": "2019-06-13",
+      "countsByState": {
+        "QLD": 2,
+        "VIC": 50,
+        "TAS": 16,
+        "NT": 2
+      }
+    },
+    {
+      "page": 31,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-13",
+      "lastRowDate": "2019-06-20",
+      "countsByState": {
+        "VIC": 21,
+        "QLD": 24,
+        "TAS": 15,
+        "NT": 10
+      }
+    },
+    {
+      "page": 32,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-20",
+      "lastRowDate": "2019-06-21",
+      "countsByState": {
+        "NT": 2,
+        "TAS": 16,
+        "VIC": 52
+      }
+    },
+    {
+      "page": 33,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-21",
+      "lastRowDate": "2019-06-24",
+      "countsByState": {
+        "VIC": 66,
+        "QLD": 3,
+        "NT": 1
+      }
+    },
+    {
+      "page": 34,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-24",
+      "lastRowDate": "2019-06-27",
+      "countsByState": {
+        "NT": 5,
+        "VIC": 55,
+        "QLD": 2,
+        "TAS": 8
+      }
+    },
+    {
+      "page": 35,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-27",
+      "lastRowDate": "2019-06-28",
+      "countsByState": {
+        "VIC": 66,
+        "QLD": 4
+      }
+    },
+    {
+      "page": 36,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-06-28",
+      "lastRowDate": "2019-07-15",
+      "countsByState": {
+        "VIC": 25,
+        "TAS": 44,
+        "QLD": 1
+      }
+    },
+    {
+      "page": 37,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-07-15",
+      "lastRowDate": "2019-08-01",
+      "countsByState": {
+        "TAS": 32,
+        "VIC": 37,
+        "NT": 1
+      }
+    },
+    {
+      "page": 38,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-08-01",
+      "lastRowDate": "2019-08-12",
+      "countsByState": {
+        "NT": 38,
+        "QLD": 5,
+        "TAS": 5,
+        "VIC": 22
+      }
+    },
+    {
+      "page": 39,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-08-12",
+      "lastRowDate": "2019-08-19",
+      "countsByState": {
+        "VIC": 47,
+        "TAS": 6,
+        "QLD": 3,
+        "NT": 14
+      }
+    },
+    {
+      "page": 40,
+      "parsedRows": 70,
+      "independentCoordinateRows": 70,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-08-19",
+      "lastRowDate": "2019-08-27",
+      "countsByState": {
+        "NT": 22,
+        "QLD": 19,
+        "TAS": 20,
+        "VIC": 9
+      }
+    },
+    {
+      "page": 41,
+      "parsedRows": 62,
+      "independentCoordinateRows": 62,
+      "fieldComparisonsPassed": true,
+      "firstRowDate": "2019-08-27",
+      "lastRowDate": "2019-09-06",
+      "countsByState": {
+        "NT": 10,
+        "TAS": 5,
+        "VIC": 31,
+        "QLD": 16
+      }
+    }
+  ],
+  "visualInspectionPages": [
+    1,
+    41
+  ]
+}

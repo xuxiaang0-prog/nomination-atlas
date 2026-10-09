@@ -1,0 +1,7361 @@
+[
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "1311",
+    "occupationTitle": "Advertising and Sales Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "1493",
+    "occupationTitle": "Conference and Event Organisers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2211",
+    "occupationTitle": "Accountants",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 76,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 6
+      },
+      {
+        "points": 75,
+        "invitationCount": 6
+      },
+      {
+        "points": 70,
+        "invitationCount": 33
+      },
+      {
+        "points": 65,
+        "invitationCount": 31
+      }
+    ],
+    "englishMix": {
+      "Superior": 9,
+      "Proficient": 61,
+      "Competent": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2212",
+    "occupationTitle": "Auditors, Company Secretaries and Corporate Treasurers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2223",
+    "occupationTitle": "Financial Investment Advisers and Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2251",
+    "occupationTitle": "Advertising and Marketing Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2253",
+    "occupationTitle": "Public Relations Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2331",
+    "occupationTitle": "Chemical and Materials Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2332",
+    "occupationTitle": "Civil Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2333",
+    "occupationTitle": "Electrical Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2334",
+    "occupationTitle": "Electronics Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 9,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 6
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Superior": 1,
+      "Proficient": 7
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2335",
+    "occupationTitle": "Industrial, Mechanical and Production Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2339",
+    "occupationTitle": "Other Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2341",
+    "occupationTitle": "Agricultural and Forestry Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2343",
+    "occupationTitle": "Environmental Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2411",
+    "occupationTitle": "Early Childhood (Pre-primary School) Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2413",
+    "occupationTitle": "Middle School Teachers (Aus) / Intermediate School Teache",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2414",
+    "occupationTitle": "Secondary School Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "NULL": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2421",
+    "occupationTitle": "University Lecturers and Tutors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2493",
+    "occupationTitle": "Teachers of English to Speakers of Other Languages",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2512",
+    "occupationTitle": "Medical Imaging Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2515",
+    "occupationTitle": "Pharmacists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2531",
+    "occupationTitle": "General Practitioners and Resident Medical officers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2539",
+    "occupationTitle": "Other Medical Practitioners",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2541",
+    "occupationTitle": "Midwives",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2544",
+    "occupationTitle": "Registered Nurses",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 52,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 5
+      },
+      {
+        "points": 70,
+        "invitationCount": 29
+      },
+      {
+        "points": 65,
+        "invitationCount": 18
+      }
+    ],
+    "englishMix": {
+      "Proficient": 52
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2611",
+    "occupationTitle": "ICT Business and Systems Analysts",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2613",
+    "occupationTitle": "Software and Applications Programmers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 11,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 9
+      }
+    ],
+    "englishMix": {
+      "Competent": 8,
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2621",
+    "occupationTitle": "Database and Systems Administrators, and ICT Security Sp",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2631",
+    "occupationTitle": "Computer Network Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2632",
+    "occupationTitle": "ICT Support and Test Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2725",
+    "occupationTitle": "Social Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "2726",
+    "occupationTitle": "Welfare, Recreation and Community Arts Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "3114",
+    "occupationTitle": "Science Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "3131",
+    "occupationTitle": "ICT Support Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "3212",
+    "occupationTitle": "Motor Mechanics",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "3511",
+    "occupationTitle": "Bakers and Pastrycooks",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "3513",
+    "occupationTitle": "Chefs",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Competent": 2,
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "3514",
+    "occupationTitle": "Cooks",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "3911",
+    "occupationTitle": "Hairdressers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "190",
+    "occupationCode": "5111",
+    "occupationTitle": "Contract, Program and Project Administrators",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "1325",
+    "occupationTitle": "Research and Development Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "1341",
+    "occupationTitle": "Child Care Centre Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "1351",
+    "occupationTitle": "ICT Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "1399",
+    "occupationTitle": "Other Specialist Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "1413",
+    "occupationTitle": "Hotel and Motel Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "1419",
+    "occupationTitle": "Other Accommodation and Hospitality Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2123",
+    "occupationTitle": "Film, Television, Radio and Stage Directors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2211",
+    "occupationTitle": "Accountants",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 90,
+    "invitationCount": 10,
+    "pointsDistribution": [
+      {
+        "points": 90,
+        "invitationCount": 1
+      },
+      {
+        "points": 85,
+        "invitationCount": 3
+      },
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 4
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 6,
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2212",
+    "occupationTitle": "Auditors, Company Secretaries and Corporate Treasurers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 75,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Proficient": 6,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2222",
+    "occupationTitle": "Financial Dealers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 85,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2223",
+    "occupationTitle": "Financial Investment Advisers and Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2231",
+    "occupationTitle": "Human Resource Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 5,
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2232",
+    "occupationTitle": "ICT Trainers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2241",
+    "occupationTitle": "Actuaries, Mathematicians and Statisticians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2,
+      "Competent": 2,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2242",
+    "occupationTitle": "Archivists, Curators and Records Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2245",
+    "occupationTitle": "Land Economists and Valuers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2247",
+    "occupationTitle": "Management and Organisation Analysts",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2251",
+    "occupationTitle": "Advertising and Marketing Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 18,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 5
+      },
+      {
+        "points": 65,
+        "invitationCount": 11
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 13,
+      "Superior": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2252",
+    "occupationTitle": "ICT Sales Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Superior": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2321",
+    "occupationTitle": "Architects and Landscape Architects",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2322",
+    "occupationTitle": "Cartographers and Surveyors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 10,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 4
+      }
+    ],
+    "englishMix": {
+      "Proficient": 7,
+      "Competent": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2325",
+    "occupationTitle": "Interior Designers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 9,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 6
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 8,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2331",
+    "occupationTitle": "Chemical and Materials Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 2,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2332",
+    "occupationTitle": "Civil Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 35,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 16
+      },
+      {
+        "points": 65,
+        "invitationCount": 15
+      }
+    ],
+    "englishMix": {
+      "Proficient": 25,
+      "Competent": 9,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2333",
+    "occupationTitle": "Electrical Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 2,
+      "Proficient": 2,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2334",
+    "occupationTitle": "Electronics Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2335",
+    "occupationTitle": "Industrial, Mechanical and Production Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Superior": 2,
+      "Competent": 1,
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2336",
+    "occupationTitle": "Mining Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2339",
+    "occupationTitle": "Other Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 12,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Competent": 6,
+      "Proficient": 5,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2341",
+    "occupationTitle": "Agricultural and Forestry Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2342",
+    "occupationTitle": "Chemists, and Food and Wine Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 3,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2344",
+    "occupationTitle": "Geologists Geophysicists and Hydrogeologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1,
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2345",
+    "occupationTitle": "Life Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 2,
+      "Superior": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2346",
+    "occupationTitle": "Medical Laboratory Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2347",
+    "occupationTitle": "Veterinarians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Superior": 1,
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2411",
+    "occupationTitle": "Early Childhood (Pre-primary School) Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2412",
+    "occupationTitle": "Primary School Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2414",
+    "occupationTitle": "Secondary School Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2491",
+    "occupationTitle": "Education Advisers and Reviewers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2513",
+    "occupationTitle": "Occupational and Environmental Health Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2514",
+    "occupationTitle": "Optometrists and Orthoptists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2515",
+    "occupationTitle": "Pharmacists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 11,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 6
+      }
+    ],
+    "englishMix": {
+      "Competent": 4,
+      "Proficient": 6,
+      "NULL": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2519",
+    "occupationTitle": "Other Health Diagnostic and Promotion Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2521",
+    "occupationTitle": "Chiropractors and Osteopaths",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 75,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2523",
+    "occupationTitle": "Dental Practitioners",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2524",
+    "occupationTitle": "Occupational Therapists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2525",
+    "occupationTitle": "Physiotherapists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2526",
+    "occupationTitle": "Podiatrists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2527",
+    "occupationTitle": "Speech Professionals and Audiologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2531",
+    "occupationTitle": "General Practitioners and Resident Medical officers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 46,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 3
+      },
+      {
+        "points": 75,
+        "invitationCount": 9
+      },
+      {
+        "points": 70,
+        "invitationCount": 20
+      },
+      {
+        "points": 65,
+        "invitationCount": 13
+      }
+    ],
+    "englishMix": {
+      "Proficient": 35,
+      "Superior": 11
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2532",
+    "occupationTitle": "Anaesthetists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2534",
+    "occupationTitle": "Psychiatrists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2539",
+    "occupationTitle": "Other Medical Practitioners",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 21,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 7
+      },
+      {
+        "points": 70,
+        "invitationCount": 11
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Superior": 6,
+      "Proficient": 13,
+      "NULL": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2541",
+    "occupationTitle": "Midwives",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2544",
+    "occupationTitle": "Registered Nurses",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 84,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 13
+      },
+      {
+        "points": 70,
+        "invitationCount": 29
+      },
+      {
+        "points": 65,
+        "invitationCount": 39
+      }
+    ],
+    "englishMix": {
+      "Proficient": 71,
+      "NULL": 1,
+      "Superior": 12
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2611",
+    "occupationTitle": "ICT Business and Systems Analysts",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 16,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 6
+      },
+      {
+        "points": 75,
+        "invitationCount": 4
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Superior": 10,
+      "Proficient": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2612",
+    "occupationTitle": "Multimedia Specialists and Web Developers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2613",
+    "occupationTitle": "Software and Applications Programmers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 23,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 2
+      },
+      {
+        "points": 80,
+        "invitationCount": 10
+      },
+      {
+        "points": 75,
+        "invitationCount": 4
+      },
+      {
+        "points": 70,
+        "invitationCount": 6
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 11,
+      "Competent": 1,
+      "Superior": 11
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2621",
+    "occupationTitle": "Database and Systems Administrators, and ICT Security Sp",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 12,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 3
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 8
+      }
+    ],
+    "englishMix": {
+      "Proficient": 8,
+      "Superior": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2631",
+    "occupationTitle": "Computer Network Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 12,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 9
+      }
+    ],
+    "englishMix": {
+      "Proficient": 7,
+      "Superior": 3,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2632",
+    "occupationTitle": "ICT Support and Test Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      }
+    ],
+    "englishMix": {
+      "Superior": 3,
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2633",
+    "occupationTitle": "Telecommunications Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2713",
+    "occupationTitle": "Solicitors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Superior": 6,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2721",
+    "occupationTitle": "Counsellors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2723",
+    "occupationTitle": "Psychologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2724",
+    "occupationTitle": "Social Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 8,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 6,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2725",
+    "occupationTitle": "Social Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 11,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 6
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 8,
+      "Superior": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "2726",
+    "occupationTitle": "Welfare, Recreation and Community Arts Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3112",
+    "occupationTitle": "Medical Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1,
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3114",
+    "occupationTitle": "Science Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 13,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Proficient": 7,
+      "Competent": 5,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3121",
+    "occupationTitle": "Architectural, Building and Surveying Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3122",
+    "occupationTitle": "Civil Engineering Draftspersons and Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Superior": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3129",
+    "occupationTitle": "Other Building and Engineering Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3132",
+    "occupationTitle": "Telecommunications Technical Specialists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3211",
+    "occupationTitle": "Automotive Electricians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3212",
+    "occupationTitle": "Motor Mechanics",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "3513",
+    "occupationTitle": "Chefs",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "4111",
+    "occupationTitle": "Ambulance Officers and Paramedics",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "4114",
+    "occupationTitle": "Enrolled and Mothercraft Nurses",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "4116",
+    "occupationTitle": "Massage Therapists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1,
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "4117",
+    "occupationTitle": "Welfare Support Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 3,
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "190",
+    "occupationCode": "4523",
+    "occupationTitle": "Sports Coaches, Instructors and Officials",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 2,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "1322",
+    "occupationTitle": "Finance Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "1331",
+    "occupationTitle": "Construction Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "1335",
+    "occupationTitle": "Production Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "1411",
+    "occupationTitle": "Cafe and Restaurant Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "1494",
+    "occupationTitle": "Transport Services Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2124",
+    "occupationTitle": "Journalists and Other Writers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2211",
+    "occupationTitle": "Accountants",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 284,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 3
+      },
+      {
+        "points": 80,
+        "invitationCount": 8
+      },
+      {
+        "points": 75,
+        "invitationCount": 40
+      },
+      {
+        "points": 70,
+        "invitationCount": 115
+      },
+      {
+        "points": 65,
+        "invitationCount": 118
+      }
+    ],
+    "englishMix": {
+      "Proficient": 213,
+      "Competent": 54,
+      "Superior": 17
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2212",
+    "occupationTitle": "Auditors, Company Secretaries and Corporate Treasurers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 15,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 5
+      },
+      {
+        "points": 65,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Proficient": 9,
+      "Superior": 5,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2223",
+    "occupationTitle": "Financial Investment Advisers and Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2247",
+    "occupationTitle": "Management and Organisation Analysts",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2251",
+    "occupationTitle": "Advertising and Marketing Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 11,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 6
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 7,
+      "Competent": 2,
+      "Superior": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2253",
+    "occupationTitle": "Public Relations Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2322",
+    "occupationTitle": "Cartographers and Surveyors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2324",
+    "occupationTitle": "Graphic and Web Designers, and Illustrators",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2325",
+    "occupationTitle": "Interior Designers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2332",
+    "occupationTitle": "Civil Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 4
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2333",
+    "occupationTitle": "Electrical Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2334",
+    "occupationTitle": "Electronics Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2335",
+    "occupationTitle": "Industrial, Mechanical and Production Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2339",
+    "occupationTitle": "Other Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 13,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 9
+      }
+    ],
+    "englishMix": {
+      "Competent": 4,
+      "Superior": 2,
+      "Proficient": 7
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2341",
+    "occupationTitle": "Agricultural and Forestry Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 4,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2342",
+    "occupationTitle": "Chemists, and Food and Wine Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2345",
+    "occupationTitle": "Life Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 95,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 95,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 4,
+      "Superior": 1,
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2346",
+    "occupationTitle": "Medical Laboratory Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2,
+      "Superior": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2411",
+    "occupationTitle": "Early Childhood (Pre-primary School) Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2414",
+    "occupationTitle": "Secondary School Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2421",
+    "occupationTitle": "University Lecturers and Tutors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Competent": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2493",
+    "occupationTitle": "Teachers of English to Speakers of Other Languages",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2511",
+    "occupationTitle": "Dietitians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2512",
+    "occupationTitle": "Medical Imaging Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2515",
+    "occupationTitle": "Pharmacists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 20,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 5
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 11
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 11,
+      "Superior": 7,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2519",
+    "occupationTitle": "Other Health Diagnostic and Promotion Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2525",
+    "occupationTitle": "Physiotherapists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2526",
+    "occupationTitle": "Podiatrists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2527",
+    "occupationTitle": "Speech Professionals and Audiologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2531",
+    "occupationTitle": "General Practitioners and Resident Medical officers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 9,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 4
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 8,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2533",
+    "occupationTitle": "Internal Medicine Specialists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 80,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2539",
+    "occupationTitle": "Other Medical Practitioners",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2541",
+    "occupationTitle": "Midwives",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2544",
+    "occupationTitle": "Registered Nurses",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 40,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 13
+      },
+      {
+        "points": 65,
+        "invitationCount": 25
+      }
+    ],
+    "englishMix": {
+      "Superior": 4,
+      "Proficient": 35,
+      "NULL": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2611",
+    "occupationTitle": "ICT Business and Systems Analysts",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 24,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 7
+      },
+      {
+        "points": 65,
+        "invitationCount": 14
+      }
+    ],
+    "englishMix": {
+      "Competent": 19,
+      "Proficient": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2612",
+    "occupationTitle": "Multimedia Specialists and Web Developers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2613",
+    "occupationTitle": "Software and Applications Programmers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 13,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 6
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5,
+      "Competent": 7,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2621",
+    "occupationTitle": "Database and Systems Administrators, and ICT Security Sp",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2631",
+    "occupationTitle": "Computer Network Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2633",
+    "occupationTitle": "Telecommunications Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2713",
+    "occupationTitle": "Solicitors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 4
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2723",
+    "occupationTitle": "Psychologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2724",
+    "occupationTitle": "Social Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 3,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "2725",
+    "occupationTitle": "Social Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "3114",
+    "occupationTitle": "Science Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "3121",
+    "occupationTitle": "Architectural, Building and Surveying Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "3122",
+    "occupationTitle": "Civil Engineering Draftspersons and Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "3514",
+    "occupationTitle": "Cooks",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 7,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "3911",
+    "occupationTitle": "Hairdressers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "4114",
+    "occupationTitle": "Enrolled and Mothercraft Nurses",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 4
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "4116",
+    "occupationTitle": "Massage Therapists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "4117",
+    "occupationTitle": "Welfare Support Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "190",
+    "occupationCode": "5111",
+    "occupationTitle": "Contract, Program and Project Administrators",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "1323",
+    "occupationTitle": "Human Resource Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 29,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 10
+      },
+      {
+        "points": 65,
+        "invitationCount": 13
+      }
+    ],
+    "englishMix": {
+      "Proficient": 20,
+      "Superior": 7,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "1325",
+    "occupationTitle": "Research and Development Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "1341",
+    "occupationTitle": "Child Care Centre Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "1344",
+    "occupationTitle": "Other Education Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "1351",
+    "occupationTitle": "ICT Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Superior": 4,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "1399",
+    "occupationTitle": "Other Specialist Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2124",
+    "occupationTitle": "Journalists and Other Writers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2211",
+    "occupationTitle": "Accountants",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2221",
+    "occupationTitle": "Financial Brokers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2232",
+    "occupationTitle": "ICT Trainers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 85,
+    "observedMaximumPoints": 85,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2241",
+    "occupationTitle": "Actuaries, Mathematicians and Statisticians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 95,
+    "invitationCount": 35,
+    "pointsDistribution": [
+      {
+        "points": 95,
+        "invitationCount": 1
+      },
+      {
+        "points": 90,
+        "invitationCount": 2
+      },
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 3
+      },
+      {
+        "points": 75,
+        "invitationCount": 9
+      },
+      {
+        "points": 70,
+        "invitationCount": 9
+      },
+      {
+        "points": 65,
+        "invitationCount": 10
+      }
+    ],
+    "englishMix": {
+      "Competent": 17,
+      "Proficient": 12,
+      "Superior": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2242",
+    "occupationTitle": "Archivists, Curators and Records Managers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2243",
+    "occupationTitle": "Economists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 85,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2245",
+    "occupationTitle": "Land Economists and Valuers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2321",
+    "occupationTitle": "Architects and Landscape Architects",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2322",
+    "occupationTitle": "Cartographers and Surveyors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2324",
+    "occupationTitle": "Graphic and Web Designers, and Illustrators",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 80,
+    "observedMaximumPoints": 80,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2331",
+    "occupationTitle": "Chemical and Materials Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 18,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 5
+      },
+      {
+        "points": 70,
+        "invitationCount": 6
+      },
+      {
+        "points": 65,
+        "invitationCount": 7
+      }
+    ],
+    "englishMix": {
+      "Competent": 12,
+      "Proficient": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2332",
+    "occupationTitle": "Civil Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 45,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 2
+      },
+      {
+        "points": 80,
+        "invitationCount": 7
+      },
+      {
+        "points": 75,
+        "invitationCount": 16
+      },
+      {
+        "points": 70,
+        "invitationCount": 13
+      },
+      {
+        "points": 65,
+        "invitationCount": 7
+      }
+    ],
+    "englishMix": {
+      "Competent": 7,
+      "Proficient": 26,
+      "Superior": 12
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2333",
+    "occupationTitle": "Electrical Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 21,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 7
+      },
+      {
+        "points": 75,
+        "invitationCount": 5
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Proficient": 10,
+      "Competent": 3,
+      "Superior": 8
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2334",
+    "occupationTitle": "Electronics Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 9,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 6
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 6,
+      "Competent": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2335",
+    "occupationTitle": "Industrial, Mechanical and Production Engineers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 90,
+    "invitationCount": 43,
+    "pointsDistribution": [
+      {
+        "points": 90,
+        "invitationCount": 1
+      },
+      {
+        "points": 85,
+        "invitationCount": 3
+      },
+      {
+        "points": 80,
+        "invitationCount": 6
+      },
+      {
+        "points": 75,
+        "invitationCount": 16
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 13
+      }
+    ],
+    "englishMix": {
+      "Competent": 10,
+      "Proficient": 21,
+      "Superior": 12
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2339",
+    "occupationTitle": "Other Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 98,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 4
+      },
+      {
+        "points": 80,
+        "invitationCount": 12
+      },
+      {
+        "points": 75,
+        "invitationCount": 16
+      },
+      {
+        "points": 70,
+        "invitationCount": 23
+      },
+      {
+        "points": 65,
+        "invitationCount": 43
+      }
+    ],
+    "englishMix": {
+      "Competent": 20,
+      "Proficient": 57,
+      "Superior": 21
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2341",
+    "occupationTitle": "Agricultural and Forestry Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 52,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 8
+      },
+      {
+        "points": 70,
+        "invitationCount": 18
+      },
+      {
+        "points": 65,
+        "invitationCount": 25
+      }
+    ],
+    "englishMix": {
+      "Competent": 14,
+      "NULL": 1,
+      "Proficient": 31,
+      "Superior": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2342",
+    "occupationTitle": "Chemists, and Food and Wine Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 85,
+    "invitationCount": 9,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 3
+      },
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 4,
+      "Proficient": 4,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2343",
+    "occupationTitle": "Environmental Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2344",
+    "occupationTitle": "Geologists Geophysicists and Hydrogeologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2345",
+    "occupationTitle": "Life Scientists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 15,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 2
+      },
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 5
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4,
+      "Competent": 10,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2347",
+    "occupationTitle": "Veterinarians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 11,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 4
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 6,
+      "Superior": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2349",
+    "occupationTitle": "Other Natural and Physical Science Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Competent": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2411",
+    "occupationTitle": "Early Childhood (Pre-primary School) Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 70,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 3
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 3,
+      "Superior": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2412",
+    "occupationTitle": "Primary School Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 16,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 9
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Superior": 12,
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2414",
+    "occupationTitle": "Secondary School Teachers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 18,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 6
+      },
+      {
+        "points": 65,
+        "invitationCount": 9
+      }
+    ],
+    "englishMix": {
+      "Proficient": 12,
+      "Superior": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2421",
+    "occupationTitle": "University Lecturers and Tutors",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 95,
+    "invitationCount": 10,
+    "pointsDistribution": [
+      {
+        "points": 95,
+        "invitationCount": 1
+      },
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 7,
+      "Competent": 2,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2493",
+    "occupationTitle": "Teachers of English to Speakers of Other Languages",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 5,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Proficient": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2511",
+    "occupationTitle": "Dietitians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 75,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Superior": 2,
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2512",
+    "occupationTitle": "Medical Imaging Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 70,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 70,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2515",
+    "occupationTitle": "Pharmacists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "NULL": 1,
+      "Competent": 1,
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2519",
+    "occupationTitle": "Other Health Diagnostic and Promotion Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2524",
+    "occupationTitle": "Occupational Therapists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 10,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 4
+      }
+    ],
+    "englishMix": {
+      "Superior": 4,
+      "Proficient": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2525",
+    "occupationTitle": "Physiotherapists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 29,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 12
+      },
+      {
+        "points": 65,
+        "invitationCount": 12
+      }
+    ],
+    "englishMix": {
+      "Superior": 9,
+      "Proficient": 20
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2527",
+    "occupationTitle": "Speech Professionals and Audiologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 12,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      },
+      {
+        "points": 65,
+        "invitationCount": 5
+      }
+    ],
+    "englishMix": {
+      "Proficient": 8,
+      "Superior": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2541",
+    "occupationTitle": "Midwives",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1,
+      "Superior": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2544",
+    "occupationTitle": "Registered Nurses",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 637,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 4
+      },
+      {
+        "points": 80,
+        "invitationCount": 32
+      },
+      {
+        "points": 75,
+        "invitationCount": 154
+      },
+      {
+        "points": 70,
+        "invitationCount": 217
+      },
+      {
+        "points": 65,
+        "invitationCount": 230
+      }
+    ],
+    "englishMix": {
+      "Proficient": 443,
+      "Superior": 190,
+      "Competent": 2,
+      "NULL": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2611",
+    "occupationTitle": "ICT Business and Systems Analysts",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 26,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 2
+      },
+      {
+        "points": 80,
+        "invitationCount": 18
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Superior": 22,
+      "Proficient": 2,
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2613",
+    "occupationTitle": "Software and Applications Programmers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 73,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 7
+      },
+      {
+        "points": 80,
+        "invitationCount": 21
+      },
+      {
+        "points": 75,
+        "invitationCount": 25
+      },
+      {
+        "points": 70,
+        "invitationCount": 11
+      },
+      {
+        "points": 65,
+        "invitationCount": 9
+      }
+    ],
+    "englishMix": {
+      "Competent": 12,
+      "Proficient": 36,
+      "Superior": 25
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2621",
+    "occupationTitle": "Database and Systems Administrators, and ICT Security Sp",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 90,
+    "invitationCount": 59,
+    "pointsDistribution": [
+      {
+        "points": 90,
+        "invitationCount": 1
+      },
+      {
+        "points": 85,
+        "invitationCount": 2
+      },
+      {
+        "points": 80,
+        "invitationCount": 21
+      },
+      {
+        "points": 75,
+        "invitationCount": 31
+      },
+      {
+        "points": 70,
+        "invitationCount": 4
+      }
+    ],
+    "englishMix": {
+      "Superior": 38,
+      "Proficient": 21
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2631",
+    "occupationTitle": "Computer Network Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 13,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 3
+      },
+      {
+        "points": 80,
+        "invitationCount": 6
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4,
+      "Competent": 2,
+      "Superior": 7
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2633",
+    "occupationTitle": "Telecommunications Engineering Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2712",
+    "occupationTitle": "Judicial and Other Legal Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 75,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2723",
+    "occupationTitle": "Psychologists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 75,
+    "observedMaximumPoints": 80,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2724",
+    "occupationTitle": "Social Professionals",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 6,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 2
+      },
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2,
+      "Superior": 3,
+      "Competent": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "2725",
+    "occupationTitle": "Social Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 23,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 10
+      },
+      {
+        "points": 65,
+        "invitationCount": 9
+      }
+    ],
+    "englishMix": {
+      "Proficient": 17,
+      "Superior": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3114",
+    "occupationTitle": "Science Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 9,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 5
+      },
+      {
+        "points": 70,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 3,
+      "Proficient": 6
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3122",
+    "occupationTitle": "Civil Engineering Draftspersons and Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 70,
+    "observedMaximumPoints": 80,
+    "invitationCount": 18,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 5
+      },
+      {
+        "points": 70,
+        "invitationCount": 12
+      }
+    ],
+    "englishMix": {
+      "Proficient": 15,
+      "Superior": 3
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3123",
+    "occupationTitle": "Electrical Engineering Draftspersons and Technicians",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Proficient": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3223",
+    "occupationTitle": "Structural Steel and Welding Trades Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 2
+      },
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Superior": 2,
+      "Competent": 1,
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3232",
+    "occupationTitle": "Metal Fitters and Machinists",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 4,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Proficient": 4
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3341",
+    "occupationTitle": "Plumbers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3423",
+    "occupationTitle": "Electronics Trades Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 21,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 1
+      },
+      {
+        "points": 75,
+        "invitationCount": 3
+      },
+      {
+        "points": 70,
+        "invitationCount": 5
+      },
+      {
+        "points": 65,
+        "invitationCount": 12
+      }
+    ],
+    "englishMix": {
+      "Proficient": 19,
+      "Competent": 1,
+      "Superior": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3424",
+    "occupationTitle": "Telecommunications Trades Workers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 1,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 1
+      }
+    ],
+    "englishMix": {
+      "Proficient": 1
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3511",
+    "occupationTitle": "Bakers and Pastrycooks",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 85,
+    "invitationCount": 13,
+    "pointsDistribution": [
+      {
+        "points": 85,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 9
+      },
+      {
+        "points": 65,
+        "invitationCount": 3
+      }
+    ],
+    "englishMix": {
+      "Competent": 4,
+      "Proficient": 7,
+      "Superior": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3513",
+    "occupationTitle": "Chefs",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 75,
+    "invitationCount": 27,
+    "pointsDistribution": [
+      {
+        "points": 75,
+        "invitationCount": 1
+      },
+      {
+        "points": 70,
+        "invitationCount": 8
+      },
+      {
+        "points": 65,
+        "invitationCount": 18
+      }
+    ],
+    "englishMix": {
+      "Competent": 8,
+      "Proficient": 19
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3514",
+    "occupationTitle": "Cooks",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 80,
+    "invitationCount": 56,
+    "pointsDistribution": [
+      {
+        "points": 80,
+        "invitationCount": 2
+      },
+      {
+        "points": 75,
+        "invitationCount": 4
+      },
+      {
+        "points": 70,
+        "invitationCount": 10
+      },
+      {
+        "points": 65,
+        "invitationCount": 40
+      }
+    ],
+    "englishMix": {
+      "Proficient": 22,
+      "Competent": 29,
+      "Superior": 5
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "190",
+    "occupationCode": "3941",
+    "occupationTitle": "Cabinetmakers",
+    "occupationLevel": "unit_group",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-09-07",
+    "observedMinimumPoints": 65,
+    "observedMaximumPoints": 65,
+    "invitationCount": 2,
+    "pointsDistribution": [
+      {
+        "points": 65,
+        "invitationCount": 2
+      }
+    ],
+    "englishMix": {
+      "Competent": 2
+    },
+    "countMethod": "derived_from_official_rows",
+    "sourceId": "dha-foi-190900418-2019",
+    "sourceSha256": "75b54d82d4a300a0881b4808d54c3e9ae0ee33866c7944cb4059016d664571c5"
+  }
+]
