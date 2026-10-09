@@ -1,0 +1,15 @@
+{
+  "name": "nomination-atlas-tools",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "verify:local": "node scripts/verify.mjs",
+    "build:pages": "npm run build --prefix apps/web && node scripts/package-preview.mjs && node scripts/package-pages.mjs"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "0.5.8",
+    "@electric-sql/pglite-socket": "0.2.11",
+    "pg": "8.23.1"
+  }
+}
