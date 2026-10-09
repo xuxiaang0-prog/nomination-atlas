@@ -1,0 +1,264 @@
+{
+  "sa": [
+    {
+      "sourceId": "sa-dec-2025",
+      "publicationDate": "2025-12-04",
+      "roundMonth": "2025-12",
+      "reportedTotals": {
+        "190": 257,
+        "491": 145,
+        "combined": 402
+      },
+      "categorySum": {
+        "190": 257,
+        "491": 145,
+        "combined": 402
+      },
+      "internallyReconciles": true,
+      "roundRows": 30,
+      "method": "Compare reported round total with sum of printed sub-major-group round counts; no corrections made."
+    },
+    {
+      "sourceId": "sa-jan-2026",
+      "publicationDate": "2026-01-06",
+      "roundMonth": "2026-01",
+      "reportedTotals": {
+        "190": 235,
+        "491": 109,
+        "combined": 344
+      },
+      "categorySum": {
+        "190": 235,
+        "491": 109,
+        "combined": 344
+      },
+      "internallyReconciles": true,
+      "roundRows": 32,
+      "method": "Compare reported round total with sum of printed sub-major-group round counts; no corrections made.",
+      "ytdReconciliationMismatches": [],
+      "ytdInterpretation": "Different cumulative values can reflect retrospective changes; source gives no explanation. Do not use differences as inferred rounds."
+    },
+    {
+      "sourceId": "sa-feb-2026",
+      "publicationDate": "2026-02-03",
+      "roundMonth": "2026-02",
+      "reportedTotals": {
+        "190": 227,
+        "491": 137,
+        "combined": 364
+      },
+      "categorySum": {
+        "190": 227,
+        "491": 137,
+        "combined": 364
+      },
+      "internallyReconciles": true,
+      "roundRows": 32,
+      "method": "Compare reported round total with sum of printed sub-major-group round counts; no corrections made.",
+      "ytdReconciliationMismatches": [],
+      "ytdInterpretation": "Different cumulative values can reflect retrospective changes; source gives no explanation. Do not use differences as inferred rounds."
+    },
+    {
+      "sourceId": "sa-march-2026",
+      "publicationDate": "2026-03-03",
+      "roundMonth": "2026-03",
+      "reportedTotals": {
+        "190": 242,
+        "491": 164,
+        "combined": 406
+      },
+      "categorySum": {
+        "190": 242,
+        "491": 164,
+        "combined": 406
+      },
+      "internallyReconciles": true,
+      "roundRows": 32,
+      "method": "Compare reported round total with sum of printed sub-major-group round counts; no corrections made.",
+      "ytdReconciliationMismatches": [
+        {
+          "group": "24 Education Professionals",
+          "visa": "190",
+          "previousYtd": 61,
+          "currentRound": 30,
+          "expectedIfNoRevisions": 91,
+          "reportedYtd": 80
+        },
+        {
+          "group": "24 Education Professionals",
+          "visa": "491",
+          "previousYtd": 13,
+          "currentRound": 6,
+          "expectedIfNoRevisions": 19,
+          "reportedYtd": 16
+        },
+        {
+          "group": "24 Education Professionals",
+          "visa": "combined",
+          "previousYtd": 74,
+          "currentRound": 36,
+          "expectedIfNoRevisions": 110,
+          "reportedYtd": 96
+        },
+        {
+          "group": "34 Electrotechnology and Telecommunications Trades Workers",
+          "visa": "190",
+          "previousYtd": 69,
+          "currentRound": 8,
+          "expectedIfNoRevisions": 77,
+          "reportedYtd": 76
+        },
+        {
+          "group": "34 Electrotechnology and Telecommunications Trades Workers",
+          "visa": "combined",
+          "previousYtd": 72,
+          "currentRound": 13,
+          "expectedIfNoRevisions": 85,
+          "reportedYtd": 84
+        },
+        {
+          "group": "Total",
+          "visa": "190",
+          "previousYtd": 837,
+          "currentRound": 242,
+          "expectedIfNoRevisions": 1079,
+          "reportedYtd": 1067
+        },
+        {
+          "group": "Total",
+          "visa": "491",
+          "previousYtd": 458,
+          "currentRound": 164,
+          "expectedIfNoRevisions": 622,
+          "reportedYtd": 619
+        },
+        {
+          "group": "Total",
+          "visa": "combined",
+          "previousYtd": 1295,
+          "currentRound": 406,
+          "expectedIfNoRevisions": 1701,
+          "reportedYtd": 1686
+        }
+      ],
+      "ytdInterpretation": "Different cumulative values can reflect retrospective changes; source gives no explanation. Do not use differences as inferred rounds."
+    },
+    {
+      "sourceId": "sa-april-2026",
+      "publicationDate": "2026-04-01",
+      "roundMonth": "2026-04",
+      "reportedTotals": {
+        "190": 245,
+        "491": 200,
+        "combined": 445
+      },
+      "categorySum": {
+        "190": 245,
+        "491": 200,
+        "combined": 445
+      },
+      "internallyReconciles": true,
+      "roundRows": 32,
+      "method": "Compare reported round total with sum of printed sub-major-group round counts; no corrections made.",
+      "ytdReconciliationMismatches": [],
+      "ytdInterpretation": "Different cumulative values can reflect retrospective changes; source gives no explanation. Do not use differences as inferred rounds."
+    },
+    {
+      "sourceId": "sa-may-2026",
+      "publicationDate": "2026-05-01",
+      "roundMonth": "2026-05",
+      "reportedTotals": {
+        "190": 295,
+        "491": 214,
+        "combined": 509
+      },
+      "categorySum": {
+        "190": 294,
+        "491": 203,
+        "combined": 497
+      },
+      "internallyReconciles": false,
+      "roundRows": 34,
+      "method": "Compare reported round total with sum of printed sub-major-group round counts; no corrections made.",
+      "ytdReconciliationMismatches": [
+        {
+          "group": "25 Health Professionals",
+          "visa": "491",
+          "previousYtd": 23,
+          "currentRound": 13,
+          "expectedIfNoRevisions": 36,
+          "reportedYtd": 23
+        },
+        {
+          "group": "25 Health Professionals",
+          "visa": "combined",
+          "previousYtd": 445,
+          "currentRound": 141,
+          "expectedIfNoRevisions": 586,
+          "reportedYtd": 573
+        },
+        {
+          "group": "Total",
+          "visa": "190",
+          "previousYtd": 1312,
+          "currentRound": 295,
+          "expectedIfNoRevisions": 1607,
+          "reportedYtd": 1606
+        },
+        {
+          "group": "Total",
+          "visa": "491",
+          "previousYtd": 819,
+          "currentRound": 214,
+          "expectedIfNoRevisions": 1033,
+          "reportedYtd": 1009
+        },
+        {
+          "group": "Total",
+          "visa": "combined",
+          "previousYtd": 2131,
+          "currentRound": 509,
+          "expectedIfNoRevisions": 2640,
+          "reportedYtd": 2615
+        }
+      ],
+      "ytdInterpretation": "Different cumulative values can reflect retrospective changes; source gives no explanation. Do not use differences as inferred rounds."
+    },
+    {
+      "sourceId": "sa-late-may-2026",
+      "publicationDate": "2026-05-21",
+      "roundMonth": "2026-05",
+      "reportedTotals": {
+        "190": 161,
+        "491": 77,
+        "combined": 238
+      },
+      "categorySum": {
+        "190": 161,
+        "491": 77,
+        "combined": 238
+      },
+      "internallyReconciles": true,
+      "roundRows": 34,
+      "method": "Compare reported round total with sum of printed sub-major-group round counts; no corrections made.",
+      "ytdReconciliationMismatches": [],
+      "ytdInterpretation": "Different cumulative values can reflect retrospective changes; source gives no explanation. Do not use differences as inferred rounds."
+    }
+  ],
+  "wa": [
+    "Count invitations issued, not unique persons. WA explicitly allows an eligible EOI to receive invitations for multiple streams, but only one nomination application can proceed.",
+    "The published EOI points are last-invited profiles after priority ranking, not a universal eligibility cutoff.",
+    "EOI submission date is retained as published and is not renamed invitation date.",
+    "Do not merge stream totals onto occupation rows or infer occupation counts from number of rows.",
+    "Do not add month-level and round-level rows together.",
+    "May 2026 VET 190 values 34 vs 37 conflict internally; excluded numeric counts retain raw candidates."
+  ],
+  "actQuarantine": [
+    {
+      "round": "2025-12-10",
+      "code": "3129",
+      "raw": "80 85 ",
+      "reason": "Four column positions cannot be established from extracted text; all four withheld"
+    }
+  ]
+}
