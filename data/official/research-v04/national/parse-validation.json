@@ -1,0 +1,35 @@
+{
+  "documentPages": 268,
+  "pairedPages": 134,
+  "pagePairRowCountsMatch": true,
+  "leftRows": 6659,
+  "rightRows": 6659,
+  "retained491Rows": 266,
+  "retained491OccupationStateGroups": 116,
+  "retained491OccupationStateMonthGroups": 124,
+  "byVisaAndState": {
+    "489-NSW": 1308,
+    "489-NT": 409,
+    "489-QLD": 278,
+    "489-SA": 2591,
+    "489-TAS": 1654,
+    "489-VIC": 114,
+    "489-WA": 39,
+    "491-NT": 20,
+    "491-QLD": 42,
+    "491-SA": 27,
+    "491-TAS": 169,
+    "491-VIC": 8
+  },
+  "491DateMin": "2019-11-20",
+  "491DateMax": "2019-12-23",
+  "491ScoreMin": 65,
+  "491ScoreMax": 100,
+  "491MissingEnglish": 3,
+  "visualSpotChecks": [
+    "PDF page 130 versus page 264 aligned rows, including NULL English preserved",
+    "PDF page 134 table footer confirms EOIs are not unique persons"
+  ],
+  "noImputation": true,
+  "suppression": "No counts were suppressed in the released individual-row table. Count=number of published rows, never unique individuals."
+}

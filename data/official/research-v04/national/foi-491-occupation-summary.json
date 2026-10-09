@@ -1,0 +1,3606 @@
+[
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "221111",
+    "occupationName": "Accountant (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-22",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 65,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 7,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "75": 1,
+      "80": 3,
+      "85": 1,
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 9 of aligned split-width table",
+      "PDF pages 129 and 263, row 10 of aligned split-width table",
+      "PDF pages 129 and 263, row 11 of aligned split-width table",
+      "PDF pages 129 and 263, row 12 of aligned split-width table",
+      "PDF pages 129 and 263, row 13 of aligned split-width table",
+      "PDF pages 129 and 263, row 14 of aligned split-width table",
+      "PDF pages 129 and 263, row 15 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r9",
+      "dha-fa191201350-p129-r10",
+      "dha-fa191201350-p129-r11",
+      "dha-fa191201350-p129-r12",
+      "dha-fa191201350-p129-r13",
+      "dha-fa191201350-p129-r14",
+      "dha-fa191201350-p129-r15"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "225212",
+    "occupationName": "ICT Business Development Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-12",
+    "invitationDateMax": "2019-12-12",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 16 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r16"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "252411",
+    "occupationName": "Occupational Therapist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-20",
+    "invitationDateMax": "2019-11-20",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 17 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r17"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "254499",
+    "occupationName": "Registered Nurses nec",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 18 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r18"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "263111",
+    "occupationName": "Computer Network and Systems Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-22",
+    "invitationDateMax": "2019-11-22",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 19 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r19"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "312311",
+    "occupationName": "Electrical Engineering Draftsperson",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 65,
+    "pointsMax": 65,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 20 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r20"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "321211",
+    "occupationName": "Motor Mechanic (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-06",
+    "invitationDateMax": "2019-12-06",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 21 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r21"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "351311",
+    "occupationName": "Chef",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-25",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 65,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 4,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "75": 1,
+      "80": 1,
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 22 of aligned split-width table",
+      "PDF pages 129 and 263, row 23 of aligned split-width table",
+      "PDF pages 129 and 263, row 24 of aligned split-width table",
+      "PDF pages 129 and 263, row 25 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r22",
+      "dha-fa191201350-p129-r23",
+      "dha-fa191201350-p129-r24",
+      "dha-fa191201350-p129-r25"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "411411",
+    "occupationName": "Enrolled Nurse",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-27",
+    "invitationDateMax": "2019-11-27",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 26 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r26"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "411716",
+    "occupationName": "Youth Worker",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-06",
+    "invitationDateMax": "2019-12-06",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 27 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r27"
+    ]
+  },
+  {
+    "state": "NT",
+    "visaSubclass": "491",
+    "occupationCode": "511112",
+    "occupationName": "Program or Project Administrator",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-11",
+    "invitationDateMax": "2019-12-11",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 28 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r28"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "132111",
+    "occupationName": "Corporate Services Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 29 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r29"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "132211",
+    "occupationName": "Finance Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 80,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 4,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1,
+      "85": 1,
+      "95": 2
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 30 of aligned split-width table",
+      "PDF pages 129 and 263, row 31 of aligned split-width table",
+      "PDF pages 129 and 263, row 32 of aligned split-width table",
+      "PDF pages 129 and 263, row 33 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r30",
+      "dha-fa191201350-p129-r31",
+      "dha-fa191201350-p129-r32",
+      "dha-fa191201350-p129-r33"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "133513",
+    "occupationName": "Production Manager (Mining)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 34 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r34"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "141111",
+    "occupationName": "Cafe or Restaurant Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-20",
+    "pointsMin": 65,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 35 of aligned split-width table",
+      "PDF pages 129 and 263, row 36 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r35",
+      "dha-fa191201350-p129-r36"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "149413",
+    "occupationName": "Transport Company Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 65,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 37 of aligned split-width table",
+      "PDF pages 129 and 263, row 38 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r37",
+      "dha-fa191201350-p129-r38"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "225113",
+    "occupationName": "Marketing Specialist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 70,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1,
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 39 of aligned split-width table",
+      "PDF pages 129 and 263, row 40 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r39",
+      "dha-fa191201350-p129-r40"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "232111",
+    "occupationName": "Architect",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-11",
+    "invitationDateMax": "2019-12-11",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 41 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r41"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "233213",
+    "occupationName": "Quantity Surveyor",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 42 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r42"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "233512",
+    "occupationName": "Mechanical Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 43 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r43"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "233912",
+    "occupationName": "Agricultural Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 47 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r47"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "233914",
+    "occupationName": "Engineering Technologist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-11",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 70,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 2,
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 44 of aligned split-width table",
+      "PDF pages 129 and 263, row 45 of aligned split-width table",
+      "PDF pages 129 and 263, row 46 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r44",
+      "dha-fa191201350-p129-r45",
+      "dha-fa191201350-p129-r46"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "241111",
+    "occupationName": "Early Childhood (Pre-primary School) Teacher",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-12",
+    "invitationDateMax": "2019-12-12",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 48 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r48"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "241411",
+    "occupationName": "Secondary School Teacher",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-20",
+    "invitationDateMax": "2019-12-20",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 49 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r49"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "252312",
+    "occupationName": "Dentist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-04",
+    "invitationDateMax": "2019-12-04",
+    "pointsMin": 90,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 129 and 263, row 50 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p129-r50"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "254412",
+    "occupationName": "Registered Nurse (Aged Care)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 6 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r6"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "254423",
+    "occupationName": "Registered Nurse (Perioperative)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-11",
+    "invitationDateMax": "2019-12-11",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 1 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r1"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "254425",
+    "occupationName": "Registered Nurse (Paediatrics)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 5 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r5"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "254499",
+    "occupationName": "Registered Nurses nec",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-10",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 80,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1,
+      "85": 1,
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 2 of aligned split-width table",
+      "PDF pages 130 and 264, row 3 of aligned split-width table",
+      "PDF pages 130 and 264, row 4 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r2",
+      "dha-fa191201350-p130-r3",
+      "dha-fa191201350-p130-r4"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "271311",
+    "occupationName": "Solicitor",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 7 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r7"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "272511",
+    "occupationName": "Social Worker",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 8 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r8"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "272613",
+    "occupationName": "Welfare Worker",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 90,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "90": 1,
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 9 of aligned split-width table",
+      "PDF pages 130 and 264, row 10 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r9",
+      "dha-fa191201350-p130-r10"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "312999",
+    "occupationName": "Building and Engineering Technicians nec",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 11 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r11"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "331111",
+    "occupationName": "Bricklayer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-20",
+    "invitationDateMax": "2019-12-20",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 12 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r12"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "334111",
+    "occupationName": "Plumber (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-20",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 3
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 13 of aligned split-width table",
+      "PDF pages 130 and 264, row 14 of aligned split-width table",
+      "PDF pages 130 and 264, row 15 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r13",
+      "dha-fa191201350-p130-r14",
+      "dha-fa191201350-p130-r15"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "342111",
+    "occupationName": "Airconditioning and Refrigeration Mechanic",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 16 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r16"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "351311",
+    "occupationName": "Chef",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-11",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 75,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1,
+      "80": 1,
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 17 of aligned split-width table",
+      "PDF pages 130 and 264, row 18 of aligned split-width table",
+      "PDF pages 130 and 264, row 19 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r17",
+      "dha-fa191201350-p130-r18",
+      "dha-fa191201350-p130-r19"
+    ]
+  },
+  {
+    "state": "QLD",
+    "visaSubclass": "491",
+    "occupationCode": "452311",
+    "occupationName": "Diving Instructor (Open Water)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 90,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 20 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r20"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "121312",
+    "occupationName": "Beef Cattle Farmer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-13",
+    "invitationDateMax": "2019-12-13",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 21 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r21"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "141111",
+    "occupationName": "Cafe or Restaurant Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-11",
+    "invitationDateMax": "2019-12-11",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 22 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r22"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "212314",
+    "occupationName": "Film and Video Editor",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-09",
+    "invitationDateMax": "2019-12-09",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 23 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r23"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "221111",
+    "occupationName": "Accountant (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 24 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r24"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "225113",
+    "occupationName": "Marketing Specialist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1,
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 25 of aligned split-width table",
+      "PDF pages 130 and 264, row 26 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r25",
+      "dha-fa191201350-p130-r26"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "233213",
+    "occupationName": "Quantity Surveyor",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 27 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r27"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "233914",
+    "occupationName": "Engineering Technologist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 28 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r28"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "241111",
+    "occupationName": "Early Childhood (Pre-primary School) Teacher",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 29 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r29"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "241511",
+    "occupationName": "Special Needs Teacher",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-06",
+    "invitationDateMax": "2019-12-06",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 30 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r30"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "254412",
+    "occupationName": "Registered Nurse (Aged Care)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 31 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r31"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "254418",
+    "occupationName": "Registered Nurse (Medical)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 33 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r33"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "254423",
+    "occupationName": "Registered Nurse (Perioperative)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 90,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 32 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r32"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "272511",
+    "occupationName": "Social Worker",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 34 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r34"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "313113",
+    "occupationName": "Web Administrator",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-18",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 35 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r35"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "321211",
+    "occupationName": "Motor Mechanic (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 65,
+    "pointsMax": 65,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 2
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 36 of aligned split-width table",
+      "PDF pages 130 and 264, row 37 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r36",
+      "dha-fa191201350-p130-r37"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "351311",
+    "occupationName": "Chef",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-18",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 70,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1,
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 38 of aligned split-width table",
+      "PDF pages 130 and 264, row 39 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r38",
+      "dha-fa191201350-p130-r39"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "351411",
+    "occupationName": "Cook",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-10",
+    "invitationDateMax": "2019-12-10",
+    "pointsMin": 65,
+    "pointsMax": 65,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 40 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r40"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "361311",
+    "occupationName": "Veterinary Nurse",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 41 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r41"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "391111",
+    "occupationName": "Hairdresser",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 42 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r42"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "411411",
+    "occupationName": "Enrolled Nurse",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-10",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 4,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1,
+      "75": 2,
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 43 of aligned split-width table",
+      "PDF pages 130 and 264, row 44 of aligned split-width table",
+      "PDF pages 130 and 264, row 45 of aligned split-width table",
+      "PDF pages 130 and 264, row 46 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r43",
+      "dha-fa191201350-p130-r44",
+      "dha-fa191201350-p130-r45",
+      "dha-fa191201350-p130-r46"
+    ]
+  },
+  {
+    "state": "SA",
+    "visaSubclass": "491",
+    "occupationCode": "511112",
+    "occupationName": "Program or Project Administrator",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 47 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r47"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "121111",
+    "occupationName": "Aquaculture Farmer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-04",
+    "invitationDateMax": "2019-12-04",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 48 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r48"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "121313",
+    "occupationName": "Dairy Cattle Farmer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-12",
+    "invitationDateMax": "2019-12-12",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 49 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r49"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "132211",
+    "occupationName": "Finance Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-26",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 65,
+    "pointsMax": 100,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "75": 1,
+      "100": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 130 and 264, row 50 of aligned split-width table",
+      "PDF pages 131 and 265, row 1 of aligned split-width table",
+      "PDF pages 131 and 265, row 2 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p130-r50",
+      "dha-fa191201350-p131-r1",
+      "dha-fa191201350-p131-r2"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "133111",
+    "occupationName": "Construction Project Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-10",
+    "invitationDateMax": "2019-12-10",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 131 and 265, row 3 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p131-r3"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "141111",
+    "occupationName": "Cafe or Restaurant Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-21",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 65,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 4,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 2,
+      "70": 1,
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 131 and 265, row 4 of aligned split-width table",
+      "PDF pages 131 and 265, row 5 of aligned split-width table",
+      "PDF pages 131 and 265, row 6 of aligned split-width table",
+      "PDF pages 131 and 265, row 7 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p131-r4",
+      "dha-fa191201350-p131-r5",
+      "dha-fa191201350-p131-r6",
+      "dha-fa191201350-p131-r7"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "141311",
+    "occupationName": "Hotel or Motel Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 131 and 265, row 8 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p131-r8"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "211311",
+    "occupationName": "Photographer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-06",
+    "invitationDateMax": "2019-12-06",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 131 and 265, row 9 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p131-r9"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "221111",
+    "occupationName": "Accountant (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-20",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 65,
+    "pointsMax": 100,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 81,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 5,
+      "70": 17,
+      "75": 17,
+      "80": 21,
+      "85": 11,
+      "90": 7,
+      "95": 1,
+      "100": 2
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 131 and 265, row 10 of aligned split-width table",
+      "PDF pages 131 and 265, row 11 of aligned split-width table",
+      "PDF pages 131 and 265, row 12 of aligned split-width table",
+      "PDF pages 131 and 265, row 14 of aligned split-width table",
+      "PDF pages 131 and 265, row 15 of aligned split-width table",
+      "PDF pages 131 and 265, row 16 of aligned split-width table",
+      "PDF pages 131 and 265, row 17 of aligned split-width table",
+      "PDF pages 131 and 265, row 18 of aligned split-width table",
+      "PDF pages 131 and 265, row 19 of aligned split-width table",
+      "PDF pages 131 and 265, row 20 of aligned split-width table",
+      "PDF pages 131 and 265, row 21 of aligned split-width table",
+      "PDF pages 131 and 265, row 22 of aligned split-width table",
+      "PDF pages 131 and 265, row 23 of aligned split-width table",
+      "PDF pages 131 and 265, row 24 of aligned split-width table",
+      "PDF pages 131 and 265, row 25 of aligned split-width table",
+      "PDF pages 131 and 265, row 26 of aligned split-width table",
+      "PDF pages 131 and 265, row 27 of aligned split-width table",
+      "PDF pages 131 and 265, row 28 of aligned split-width table",
+      "PDF pages 131 and 265, row 29 of aligned split-width table",
+      "PDF pages 131 and 265, row 30 of aligned split-width table",
+      "PDF pages 131 and 265, row 32 of aligned split-width table",
+      "PDF pages 131 and 265, row 33 of aligned split-width table",
+      "PDF pages 131 and 265, row 34 of aligned split-width table",
+      "PDF pages 131 and 265, row 36 of aligned split-width table",
+      "PDF pages 131 and 265, row 37 of aligned split-width table",
+      "PDF pages 131 and 265, row 38 of aligned split-width table",
+      "PDF pages 131 and 265, row 39 of aligned split-width table",
+      "PDF pages 131 and 265, row 40 of aligned split-width table",
+      "PDF pages 131 and 265, row 41 of aligned split-width table",
+      "PDF pages 131 and 265, row 42 of aligned split-width table",
+      "PDF pages 131 and 265, row 43 of aligned split-width table",
+      "PDF pages 131 and 265, row 44 of aligned split-width table",
+      "PDF pages 131 and 265, row 45 of aligned split-width table",
+      "PDF pages 131 and 265, row 46 of aligned split-width table",
+      "PDF pages 131 and 265, row 47 of aligned split-width table",
+      "PDF pages 131 and 265, row 48 of aligned split-width table",
+      "PDF pages 131 and 265, row 49 of aligned split-width table",
+      "PDF pages 131 and 265, row 50 of aligned split-width table",
+      "PDF pages 132 and 266, row 1 of aligned split-width table",
+      "PDF pages 132 and 266, row 2 of aligned split-width table",
+      "PDF pages 132 and 266, row 3 of aligned split-width table",
+      "PDF pages 132 and 266, row 4 of aligned split-width table",
+      "PDF pages 132 and 266, row 5 of aligned split-width table",
+      "PDF pages 132 and 266, row 6 of aligned split-width table",
+      "PDF pages 132 and 266, row 7 of aligned split-width table",
+      "PDF pages 132 and 266, row 8 of aligned split-width table",
+      "PDF pages 132 and 266, row 9 of aligned split-width table",
+      "PDF pages 132 and 266, row 10 of aligned split-width table",
+      "PDF pages 132 and 266, row 11 of aligned split-width table",
+      "PDF pages 132 and 266, row 12 of aligned split-width table",
+      "PDF pages 132 and 266, row 13 of aligned split-width table",
+      "PDF pages 132 and 266, row 14 of aligned split-width table",
+      "PDF pages 132 and 266, row 15 of aligned split-width table",
+      "PDF pages 132 and 266, row 16 of aligned split-width table",
+      "PDF pages 132 and 266, row 17 of aligned split-width table",
+      "PDF pages 132 and 266, row 18 of aligned split-width table",
+      "PDF pages 132 and 266, row 19 of aligned split-width table",
+      "PDF pages 132 and 266, row 20 of aligned split-width table",
+      "PDF pages 132 and 266, row 21 of aligned split-width table",
+      "PDF pages 132 and 266, row 22 of aligned split-width table",
+      "PDF pages 132 and 266, row 23 of aligned split-width table",
+      "PDF pages 132 and 266, row 24 of aligned split-width table",
+      "PDF pages 132 and 266, row 25 of aligned split-width table",
+      "PDF pages 132 and 266, row 26 of aligned split-width table",
+      "PDF pages 132 and 266, row 27 of aligned split-width table",
+      "PDF pages 132 and 266, row 28 of aligned split-width table",
+      "PDF pages 132 and 266, row 29 of aligned split-width table",
+      "PDF pages 132 and 266, row 30 of aligned split-width table",
+      "PDF pages 132 and 266, row 31 of aligned split-width table",
+      "PDF pages 132 and 266, row 32 of aligned split-width table",
+      "PDF pages 132 and 266, row 33 of aligned split-width table",
+      "PDF pages 132 and 266, row 34 of aligned split-width table",
+      "PDF pages 132 and 266, row 36 of aligned split-width table",
+      "PDF pages 132 and 266, row 37 of aligned split-width table",
+      "PDF pages 132 and 266, row 38 of aligned split-width table",
+      "PDF pages 132 and 266, row 39 of aligned split-width table",
+      "PDF pages 132 and 266, row 40 of aligned split-width table",
+      "PDF pages 132 and 266, row 41 of aligned split-width table",
+      "PDF pages 132 and 266, row 42 of aligned split-width table",
+      "PDF pages 132 and 266, row 43 of aligned split-width table",
+      "PDF pages 132 and 266, row 44 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p131-r10",
+      "dha-fa191201350-p131-r11",
+      "dha-fa191201350-p131-r12",
+      "dha-fa191201350-p131-r14",
+      "dha-fa191201350-p131-r15",
+      "dha-fa191201350-p131-r16",
+      "dha-fa191201350-p131-r17",
+      "dha-fa191201350-p131-r18",
+      "dha-fa191201350-p131-r19",
+      "dha-fa191201350-p131-r20",
+      "dha-fa191201350-p131-r21",
+      "dha-fa191201350-p131-r22",
+      "dha-fa191201350-p131-r23",
+      "dha-fa191201350-p131-r24",
+      "dha-fa191201350-p131-r25",
+      "dha-fa191201350-p131-r26",
+      "dha-fa191201350-p131-r27",
+      "dha-fa191201350-p131-r28",
+      "dha-fa191201350-p131-r29",
+      "dha-fa191201350-p131-r30",
+      "dha-fa191201350-p131-r32",
+      "dha-fa191201350-p131-r33",
+      "dha-fa191201350-p131-r34",
+      "dha-fa191201350-p131-r36",
+      "dha-fa191201350-p131-r37",
+      "dha-fa191201350-p131-r38",
+      "dha-fa191201350-p131-r39",
+      "dha-fa191201350-p131-r40",
+      "dha-fa191201350-p131-r41",
+      "dha-fa191201350-p131-r42",
+      "dha-fa191201350-p131-r43",
+      "dha-fa191201350-p131-r44",
+      "dha-fa191201350-p131-r45",
+      "dha-fa191201350-p131-r46",
+      "dha-fa191201350-p131-r47",
+      "dha-fa191201350-p131-r48",
+      "dha-fa191201350-p131-r49",
+      "dha-fa191201350-p131-r50",
+      "dha-fa191201350-p132-r1",
+      "dha-fa191201350-p132-r2",
+      "dha-fa191201350-p132-r3",
+      "dha-fa191201350-p132-r4",
+      "dha-fa191201350-p132-r5",
+      "dha-fa191201350-p132-r6",
+      "dha-fa191201350-p132-r7",
+      "dha-fa191201350-p132-r8",
+      "dha-fa191201350-p132-r9",
+      "dha-fa191201350-p132-r10",
+      "dha-fa191201350-p132-r11",
+      "dha-fa191201350-p132-r12",
+      "dha-fa191201350-p132-r13",
+      "dha-fa191201350-p132-r14",
+      "dha-fa191201350-p132-r15",
+      "dha-fa191201350-p132-r16",
+      "dha-fa191201350-p132-r17",
+      "dha-fa191201350-p132-r18",
+      "dha-fa191201350-p132-r19",
+      "dha-fa191201350-p132-r20",
+      "dha-fa191201350-p132-r21",
+      "dha-fa191201350-p132-r22",
+      "dha-fa191201350-p132-r23",
+      "dha-fa191201350-p132-r24",
+      "dha-fa191201350-p132-r25",
+      "dha-fa191201350-p132-r26",
+      "dha-fa191201350-p132-r27",
+      "dha-fa191201350-p132-r28",
+      "dha-fa191201350-p132-r29",
+      "dha-fa191201350-p132-r30",
+      "dha-fa191201350-p132-r31",
+      "dha-fa191201350-p132-r32",
+      "dha-fa191201350-p132-r33",
+      "dha-fa191201350-p132-r34",
+      "dha-fa191201350-p132-r36",
+      "dha-fa191201350-p132-r37",
+      "dha-fa191201350-p132-r38",
+      "dha-fa191201350-p132-r39",
+      "dha-fa191201350-p132-r40",
+      "dha-fa191201350-p132-r41",
+      "dha-fa191201350-p132-r42",
+      "dha-fa191201350-p132-r43",
+      "dha-fa191201350-p132-r44"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "221112",
+    "occupationName": "Management Accountant",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-22",
+    "invitationDateMax": "2019-12-22",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 131 and 265, row 13 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p131-r13"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "221113",
+    "occupationName": "Taxation Accountant",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-21",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 65,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "75": 1,
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 131 and 265, row 31 of aligned split-width table",
+      "PDF pages 131 and 265, row 35 of aligned split-width table",
+      "PDF pages 132 and 266, row 35 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p131-r31",
+      "dha-fa191201350-p131-r35",
+      "dha-fa191201350-p132-r35"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "221213",
+    "occupationName": "External Auditor",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-02",
+    "invitationDateMax": "2019-12-02",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 132 and 266, row 45 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p132-r45"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "223111",
+    "occupationName": "Human Resource Adviser",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 132 and 266, row 46 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p132-r46"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "224213",
+    "occupationName": "Health Information Manager",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-09",
+    "invitationDateMax": "2019-12-09",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 132 and 266, row 47 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p132-r47"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "225113",
+    "occupationName": "Marketing Specialist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1,
+      "85": 1,
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 132 and 266, row 48 of aligned split-width table",
+      "PDF pages 132 and 266, row 49 of aligned split-width table",
+      "PDF pages 132 and 266, row 50 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p132-r48",
+      "dha-fa191201350-p132-r49",
+      "dha-fa191201350-p132-r50"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "232511",
+    "occupationName": "Interior Designer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-20",
+    "invitationDateMax": "2019-12-20",
+    "pointsMin": 65,
+    "pointsMax": 65,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 1 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r1"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "233211",
+    "occupationName": "Civil Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-02",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 65,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 4,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "80": 1,
+      "90": 1,
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 2 of aligned split-width table",
+      "PDF pages 133 and 267, row 3 of aligned split-width table",
+      "PDF pages 133 and 267, row 4 of aligned split-width table",
+      "PDF pages 133 and 267, row 5 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r2",
+      "dha-fa191201350-p133-r3",
+      "dha-fa191201350-p133-r4",
+      "dha-fa191201350-p133-r5"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "233311",
+    "occupationName": "Electrical Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 80,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 3,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 2,
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 6 of aligned split-width table",
+      "PDF pages 133 and 267, row 7 of aligned split-width table",
+      "PDF pages 133 and 267, row 8 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r6",
+      "dha-fa191201350-p133-r7",
+      "dha-fa191201350-p133-r8"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "233411",
+    "occupationName": "Electronics Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 80,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1,
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 9 of aligned split-width table",
+      "PDF pages 133 and 267, row 10 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r9",
+      "dha-fa191201350-p133-r10"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "233512",
+    "occupationName": "Mechanical Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-21",
+    "invitationDateMax": "2019-12-22",
+    "pointsMin": 65,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 11 of aligned split-width table",
+      "PDF pages 133 and 267, row 12 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r11",
+      "dha-fa191201350-p133-r12"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "233611",
+    "occupationName": "Mining Engineer (excluding Petroleum)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-12",
+    "invitationDateMax": "2019-12-12",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 13 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r13"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "233914",
+    "occupationName": "Engineering Technologist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-02",
+    "invitationDateMax": "2019-12-22",
+    "pointsMin": 70,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 8,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1,
+      "75": 3,
+      "80": 1,
+      "85": 2,
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 14 of aligned split-width table",
+      "PDF pages 133 and 267, row 15 of aligned split-width table",
+      "PDF pages 133 and 267, row 16 of aligned split-width table",
+      "PDF pages 133 and 267, row 17 of aligned split-width table",
+      "PDF pages 133 and 267, row 18 of aligned split-width table",
+      "PDF pages 133 and 267, row 19 of aligned split-width table",
+      "PDF pages 133 and 267, row 20 of aligned split-width table",
+      "PDF pages 133 and 267, row 21 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r14",
+      "dha-fa191201350-p133-r15",
+      "dha-fa191201350-p133-r16",
+      "dha-fa191201350-p133-r17",
+      "dha-fa191201350-p133-r18",
+      "dha-fa191201350-p133-r19",
+      "dha-fa191201350-p133-r20",
+      "dha-fa191201350-p133-r21"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "234111",
+    "occupationName": "Agricultural Consultant",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 22 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r22"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "234312",
+    "occupationName": "Environmental Consultant",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-03",
+    "invitationDateMax": "2019-12-03",
+    "pointsMin": 65,
+    "pointsMax": 65,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 23 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r23"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "251513",
+    "occupationName": "Retail Pharmacist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-03",
+    "invitationDateMax": "2019-12-03",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 24 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r24"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "254412",
+    "occupationName": "Registered Nurse (Aged Care)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 31 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r31"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "254415",
+    "occupationName": "Registered Nurse (Critical Care and Emergency)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-21",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 65,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 8,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "75": 2,
+      "80": 1,
+      "85": 2,
+      "90": 2
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 26 of aligned split-width table",
+      "PDF pages 133 and 267, row 27 of aligned split-width table",
+      "PDF pages 133 and 267, row 28 of aligned split-width table",
+      "PDF pages 133 and 267, row 29 of aligned split-width table",
+      "PDF pages 133 and 267, row 32 of aligned split-width table",
+      "PDF pages 133 and 267, row 33 of aligned split-width table",
+      "PDF pages 133 and 267, row 35 of aligned split-width table",
+      "PDF pages 133 and 267, row 36 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r26",
+      "dha-fa191201350-p133-r27",
+      "dha-fa191201350-p133-r28",
+      "dha-fa191201350-p133-r29",
+      "dha-fa191201350-p133-r32",
+      "dha-fa191201350-p133-r33",
+      "dha-fa191201350-p133-r35",
+      "dha-fa191201350-p133-r36"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "254418",
+    "occupationName": "Registered Nurse (Medical)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 30 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r30"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "254421",
+    "occupationName": "Registered Nurse (Medical Practice)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 34 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r34"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "254499",
+    "occupationName": "Registered Nurses nec",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-02",
+    "invitationDateMax": "2019-12-02",
+    "pointsMin": 90,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 25 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r25"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "261111",
+    "occupationName": "ICT Business Analyst",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 75,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1,
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 37 of aligned split-width table",
+      "PDF pages 133 and 267, row 38 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r37",
+      "dha-fa191201350-p133-r38"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "261311",
+    "occupationName": "Analyst Programmer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 39 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r39"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "261312",
+    "occupationName": "Developer Programmer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-26",
+    "invitationDateMax": "2019-11-26",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 40 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r40"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "262112",
+    "occupationName": "ICT Security Specialist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-03",
+    "invitationDateMax": "2019-12-03",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 41 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r41"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "263111",
+    "occupationName": "Computer Network and Systems Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 42 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r42"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "263311",
+    "occupationName": "Telecommunications Engineer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-12",
+    "invitationDateMax": "2019-12-12",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 43 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r43"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "272399",
+    "occupationName": "Psychologists nec",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 44 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r44"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "272413",
+    "occupationName": "Translator",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-02",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 8,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 3,
+      "75": 2,
+      "80": 2,
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 133 and 267, row 45 of aligned split-width table",
+      "PDF pages 133 and 267, row 46 of aligned split-width table",
+      "PDF pages 133 and 267, row 47 of aligned split-width table",
+      "PDF pages 133 and 267, row 48 of aligned split-width table",
+      "PDF pages 133 and 267, row 49 of aligned split-width table",
+      "PDF pages 133 and 267, row 50 of aligned split-width table",
+      "PDF pages 134 and 268, row 1 of aligned split-width table",
+      "PDF pages 134 and 268, row 2 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p133-r45",
+      "dha-fa191201350-p133-r46",
+      "dha-fa191201350-p133-r47",
+      "dha-fa191201350-p133-r48",
+      "dha-fa191201350-p133-r49",
+      "dha-fa191201350-p133-r50",
+      "dha-fa191201350-p134-r1",
+      "dha-fa191201350-p134-r2"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "272511",
+    "occupationName": "Social Worker",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 3 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r3"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "312111",
+    "occupationName": "Architectural Draftsperson",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 5 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r5"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "312114",
+    "occupationName": "Construction Estimator",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 6 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r6"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "312116",
+    "occupationName": "Surveying or Spatial Science Technician",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-02",
+    "invitationDateMax": "2019-12-02",
+    "pointsMin": 65,
+    "pointsMax": 65,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 4 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r4"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "312211",
+    "occupationName": "Civil Engineering Draftsperson",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 7 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r7"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "321211",
+    "occupationName": "Motor Mechanic (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-23",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 8 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r8"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "351311",
+    "occupationName": "Chef",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-16",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 65,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1,
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 9 of aligned split-width table",
+      "PDF pages 134 and 268, row 10 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r9",
+      "dha-fa191201350-p134-r10"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "351411",
+    "occupationName": "Cook",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-17",
+    "invitationDateMax": "2019-12-17",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 11 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r11"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "391111",
+    "occupationName": "Hairdresser",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 12 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r12"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "394111",
+    "occupationName": "Cabinetmaker",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-12",
+    "invitationDateMax": "2019-12-12",
+    "pointsMin": 65,
+    "pointsMax": 65,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "65": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 13 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r13"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "411112",
+    "occupationName": "Intensive Care Ambulance Paramedic",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-19",
+    "invitationDateMax": "2019-12-19",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 14 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r14"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "411411",
+    "occupationName": "Enrolled Nurse",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-05",
+    "invitationDateMax": "2019-12-05",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 15 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r15"
+    ]
+  },
+  {
+    "state": "TAS",
+    "visaSubclass": "491",
+    "occupationCode": "612115",
+    "occupationName": "Real Estate Representative",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-02",
+    "invitationDateMax": "2019-12-02",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 16 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r16"
+    ]
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "491",
+    "occupationCode": "221111",
+    "occupationName": "Accountant (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-27",
+    "invitationDateMax": "2019-11-27",
+    "pointsMin": 85,
+    "pointsMax": 85,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "85": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 17 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r17"
+    ]
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "491",
+    "occupationCode": "254415",
+    "occupationName": "Registered Nurse (Critical Care and Emergency)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-29",
+    "invitationDateMax": "2019-11-29",
+    "pointsMin": 70,
+    "pointsMax": 70,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "70": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 18 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r18"
+    ]
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "491",
+    "occupationCode": "254418",
+    "occupationName": "Registered Nurse (Medical)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-22",
+    "invitationDateMax": "2019-11-22",
+    "pointsMin": 90,
+    "pointsMax": 90,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "90": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 19 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r19"
+    ]
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "491",
+    "occupationCode": "261312",
+    "occupationName": "Developer Programmer",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-27",
+    "invitationDateMax": "2019-11-27",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 20 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r20"
+    ]
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "491",
+    "occupationCode": "262112",
+    "occupationName": "ICT Security Specialist",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-11-21",
+    "invitationDateMax": "2019-11-21",
+    "pointsMin": 95,
+    "pointsMax": 95,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "95": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 21 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r21"
+    ]
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "491",
+    "occupationCode": "321211",
+    "occupationName": "Motor Mechanic (General)",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-20",
+    "invitationDateMax": "2019-12-20",
+    "pointsMin": 80,
+    "pointsMax": 80,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 1,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "80": 1
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 22 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r22"
+    ]
+  },
+  {
+    "state": "VIC",
+    "visaSubclass": "491",
+    "occupationCode": "351311",
+    "occupationName": "Chef",
+    "period": "2019",
+    "periodStart": "2019-01-01",
+    "periodEnd": "2019-12-30",
+    "invitationDateMin": "2019-12-20",
+    "invitationDateMax": "2019-12-23",
+    "pointsMin": 75,
+    "pointsMax": 75,
+    "pointsDefinition": "computed_minimum_of_reported_subclass_scores_in_this_historical_cohort",
+    "invitationCount": 2,
+    "countUnit": "EOI invitation records",
+    "pointsHistogram": {
+      "75": 2
+    },
+    "metric": "skillselect_visa_application_invitation_after_state_nomination",
+    "sourceId": "dha-foi-fa191201350",
+    "sourceSha256": "a2ef3c7b3cf0d8c872f471aa6121d2e0e96d379f7094e319707c3242d1979ca2",
+    "sourceLocators": [
+      "PDF pages 134 and 268, row 23 of aligned split-width table",
+      "PDF pages 134 and 268, row 24 of aligned split-width table"
+    ],
+    "recordIds": [
+      "dha-fa191201350-p134-r23",
+      "dha-fa191201350-p134-r24"
+    ]
+  }
+]

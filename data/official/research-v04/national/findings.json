@@ -1,0 +1,95 @@
+{
+  "researchCompletedAt": "2026-10-09T02:48:43.400328+00:00",
+  "mainFinding": "Verified downloadable 2019 state-nominated 491 invitation records with six-digit occupation, invitation date and reported Subclass Score, suitable only for a separately dated historical archive. No recent 2023–2026 complete state×occupation×invitation count×score event table located in the bounded public search. This is a search limit, not proof no such publication exists.",
+  "sourceId": "dha-foi-fa191201350",
+  "readyForImport": {
+    "individualRecords": "foi-491-individual-records.json",
+    "occupationSummary": "foi-491-occupation-summary.json",
+    "occupationMonthSummary": "foi-491-occupation-month-summary.json",
+    "validation": "parse-validation.json",
+    "parser": "parse_foi.py",
+    "sourcePdf": "fa-191201350.pdf"
+  },
+  "recordCount": 266,
+  "occupationStateGroups": 116,
+  "periodStart": "2019-01-01",
+  "periodEnd": "2019-12-30",
+  "actual491InvitationDateMin": "2019-11-20",
+  "actual491InvitationDateMax": "2019-12-23",
+  "states": {
+    "NT": 20,
+    "QLD": 42,
+    "SA": 27,
+    "TAS": 169,
+    "VIC": 8
+  },
+  "metric": "skillselect_visa_application_invitation_after_state_nomination",
+  "countDefinition": "Number of published primary-applicant EOI invitation rows. Not unique individuals, not family members, not visa grants. Repeated otherwise-identical rows are retained because each is a separate released row; no deduplication on occupation/date/points.",
+  "pointsDefinition": "PDF column is Subclass Score. Preserve reported values (65–100 among 491 rows). Inclusion of nomination bonus points is not explicitly defined here. Aggregated minimum is derived for this source cohort; not an official current minimum threshold.",
+  "residenceDefinition": "Country of Residence as reported; not proof of physical applicant location at invitation. Null English values are preserved.",
+  "suppression": "No count cells are suppressed in this individual-row release. No inferred zeros for state/occupation combinations absent from records.",
+  "otherDataExcluded": [
+    {
+      "source": "2026 Home Affairs Data Request Log",
+      "url": "https://www.homeaffairs.gov.au/access-and-accountability/freedom-of-information/data-requests/2026",
+      "reference": "DA 26/07/00368",
+      "title": "2025–26 visa grants by ANZSCO and government sponsoring state/territory for 190/491",
+      "reason": "Visa grants, not invitations. Not downloaded or imported.",
+      "citationRef": "turn66search1"
+    },
+    {
+      "source": "2026 Home Affairs Data Request Log",
+      "reference": "DA 26/07/00344",
+      "title": "2025–26 visa applications lodged by occupation and nominating state for 190/491",
+      "reason": "Visa lodgements, not invitations. Not downloaded or imported.",
+      "citationRef": "turn66search1"
+    },
+    {
+      "source": "Departmental Previous rounds",
+      "url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/previous-rounds",
+      "reason": "189 and family-sponsored 491; not state-nominated 190/491. Excluded.",
+      "citationRef": "turn91search0"
+    }
+  ],
+  "potentialFollowupNotInvestigated": {
+    "reference": "FA 21/05/00045",
+    "url": "https://www.homeaffairs.gov.au/foi/files/2021/fa-210500045-document-released.PDF",
+    "finding": "An official 2021 FOI response says requested NSW 190 EOIs invited/nominated and points for three metal occupations were already on the SkillSelect Dashboard. This dashboard may offer a separate status-snapshot dataset, but its definitions/access/export were not investigated or imported in this task.",
+    "citationRef": "turn91search1"
+  },
+  "validation": {
+    "documentPages": 268,
+    "pairedPages": 134,
+    "pagePairRowCountsMatch": true,
+    "leftRows": 6659,
+    "rightRows": 6659,
+    "retained491Rows": 266,
+    "retained491OccupationStateGroups": 116,
+    "retained491OccupationStateMonthGroups": 124,
+    "byVisaAndState": {
+      "489-NSW": 1308,
+      "489-NT": 409,
+      "489-QLD": 278,
+      "489-SA": 2591,
+      "489-TAS": 1654,
+      "489-VIC": 114,
+      "489-WA": 39,
+      "491-NT": 20,
+      "491-QLD": 42,
+      "491-SA": 27,
+      "491-TAS": 169,
+      "491-VIC": 8
+    },
+    "491DateMin": "2019-11-20",
+    "491DateMax": "2019-12-23",
+    "491ScoreMin": 65,
+    "491ScoreMax": 100,
+    "491MissingEnglish": 3,
+    "visualSpotChecks": [
+      "PDF page 130 versus page 264 aligned rows, including NULL English preserved",
+      "PDF page 134 table footer confirms EOIs are not unique persons"
+    ],
+    "noImputation": true,
+    "suppression": "No counts were suppressed in the released individual-row table. Count=number of published rows, never unique individuals."
+  }
+}
