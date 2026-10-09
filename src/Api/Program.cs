@@ -1,0 +1,36 @@
+using System.Text.Json.Serialization;
+using System.Threading.RateLimiting;
+using Atlas;
+using Microsoft.AspNetCore.RateLimiting;
+using Microsoft.EntityFrameworkCore;
+var builder = WebApplication.CreateBuilder(args);
+var connection = Environment.GetEnvironmentVariable("ATLAS_DB") ?? "Host=127.0.0.1;Port=5432;Database=atlas;Username=atlas;Password=local-atlas-only";
+var seed = args.Contains("--seed");
+builder.Services.AddDbContext<AtlasDb>(o => { o.UseNpgsql(connection); if (!seed) o.AddInterceptors(new ReaderInterceptor()); });
+builder.Services.AddScoped<Queries>(); builder.Services.AddOpenApi();
+builder.Services.ConfigureHttpJsonOptions(o => o.SerializerOptions.UnmappedMemberHandling = JsonUnmappedMemberHandling.Disallow);
+builder.Services.AddRateLimiter(o => { o.RejectionStatusCode = 429; o.AddPolicy("questions", c => RateLimitPartition.GetFixedWindowLimiter(c.Connection.RemoteIpAddress?.ToString() ?? "local", _ => new() { PermitLimit = 20, Window = TimeSpan.FromMinutes(1), QueueLimit = 0 })); o.OnRejected = async (c, t) => { c.HttpContext.Response.Headers.RetryAfter = "60"; await Results.Problem(statusCode: 429, title: "Rate limit exceeded", extensions: new Dictionary<string, object?> { { "code", "RATE_LIMITED" }, { "traceId", c.HttpContext.TraceIdentifier } }).ExecuteAsync(c.HttpContext); }; });
+var app = builder.Build();
+if (seed) { using var scope = app.Services.CreateScope(); var dataRoot=Environment.GetEnvironmentVariable("ATLAS_DATA_DIR") ?? Path.Combine(AppContext.BaseDirectory, "data"); var db=scope.ServiceProvider.GetRequiredService<AtlasDb>(); await Seed.Run(db,dataRoot); await OfficialHistory.Import(db,dataRoot); Console.WriteLine("Seed completed"); return; }
+app.Use(async (c, next) => { c.Response.Headers["X-Content-Type-Options"] = "nosniff"; try { await next(); } catch (ApiFailure e) { await Results.Problem(statusCode: e.Status, title: e.Message, extensions: new Dictionary<string, object?> { { "code", e.Code }, { "choices", e.Choices }, { "traceId", c.TraceIdentifier } }).ExecuteAsync(c); } catch (BadHttpRequestException) { await Results.Problem(statusCode: 400, title: "Invalid request", extensions: new Dictionary<string, object?> { { "code", "INVALID_REQUEST" }, { "traceId", c.TraceIdentifier } }).ExecuteAsync(c); } catch (Exception e) { app.Logger.LogError(e, "Request failed: {Path}", c.Request.Path); await Results.Problem(statusCode: 503, title: "Evidence service unavailable", extensions: new Dictionary<string, object?> { { "code", "SERVICE_UNAVAILABLE" }, { "traceId", c.TraceIdentifier } }).ExecuteAsync(c); } });
+app.UseStatusCodePages(async context => { var c = context.HttpContext; await Results.Problem(statusCode: c.Response.StatusCode, title: c.Response.StatusCode == 400 ? "Invalid request" : "Request failed", extensions: new Dictionary<string, object?> { { "code", c.Response.StatusCode == 400 ? "INVALID_REQUEST" : "REQUEST_FAILED" }, { "traceId", c.TraceIdentifier } }).ExecuteAsync(c); });
+app.UseRateLimiter(); app.MapOpenApi();
+int Limit(HttpRequest h) { if (!h.Query.ContainsKey("limit")) return 5; if (!int.TryParse(h.Query["limit"], out var n)) throw new ApiFailure(400, "INVALID_LIMIT", "Limit must be an integer"); return n; }
+QueryFilters Filter(HttpRequest r) => new(r.Query["mode"].FirstOrDefault() ?? "verified_historical", r.Query["programYear"].FirstOrDefault() ?? "2025-26", r.Query["visaSubclass"].FirstOrDefault() ?? "190", r.Query["sponsorshipType"].FirstOrDefault() ?? "state", r.Query["locale"].FirstOrDefault() ?? "zh", r.Query["datasetVersion"].FirstOrDefault(), r.Query["stream"].FirstOrDefault(), r.Query["residenceCategory"].FirstOrDefault(), r.Query["roundId"].FirstOrDefault());
+app.MapGet("/health/live", () => Results.Ok(new { status = "alive" }));
+app.MapGet("/health/ready", async (Queries q) => { var result = await q.Read<System.Text.Json.JsonElement>("SELECT jsonb_build_object('role',current_user,'readOnly',current_setting('default_transaction_read_only')='on')::text AS \"Value\""); return result.GetProperty("role").GetString() == "atlas_reader" && result.GetProperty("readOnly").GetBoolean() ? Results.Ok(result) : Results.Problem(statusCode: 503, title: "Read-only reader configuration required"); });
+app.MapGet("/api/history", (HttpRequest h, Queries q) => OfficialHistory.Read(q,h.Query["mode"].FirstOrDefault() ?? "verified_historical",h.Query["datasetVersion"].FirstOrDefault())).Produces<HistoryData>();
+app.MapGet("/api/states", (HttpRequest h, Queries q) => q.States(Filter(h))).Produces<Envelope<StatesData>>();
+app.MapGet("/api/coverage", (HttpRequest h, Queries q) => q.States(Filter(h))).Produces<Envelope<StatesData>>();
+app.MapGet("/api/states/{state}/overview", (string state, HttpRequest h, Queries q) => q.Overview(state, Filter(h))).Produces<Envelope<StateOverview>>();
+app.MapGet("/api/states/{state}/observations", (string state, HttpRequest h, Queries q) => q.Observations(state, Filter(h))).Produces<Envelope<List<MetricValue>>>();
+app.MapGet("/api/states/{state}/top-occupations", (string state, HttpRequest h, Queries q) => q.Top(state, Filter(h), h.Query["metricType"].FirstOrDefault() ?? "last_invited_eoi_points", Limit(h))).Produces<Envelope<TopData>>();
+app.MapGet("/api/occupations/search", (HttpRequest h, Queries q) => q.Search(h.Query["q"].FirstOrDefault() ?? "", Filter(h))).Produces<Envelope<List<OccupationSummary>>>();
+app.MapGet("/api/occupations/{id}", (string id, HttpRequest h, Queries q) => q.Occupation(id, h.Query["state"].FirstOrDefault() ?? "WA", Filter(h))).Produces<Envelope<OccupationData>>();
+app.MapGet("/api/occupations/{id}/observations", (string id, HttpRequest h, Queries q) => q.Occupation(id, h.Query["state"].FirstOrDefault() ?? "WA", Filter(h))).Produces<Envelope<OccupationData>>();
+app.MapGet("/api/occupations/{id}/distribution", (string id, HttpRequest h, Queries q) => q.Distribution(id, h.Query["state"].FirstOrDefault() ?? "WA", Filter(h))).Produces<Envelope<DistributionData>>();
+app.MapGet("/api/occupations/{id}/annual-trend", (string id, HttpRequest h, Queries q) => q.Trend(id, h.Query["state"].FirstOrDefault() ?? "WA", Filter(h), h.Query["metricType"].FirstOrDefault() ?? "nomination_invitation_count")).Produces<Envelope<TrendData>>();
+app.MapGet("/api/sources/{source}/versions/{version}", (string source, string version, HttpRequest h, Queries q) => q.Source(source, version, Filter(h))).Produces<Envelope<SourceData>>();
+app.MapPost("/api/query/interpret", (InterpretRequest a, Queries q) => q.Interpret(a)).RequireRateLimiting("questions").Produces<Envelope<Interpretation>>();
+app.MapPost("/api/answers", (AnswerRequest a, Queries q) => q.Answer(a)).RequireRateLimiting("questions").Produces<Envelope<AnswerData>>();
+app.Run();
