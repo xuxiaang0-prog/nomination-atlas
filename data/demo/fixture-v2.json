@@ -1,0 +1,132 @@
+{
+  "isDemo": true,
+  "notice": "Entire fixture is synthetic. No official occupation invitations or score distributions are represented.",
+  "version": 2,
+  "occupations": [
+    {
+      "code": "261313",
+      "title": "Software Engineer",
+      "titleZh": "软件工程师",
+      "points": 75,
+      "count": 40
+    },
+    {
+      "code": "261312",
+      "title": "Developer Programmer",
+      "titleZh": "开发程序员",
+      "points": 80,
+      "count": 35
+    },
+    {
+      "code": "261311",
+      "title": "Analyst Programmer",
+      "titleZh": "程序分析员",
+      "points": 75,
+      "count": 22
+    },
+    {
+      "code": "333411",
+      "title": "Wall and Floor Tiler",
+      "titleZh": "瓷砖工",
+      "points": 65,
+      "count": null
+    },
+    {
+      "code": "334111",
+      "title": "Plumber (General)",
+      "titleZh": "水管工",
+      "points": 65,
+      "count": 18
+    },
+    {
+      "code": "331212",
+      "title": "Carpenter",
+      "titleZh": "木工",
+      "points": 70,
+      "count": 12
+    },
+    {
+      "code": "233211",
+      "title": "Civil Engineer",
+      "titleZh": "土木工程师",
+      "points": 75,
+      "count": 28
+    }
+  ],
+  "round": {
+    "state": "WA",
+    "visa": "190",
+    "date": "2026-05-20",
+    "eoiEffectiveAt": "2026-04-20T08:00:00Z"
+  },
+  "annual": {
+    "2023-24": 210,
+    "2024-25": 310,
+    "2025-26": 280,
+    "2026-27YTD": 62
+  },
+  "distributions": {
+    "261313": {
+      "cohort": "published_sample",
+      "denominator": 100,
+      "bins": [
+        [
+          65,
+          12
+        ],
+        [
+          70,
+          23
+        ],
+        [
+          75,
+          40
+        ],
+        [
+          80,
+          25
+        ]
+      ]
+    },
+    "261312": {
+      "denominator": null,
+      "bins": [
+        [
+          75,
+          8
+        ]
+      ]
+    },
+    "334111": {
+      "denominator": null,
+      "bins": [
+        [
+          65,
+          12
+        ],
+        [
+          70,
+          null
+        ]
+      ]
+    },
+    "333411": {
+      "cohort": "last_invited",
+      "denominator": null,
+      "bins": []
+    }
+  },
+  "additionalStateScores": {
+    "NSW": [
+      80,
+      85,
+      90
+    ],
+    "VIC": [
+      80,
+      85,
+      90
+    ]
+  },
+  "correction": "Software nomination count corrected from 35 to 40; release v1 remains unchanged."
+}
