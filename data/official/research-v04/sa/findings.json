@@ -1,0 +1,1037 @@
+{
+  "checkedAt": "2026-10-09T02:49:04.688802+00:00",
+  "state": "SA",
+  "roundDate": "2026-05-21",
+  "programYear": "2025-26",
+  "sourceUrl": "https://migration.sa.gov.au/news/invitations-issued-late-may-2026",
+  "citationRefs": [
+    "turn48view0",
+    "turn48view1",
+    "turn48view2",
+    "turn57view1",
+    "turn57view2",
+    "turn57view3",
+    "turn60view0",
+    "turn57view0"
+  ],
+  "scope": "South Australia invitations to APPLY FOR state nomination, across four streams; not nominations approved, visa grants or unique migrant arrivals",
+  "summaryZh": "南澳这一轮确实邀请了多个行业。官方公布到17个ANZSCO两位职业子大类：190共161份邀请，491共77份。每个具体六位职业的邀请数量、分数与本轮四条通道的分别数量没有在报告中披露。",
+  "known": {
+    "round190": 161,
+    "round491": 77,
+    "roundTotal": 238,
+    "yearToDate190": 1767,
+    "yearToDate491": 1086,
+    "yearToDateTotal": 2853,
+    "groupCount": 17,
+    "granularity": "ANZSCO two-digit sub-major group",
+    "unit": "invitations to apply for state nomination"
+  },
+  "unknown": {
+    "sixDigitOccupationCounts": null,
+    "sixDigitOccupationCutoffs": null,
+    "groupPointsCutoffs": null,
+    "streamBreakdownForRound": null,
+    "onshoreOffshoreBreakdownForRound": null,
+    "uniqueIndividualCount": null,
+    "noteZh": "未披露不是0；65分资格门槛不是本轮获邀分数。"
+  },
+  "allPublishedGroups": [
+    {
+      "code": "13",
+      "name": "Specialist Managers",
+      "nameZh": "专业领域管理人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 2,
+      "round491": 2,
+      "roundTotal": 4,
+      "yearToDate190": 99,
+      "yearToDate491": 37,
+      "yearToDateTotal": 136,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 13 Specialist Managers",
+      "classificationExamples": [
+        {
+          "code": "133111",
+          "name": "Construction Project Manager",
+          "nameZh": "建筑项目经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "134111",
+          "name": "Child Care Centre Manager",
+          "nameZh": "幼儿保育中心经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "135112",
+          "name": "ICT Project Manager",
+          "nameZh": "ICT项目经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "14",
+      "name": "Hospitality, Retail and Service Managers",
+      "nameZh": "酒店餐饮、零售与服务业管理人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 0,
+      "round491": 1,
+      "roundTotal": 1,
+      "yearToDate190": 0,
+      "yearToDate491": 29,
+      "yearToDateTotal": 29,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 14 Hospitality, Retail and Service Managers",
+      "classificationExamples": [
+        {
+          "code": "141111",
+          "name": "Cafe or Restaurant Manager",
+          "nameZh": "咖啡馆或餐厅经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "141311",
+          "name": "Hotel or Motel Manager",
+          "nameZh": "酒店或汽车旅馆经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "142111",
+          "name": "Retail Manager (General)",
+          "nameZh": "零售经理（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "22",
+      "name": "Business, Human Resource and Marketing Professionals",
+      "nameZh": "商业、人力资源与市场营销专业人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 3,
+      "round491": 3,
+      "roundTotal": 6,
+      "yearToDate190": 33,
+      "yearToDate491": 107,
+      "yearToDateTotal": 140,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 22 Business, Human Resource and Marketing Professionals",
+      "classificationExamples": [
+        {
+          "code": "221111",
+          "name": "Accountant (General)",
+          "nameZh": "会计师（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "223111",
+          "name": "Human Resource Adviser",
+          "nameZh": "人力资源顾问",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "225113",
+          "name": "Marketing Specialist",
+          "nameZh": "市场营销专员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "23",
+      "name": "Design, Engineering, Science and Transport Professionals",
+      "nameZh": "设计、工程、科学与运输专业人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 31,
+      "round491": 10,
+      "roundTotal": 41,
+      "yearToDate190": 365,
+      "yearToDate491": 103,
+      "yearToDateTotal": 468,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 23 Design, Engineering, Science and Transport Professionals",
+      "classificationExamples": [
+        {
+          "code": "233211",
+          "name": "Civil Engineer",
+          "nameZh": "土木工程师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "232111",
+          "name": "Architect",
+          "nameZh": "建筑师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "234611",
+          "name": "Medical Laboratory Scientist",
+          "nameZh": "医学检验科学家",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "24",
+      "name": "Education Professionals",
+      "nameZh": "教育专业人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 20,
+      "round491": 2,
+      "roundTotal": 22,
+      "yearToDate190": 157,
+      "yearToDate491": 38,
+      "yearToDateTotal": 195,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 24 Education Professionals",
+      "classificationExamples": [
+        {
+          "code": "241111",
+          "name": "Early Childhood (Pre-primary School) Teacher",
+          "nameZh": "幼儿教师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "241411",
+          "name": "Secondary School Teacher",
+          "nameZh": "中学教师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "242111",
+          "name": "University Lecturer",
+          "nameZh": "大学讲师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "25",
+      "name": "Health Professionals",
+      "nameZh": "医疗卫生专业人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 59,
+      "round491": 7,
+      "roundTotal": 66,
+      "yearToDate190": 609,
+      "yearToDate491": 30,
+      "yearToDateTotal": 639,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 25 Health Professionals",
+      "classificationExamples": [
+        {
+          "code": "254412",
+          "name": "Registered Nurse (Aged Care)",
+          "nameZh": "注册护士（老年护理）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "253111",
+          "name": "General Practitioner",
+          "nameZh": "全科医生",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "252511",
+          "name": "Physiotherapist",
+          "nameZh": "物理治疗师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "26",
+      "name": "ICT Professionals",
+      "nameZh": "信息通信技术（ICT）专业人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 0,
+      "round491": 6,
+      "roundTotal": 6,
+      "yearToDate190": 7,
+      "yearToDate491": 236,
+      "yearToDateTotal": 243,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 26 ICT Professionals",
+      "classificationExamples": [
+        {
+          "code": "261313",
+          "name": "Software Engineer",
+          "nameZh": "软件工程师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "261111",
+          "name": "ICT Business Analyst",
+          "nameZh": "ICT业务分析师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "262111",
+          "name": "Database Administrator",
+          "nameZh": "数据库管理员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "27",
+      "name": "Legal, Social and Welfare Professionals",
+      "nameZh": "法律、社会与福利专业人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 7,
+      "round491": 1,
+      "roundTotal": 8,
+      "yearToDate190": 66,
+      "yearToDate491": 15,
+      "yearToDateTotal": 81,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 27 Legal, Social and Welfare Professionals",
+      "classificationExamples": [
+        {
+          "code": "272511",
+          "name": "Social Worker",
+          "nameZh": "社会工作者",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "271311",
+          "name": "Solicitor",
+          "nameZh": "事务律师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "272311",
+          "name": "Clinical Psychologist",
+          "nameZh": "临床心理学家",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "31",
+      "name": "Engineering, ICT and Science Technicians",
+      "nameZh": "工程、ICT与科学技术员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 2,
+      "round491": 4,
+      "roundTotal": 6,
+      "yearToDate190": 42,
+      "yearToDate491": 145,
+      "yearToDateTotal": 187,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 31 Engineering, ICT and Science Technicians",
+      "classificationExamples": [
+        {
+          "code": "312211",
+          "name": "Civil Engineering Draftsperson",
+          "nameZh": "土木工程绘图员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "313112",
+          "name": "ICT Customer Support Officer",
+          "nameZh": "ICT客户支持专员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "311213",
+          "name": "Medical Laboratory Technician",
+          "nameZh": "医学实验室技术员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "32",
+      "name": "Automotive and Engineering Trades Workers",
+      "nameZh": "汽车与工程技工",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 8,
+      "round491": 21,
+      "roundTotal": 29,
+      "yearToDate190": 86,
+      "yearToDate491": 63,
+      "yearToDateTotal": 149,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 32 Automotive and Engineering Trades Workers",
+      "classificationExamples": [
+        {
+          "code": "321211",
+          "name": "Motor Mechanic (General)",
+          "nameZh": "汽车修理工（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "322313",
+          "name": "Welder (First Class) (Aus) / Welder (NZ)",
+          "nameZh": "焊工（一级）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "323211",
+          "name": "Fitter (General)",
+          "nameZh": "钳工（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "33",
+      "name": "Construction Trades Workers",
+      "nameZh": "建筑技工",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 11,
+      "round491": 10,
+      "roundTotal": 21,
+      "yearToDate190": 152,
+      "yearToDate491": 96,
+      "yearToDateTotal": 248,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 33 Construction Trades Workers",
+      "classificationExamples": [
+        {
+          "code": "331212",
+          "name": "Carpenter",
+          "nameZh": "木工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "334115",
+          "name": "Roof Plumber",
+          "nameZh": "屋面管道工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "333411",
+          "name": "Wall and Floor Tiler",
+          "nameZh": "墙面与地面铺砖工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "34",
+      "name": "Electrotechnology and Telecommunications Trades Workers",
+      "nameZh": "电工电子与电信技工",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 18,
+      "round491": 1,
+      "roundTotal": 19,
+      "yearToDate190": 124,
+      "yearToDate491": 15,
+      "yearToDateTotal": 139,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 34 Electrotechnology and Telecommunications Trades Workers",
+      "classificationExamples": [
+        {
+          "code": "341111",
+          "name": "Electrician (General)",
+          "nameZh": "电工（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "342111",
+          "name": "Airconditioning and Refrigeration Mechanic",
+          "nameZh": "空调与制冷技工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "342414",
+          "name": "Telecommunications Technician",
+          "nameZh": "电信技术员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "35",
+      "name": "Food Trades Workers",
+      "nameZh": "食品技工",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 0,
+      "round491": 0,
+      "roundTotal": 0,
+      "yearToDate190": 0,
+      "yearToDate491": 21,
+      "yearToDateTotal": 21,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 35 Food Trades Workers",
+      "classificationExamples": [
+        {
+          "code": "351311",
+          "name": "Chef",
+          "nameZh": "主厨",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "351411",
+          "name": "Cook",
+          "nameZh": "厨师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "351111",
+          "name": "Baker",
+          "nameZh": "面包师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "36",
+      "name": "Skilled Animal, Agricultural and Horticultural Workers",
+      "nameZh": "动物、农业与园艺技术人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 0,
+      "round491": 0,
+      "roundTotal": 0,
+      "yearToDate190": 0,
+      "yearToDate491": 4,
+      "yearToDateTotal": 4,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 36 Skilled Animal, Agricultural and Horticultural Workers",
+      "classificationExamples": [
+        {
+          "code": "361311",
+          "name": "Veterinary Nurse",
+          "nameZh": "兽医护士",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "362111",
+          "name": "Florist",
+          "nameZh": "花艺师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "362511",
+          "name": "Arborist",
+          "nameZh": "树艺师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "41",
+      "name": "Health and Welfare Support Workers",
+      "nameZh": "医疗与福利辅助人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 0,
+      "round491": 9,
+      "roundTotal": 9,
+      "yearToDate190": 17,
+      "yearToDate491": 107,
+      "yearToDateTotal": 124,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 41 Health and Welfare Support Workers",
+      "classificationExamples": [
+        {
+          "code": "411411",
+          "name": "Enrolled Nurse",
+          "nameZh": "登记护士",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "411711",
+          "name": "Community Worker",
+          "nameZh": "社区工作者",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "411712",
+          "name": "Disabilities Services Officer",
+          "nameZh": "残障服务专员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "45",
+      "name": "Sports and Personal Service Workers",
+      "nameZh": "体育与个人服务人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 0,
+      "round491": 0,
+      "roundTotal": 0,
+      "yearToDate190": 1,
+      "yearToDate491": 0,
+      "yearToDateTotal": 1,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 45 Sports and Personal Service Workers",
+      "classificationExamples": [
+        {
+          "code": "452111",
+          "name": "Fitness Instructor",
+          "nameZh": "健身教练",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "452312",
+          "name": "Gymnastics Coach or Instructor",
+          "nameZh": "体操教练",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "451612",
+          "name": "Travel Consultant",
+          "nameZh": "旅游顾问",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "51",
+      "name": "Office Managers and Program Administrators",
+      "nameZh": "办公室经理与项目行政人员",
+      "level": "anzsco_sub_major_group_2_digit",
+      "roundDate": "2026-05-21",
+      "programYear": "2025-26",
+      "round190": 0,
+      "round491": 0,
+      "roundTotal": 0,
+      "yearToDate190": 9,
+      "yearToDate491": 40,
+      "yearToDateTotal": 49,
+      "points": null,
+      "pointsStatus": "not_published_in_round_report",
+      "occupationSixDigitCountStatus": "not_published_in_round_report",
+      "sourceId": "sa-late-may-2026",
+      "sourceSha256": "2603c1f09a93a5727bf1b0fdd5d42d4f0a85b0af5f7d34b5d53fbab031bd0b32",
+      "sourceLocator": "Invitations on 21 May 2026 / ANZSCO Sub-major Group / 51 Office Managers and Program Administrators",
+      "classificationExamples": [
+        {
+          "code": "511111",
+          "name": "Contract Administrator",
+          "nameZh": "合同管理员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "511112",
+          "name": "Program or Project Administrator",
+          "nameZh": "项目行政人员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "512111",
+          "name": "Office Manager",
+          "nameZh": "办公室经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    }
+  ],
+  "selection": {
+    "programYear": "2025-26",
+    "sourceIds": [
+      "sa-streams",
+      "sa-how-to-apply",
+      "sa-employment-2025-26",
+      "sa-offshore-2025-26"
+    ],
+    "streams": [
+      {
+        "name": "South Australian Graduates",
+        "nameZh": "南澳毕业生"
+      },
+      {
+        "name": "Skilled Employment in South Australia",
+        "nameZh": "南澳技术就业"
+      },
+      {
+        "name": "Outer Regional Skilled Employment",
+        "nameZh": "南澳外偏远地区技术就业"
+      },
+      {
+        "name": "Offshore",
+        "nameZh": "境外申请人"
+      }
+    ],
+    "onshoreZh": "符合对应通道条件后，提交SkillSelect EOI与南澳ROI。州政府筛选ROI，获邀请后才提交州提名申请。",
+    "offshoreZh": "境外候选人提交SkillSelect EOI并选择南澳；无需另外提交南澳ROI。州政府从EOI中筛选，获邀后再申请州提名。",
+    "onshoreFactorsZh": [
+      "英语水平",
+      "提名职业相关技能经验年限",
+      "技能和学历层次",
+      "薪资",
+      "雇主评估"
+    ],
+    "offshoreFactorsZh": [
+      "英语水平",
+      "技能就业年限和领域",
+      "技能和学历层次",
+      "EOI分数"
+    ],
+    "prioritySectorsZh": [
+      "建筑",
+      "国防",
+      "教育",
+      "工程",
+      "医疗卫生",
+      "制造业"
+    ],
+    "noteZh": "2025–26官方说明采用综合竞争力与行业优先考虑；非优先行业的高竞争力候选人也可能被考虑。满足最低资格不保证获邀。上述是筛选制度，不是本轮每份邀请的个人原因。",
+    "minimumEligibilityPoints": 65,
+    "minimumEligibilityPointsIncludesNomination": true,
+    "minimumEligibilitySourceId": "sa-employment-2025-26",
+    "minimumEligibilityNotRoundCutoff": true
+  },
+  "currentProgram": {
+    "observedOn": "2026-10-09",
+    "status": "official_occupation_page_currently_states_roi_and_gsm_unavailable",
+    "sourceId": "sa-occupation-list-current",
+    "explanationZh": "核查当天官方职业列表页面仍写明Skilled ROI和GSM申请暂不可用，待2026–27项目开始恢复；不能把2025–26规则冒称为已经确认的2026–27新规则。"
+  },
+  "foiSearch": {
+    "stateLogSourceId": "sa-foi-determination-logs",
+    "stateRelevantEntries": [
+      {
+        "reference": "FOI2025/00025",
+        "determinationDate": "2026-02-05",
+        "subject": "491 nomination process",
+        "downloadLinkPublished": false,
+        "relevance": "Before May 2026; process rather than this round occupational results."
+      },
+      {
+        "reference": "FOI2024/00045",
+        "determinationDate": "2024-12-17",
+        "requestedPeriod": "2024-07-01/2024-11-17",
+        "subject": "ROI totals, Not Invited ROIs and occupations",
+        "downloadLinkPublished": false,
+        "relevance": "Different 2024–25 period; cannot supply May 2026 invited occupation counts."
+      }
+    ],
+    "homeAffairsLogs": [
+      {
+        "sourceId": "dha-foi-2025-data",
+        "rowsRetrieved": 300,
+        "matchingSouthAustraliaLiteral": 0,
+        "matchingMay21Round": 0,
+        "status": "no_matching_round_level_occupation_disclosure_found_in_retrieved_index",
+        "limitationZh": "仅说明已获取的公开日志及关键词检索未找到匹配材料，不证明政府内部没有该数据。"
+      },
+      {
+        "sourceId": "dha-foi-2026-data",
+        "rowsRetrieved": 169,
+        "matchingSouthAustraliaLiteral": 0,
+        "matchingMay21Round": 0,
+        "status": "no_matching_round_level_occupation_disclosure_found_in_retrieved_index",
+        "limitationZh": "仅说明已获取的公开日志及关键词检索未找到匹配材料，不证明政府内部没有该数据。"
+      }
+    ],
+    "conclusionZh": "在南澳官方轮次报告、相关官方流程页面、DSD已公开FOI日志及已获取的Home Affairs 2025/2026公开FOI列表中，未找到能补齐2026-05-21六位职业人数和分数的公开文件。不能据此说所有年份都没有职业级资料。"
+  },
+  "classification": {
+    "file": "classification-anzsco-2022.json",
+    "sourceId": "abs-anzsco-2022-print-all",
+    "noticeZh": "以下为ABS职业分类目录，不代表该轮职业获邀名单，也不代表当前南澳州担资格名单；各具体职业人数和分数无法从所属组总数推算。",
+    "exampleExplanationZh": "例如25医疗卫生专业人员含医生、护士、物理治疗师等分类；59份190和7份491是整个25组的邀请，不能说其中某一职业邀请了59人或7人。"
+  },
+  "uiRecommendationZh": {
+    "table": "完整呈现全部17组，列出190、491、本轮合计及截至该轮年度累计；默认可按邀请量排序。",
+    "points": "本轮没有可排序的真实分数，分数字段明确写未披露；不能用资格65分补空。",
+    "drilldown": "点击组名可看真实ABS分类目录与通道说明。分类目录中的六位职业邀请人数、分数仍显示未披露；组计数保持只在组标题显示，禁止复制到每个子职业。",
+    "wording": "建议邀请份数，而非移民人数/获批人数；无去重个人计数。"
+  }
+}

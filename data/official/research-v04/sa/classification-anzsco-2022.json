@@ -1,0 +1,4120 @@
+{
+  "version": "ANZSCO 2022",
+  "sourceId": "abs-anzsco-2022-print-all",
+  "sourceSha256": "2a8882f50ba63e68c0152c476085627a51e1e3f027d45d3ba33455756811b75a",
+  "scope": "classification_only",
+  "noticeZh": "以下为ABS职业分类目录，不代表该轮职业获邀名单，也不代表当前南澳州担资格名单；各具体职业人数和分数无法从所属组总数推算。",
+  "groups": [
+    {
+      "code": "13",
+      "name": "Specialist Managers",
+      "nameZh": "专业领域管理人员",
+      "minorGroups": [
+        {
+          "code": "131",
+          "name": "Advertising, Public Relations and Sales Managers"
+        },
+        {
+          "code": "132",
+          "name": "Business Administration Managers"
+        },
+        {
+          "code": "133",
+          "name": "Construction, Distribution and Production Managers"
+        },
+        {
+          "code": "134",
+          "name": "Education, Health and Welfare Services Managers"
+        },
+        {
+          "code": "135",
+          "name": "ICT Managers"
+        },
+        {
+          "code": "139",
+          "name": "Miscellaneous Specialist Managers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "1311",
+          "name": "Advertising, Public Relations and Sales Managers"
+        },
+        {
+          "code": "1321",
+          "name": "Corporate Services Managers"
+        },
+        {
+          "code": "1322",
+          "name": "Finance Managers"
+        },
+        {
+          "code": "1323",
+          "name": "Human Resource Managers"
+        },
+        {
+          "code": "1324",
+          "name": "Policy and Planning Managers"
+        },
+        {
+          "code": "1325",
+          "name": "Research and Development Managers"
+        },
+        {
+          "code": "1331",
+          "name": "Construction Managers"
+        },
+        {
+          "code": "1332",
+          "name": "Engineering Managers"
+        },
+        {
+          "code": "1333",
+          "name": "Importers, Exporters and Wholesalers"
+        },
+        {
+          "code": "1334",
+          "name": "Manufacturers"
+        },
+        {
+          "code": "1335",
+          "name": "Production Managers"
+        },
+        {
+          "code": "1336",
+          "name": "Supply, Distribution and Procurement Managers"
+        },
+        {
+          "code": "1341",
+          "name": "Child Care Centre Managers"
+        },
+        {
+          "code": "1342",
+          "name": "Health and Welfare Services Managers"
+        },
+        {
+          "code": "1343",
+          "name": "School Principals"
+        },
+        {
+          "code": "1344",
+          "name": "Other Education Managers"
+        },
+        {
+          "code": "1351",
+          "name": "ICT Managers"
+        },
+        {
+          "code": "1391",
+          "name": "Commissioned Officers (Management)"
+        },
+        {
+          "code": "1392",
+          "name": "Senior Non-commissioned Defence Force Members"
+        },
+        {
+          "code": "1399",
+          "name": "Other Specialist Managers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "131112",
+          "name": "Sales and Marketing Manager"
+        },
+        {
+          "code": "131113",
+          "name": "Advertising Manager"
+        },
+        {
+          "code": "131114",
+          "name": "Public Relations Manager"
+        },
+        {
+          "code": "132111",
+          "name": "Corporate Services Manager"
+        },
+        {
+          "code": "132211",
+          "name": "Finance Manager"
+        },
+        {
+          "code": "132311",
+          "name": "Human Resource Manager"
+        },
+        {
+          "code": "132411",
+          "name": "Policy and Planning Manager"
+        },
+        {
+          "code": "132511",
+          "name": "Research and Development Manager"
+        },
+        {
+          "code": "133111",
+          "name": "Construction Project Manager"
+        },
+        {
+          "code": "133112",
+          "name": "Project Builder"
+        },
+        {
+          "code": "133211",
+          "name": "Engineering Manager"
+        },
+        {
+          "code": "133311",
+          "name": "Importer or Exporter"
+        },
+        {
+          "code": "133312",
+          "name": "Wholesaler"
+        },
+        {
+          "code": "133411",
+          "name": "Manufacturer"
+        },
+        {
+          "code": "133511",
+          "name": "Production Manager (Forestry)"
+        },
+        {
+          "code": "133512",
+          "name": "Production Manager (Manufacturing)"
+        },
+        {
+          "code": "133513",
+          "name": "Production Manager (Mining)"
+        },
+        {
+          "code": "133611",
+          "name": "Supply and Distribution Manager"
+        },
+        {
+          "code": "133612",
+          "name": "Procurement Manager"
+        },
+        {
+          "code": "134111",
+          "name": "Child Care Centre Manager"
+        },
+        {
+          "code": "134211",
+          "name": "Medical Administrator / Medical Superintendent"
+        },
+        {
+          "code": "134212",
+          "name": "Nursing Clinical Director"
+        },
+        {
+          "code": "134213",
+          "name": "Primary Health Organisation Manager"
+        },
+        {
+          "code": "134214",
+          "name": "Welfare Centre Manager"
+        },
+        {
+          "code": "134299",
+          "name": "Health and Welfare Services Managers nec"
+        },
+        {
+          "code": "134311",
+          "name": "School Principal"
+        },
+        {
+          "code": "134411",
+          "name": "Faculty Head"
+        },
+        {
+          "code": "134412",
+          "name": "Regional Education Manager"
+        },
+        {
+          "code": "134499",
+          "name": "Education Managers nec"
+        },
+        {
+          "code": "135111",
+          "name": "Chief Information Officer"
+        },
+        {
+          "code": "135112",
+          "name": "ICT Project Manager"
+        },
+        {
+          "code": "135199",
+          "name": "ICT Managers nec"
+        },
+        {
+          "code": "139111",
+          "name": "Commissioned Defence Force Officer"
+        },
+        {
+          "code": "139112",
+          "name": "Commissioned Fire Officer"
+        },
+        {
+          "code": "139113",
+          "name": "Commissioned Police Officer"
+        },
+        {
+          "code": "139211",
+          "name": "Senior Non-commissioned Defence Force Member"
+        },
+        {
+          "code": "139911",
+          "name": "Arts Administrator or Manager"
+        },
+        {
+          "code": "139912",
+          "name": "Environmental Manager"
+        },
+        {
+          "code": "139913",
+          "name": "Laboratory Manager"
+        },
+        {
+          "code": "139915",
+          "name": "Sports Administrator"
+        },
+        {
+          "code": "139916",
+          "name": "Quality Assurance Manager"
+        },
+        {
+          "code": "139917",
+          "name": "Regulatory Affairs Manager"
+        },
+        {
+          "code": "139999",
+          "name": "Specialist Managers nec"
+        }
+      ],
+      "examples": [
+        {
+          "code": "133111",
+          "name": "Construction Project Manager",
+          "nameZh": "建筑项目经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "134111",
+          "name": "Child Care Centre Manager",
+          "nameZh": "幼儿保育中心经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "135112",
+          "name": "ICT Project Manager",
+          "nameZh": "ICT项目经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "14",
+      "name": "Hospitality, Retail and Service Managers",
+      "nameZh": "酒店餐饮、零售与服务业管理人员",
+      "minorGroups": [
+        {
+          "code": "141",
+          "name": "Accommodation and Hospitality Managers"
+        },
+        {
+          "code": "142",
+          "name": "Retail Managers"
+        },
+        {
+          "code": "149",
+          "name": "Miscellaneous Hospitality, Retail and Service Managers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "1411",
+          "name": "Cafe and Restaurant Managers"
+        },
+        {
+          "code": "1412",
+          "name": "Caravan Park and Camping Ground Managers"
+        },
+        {
+          "code": "1413",
+          "name": "Hotel and Motel Managers"
+        },
+        {
+          "code": "1414",
+          "name": "Licensed Club Managers"
+        },
+        {
+          "code": "1419",
+          "name": "Other Accommodation and Hospitality Managers"
+        },
+        {
+          "code": "1421",
+          "name": "Retail Managers"
+        },
+        {
+          "code": "1491",
+          "name": "Amusement, Fitness and Sports Centre Managers"
+        },
+        {
+          "code": "1492",
+          "name": "Call or Contact Centre and Customer Service Managers"
+        },
+        {
+          "code": "1493",
+          "name": "Conference and Event Organisers"
+        },
+        {
+          "code": "1494",
+          "name": "Transport Services Managers"
+        },
+        {
+          "code": "1499",
+          "name": "Other Hospitality, Retail and Service Managers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "141111",
+          "name": "Cafe or Restaurant Manager"
+        },
+        {
+          "code": "141211",
+          "name": "Caravan Park and Camping Ground Manager"
+        },
+        {
+          "code": "141311",
+          "name": "Hotel or Motel Manager"
+        },
+        {
+          "code": "141411",
+          "name": "Licensed Club Manager"
+        },
+        {
+          "code": "141911",
+          "name": "Bed and Breakfast Operator"
+        },
+        {
+          "code": "141912",
+          "name": "Retirement Village Manager"
+        },
+        {
+          "code": "141999",
+          "name": "Accommodation and Hospitality Managers nec"
+        },
+        {
+          "code": "142111",
+          "name": "Retail Manager (General)"
+        },
+        {
+          "code": "142112",
+          "name": "Antique Dealer"
+        },
+        {
+          "code": "142113",
+          "name": "Betting Agency Manager"
+        },
+        {
+          "code": "142114",
+          "name": "Hair or Beauty Salon Manager"
+        },
+        {
+          "code": "142115",
+          "name": "Post Office Manager"
+        },
+        {
+          "code": "142116",
+          "name": "Travel Agency Manager"
+        },
+        {
+          "code": "149111",
+          "name": "Amusement Centre Manager"
+        },
+        {
+          "code": "149112",
+          "name": "Fitness Centre Manager"
+        },
+        {
+          "code": "149113",
+          "name": "Sports Centre Manager"
+        },
+        {
+          "code": "149211",
+          "name": "Call or Contact Centre Manager"
+        },
+        {
+          "code": "149212",
+          "name": "Customer Service Manager"
+        },
+        {
+          "code": "149311",
+          "name": "Conference and Event Organiser"
+        },
+        {
+          "code": "149411",
+          "name": "Fleet Manager"
+        },
+        {
+          "code": "149412",
+          "name": "Railway Station Manager"
+        },
+        {
+          "code": "149413",
+          "name": "Transport Company Manager"
+        },
+        {
+          "code": "149911",
+          "name": "Boarding Kennel or Cattery Operator"
+        },
+        {
+          "code": "149912",
+          "name": "Cinema or Theatre Manager"
+        },
+        {
+          "code": "149913",
+          "name": "Facilities Manager"
+        },
+        {
+          "code": "149914",
+          "name": "Financial Institution Branch Manager"
+        },
+        {
+          "code": "149915",
+          "name": "Equipment Hire Manager"
+        },
+        {
+          "code": "149999",
+          "name": "Hospitality, Retail and Service Managers nec"
+        }
+      ],
+      "examples": [
+        {
+          "code": "141111",
+          "name": "Cafe or Restaurant Manager",
+          "nameZh": "咖啡馆或餐厅经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "141311",
+          "name": "Hotel or Motel Manager",
+          "nameZh": "酒店或汽车旅馆经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "142111",
+          "name": "Retail Manager (General)",
+          "nameZh": "零售经理（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "22",
+      "name": "Business, Human Resource and Marketing Professionals",
+      "nameZh": "商业、人力资源与市场营销专业人员",
+      "minorGroups": [
+        {
+          "code": "221",
+          "name": "Accountants, Auditors and Company Secretaries"
+        },
+        {
+          "code": "222",
+          "name": "Financial Brokers and Dealers, and Investment Advisers"
+        },
+        {
+          "code": "223",
+          "name": "Human Resource and Training Professionals"
+        },
+        {
+          "code": "224",
+          "name": "Information and Organisation Professionals"
+        },
+        {
+          "code": "225",
+          "name": "Sales, Marketing and Public Relations Professionals"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "2211",
+          "name": "Accountants"
+        },
+        {
+          "code": "2212",
+          "name": "Auditors, Company Secretaries and Corporate Treasurers"
+        },
+        {
+          "code": "2221",
+          "name": "Financial Brokers"
+        },
+        {
+          "code": "2222",
+          "name": "Financial Dealers"
+        },
+        {
+          "code": "2223",
+          "name": "Financial Investment Advisers and Managers"
+        },
+        {
+          "code": "2231",
+          "name": "Human Resource Professionals"
+        },
+        {
+          "code": "2233",
+          "name": "Training and Development Professionals"
+        },
+        {
+          "code": "2241",
+          "name": "Mathematical Science Professionals"
+        },
+        {
+          "code": "2242",
+          "name": "Archivists, Curators and Records Managers"
+        },
+        {
+          "code": "2243",
+          "name": "Economists"
+        },
+        {
+          "code": "2244",
+          "name": "Intelligence and Policy Analysts"
+        },
+        {
+          "code": "2245",
+          "name": "Land Economists and Valuers"
+        },
+        {
+          "code": "2246",
+          "name": "Librarians"
+        },
+        {
+          "code": "2247",
+          "name": "Management and Organisation Analysts"
+        },
+        {
+          "code": "2249",
+          "name": "Other Information and Organisation Professionals"
+        },
+        {
+          "code": "2251",
+          "name": "Advertising and Marketing Professionals"
+        },
+        {
+          "code": "2252",
+          "name": "ICT Sales Professionals"
+        },
+        {
+          "code": "2253",
+          "name": "Public Relations Professionals"
+        },
+        {
+          "code": "2254",
+          "name": "Technical Sales Representatives"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "221111",
+          "name": "Accountant (General)"
+        },
+        {
+          "code": "221112",
+          "name": "Management Accountant"
+        },
+        {
+          "code": "221113",
+          "name": "Taxation Accountant"
+        },
+        {
+          "code": "221211",
+          "name": "Company Secretary"
+        },
+        {
+          "code": "221212",
+          "name": "Corporate Treasurer"
+        },
+        {
+          "code": "221213",
+          "name": "External Auditor"
+        },
+        {
+          "code": "221214",
+          "name": "Internal Auditor"
+        },
+        {
+          "code": "222111",
+          "name": "Commodities Trader"
+        },
+        {
+          "code": "222112",
+          "name": "Finance Broker"
+        },
+        {
+          "code": "222113",
+          "name": "Insurance Broker"
+        },
+        {
+          "code": "222199",
+          "name": "Financial Brokers nec"
+        },
+        {
+          "code": "222211",
+          "name": "Financial Market Dealer"
+        },
+        {
+          "code": "222212",
+          "name": "Futures Trader"
+        },
+        {
+          "code": "222213",
+          "name": "Stockbroking Dealer"
+        },
+        {
+          "code": "222299",
+          "name": "Financial Dealers nec"
+        },
+        {
+          "code": "222311",
+          "name": "Financial Investment Adviser"
+        },
+        {
+          "code": "222312",
+          "name": "Financial Investment Manager"
+        },
+        {
+          "code": "223111",
+          "name": "Human Resource Adviser"
+        },
+        {
+          "code": "223112",
+          "name": "Recruitment Consultant"
+        },
+        {
+          "code": "223113",
+          "name": "Workplace Relations Adviser"
+        },
+        {
+          "code": "223311",
+          "name": "Training and Development Professional"
+        },
+        {
+          "code": "224111",
+          "name": "Actuary"
+        },
+        {
+          "code": "224112",
+          "name": "Mathematician"
+        },
+        {
+          "code": "224114",
+          "name": "Data Analyst"
+        },
+        {
+          "code": "224115",
+          "name": "Data Scientist"
+        },
+        {
+          "code": "224116",
+          "name": "Statistician"
+        },
+        {
+          "code": "224211",
+          "name": "Archivist"
+        },
+        {
+          "code": "224212",
+          "name": "Gallery or Museum Curator"
+        },
+        {
+          "code": "224213",
+          "name": "Health Information Manager"
+        },
+        {
+          "code": "224214",
+          "name": "Records Manager"
+        },
+        {
+          "code": "224311",
+          "name": "Economist"
+        },
+        {
+          "code": "224411",
+          "name": "Intelligence Officer"
+        },
+        {
+          "code": "224412",
+          "name": "Policy Analyst"
+        },
+        {
+          "code": "224511",
+          "name": "Land Economist"
+        },
+        {
+          "code": "224512",
+          "name": "Valuer"
+        },
+        {
+          "code": "224611",
+          "name": "Librarian"
+        },
+        {
+          "code": "224712",
+          "name": "Organisation and Methods Analyst"
+        },
+        {
+          "code": "224713",
+          "name": "Management Consultant"
+        },
+        {
+          "code": "224714",
+          "name": "Supply Chain Analyst"
+        },
+        {
+          "code": "224911",
+          "name": "Electorate Officer"
+        },
+        {
+          "code": "224912",
+          "name": "Liaison Officer"
+        },
+        {
+          "code": "224913",
+          "name": "Migration Agent / Immigration Consultant"
+        },
+        {
+          "code": "224914",
+          "name": "Patents Examiner"
+        },
+        {
+          "code": "224999",
+          "name": "Information and Organisation Professionals nec"
+        },
+        {
+          "code": "225111",
+          "name": "Advertising Specialist"
+        },
+        {
+          "code": "225112",
+          "name": "Market Research Analyst"
+        },
+        {
+          "code": "225113",
+          "name": "Marketing Specialist"
+        },
+        {
+          "code": "225114",
+          "name": "Content Creator (Marketing)"
+        },
+        {
+          "code": "225115",
+          "name": "Digital Marketing Analyst"
+        },
+        {
+          "code": "225211",
+          "name": "ICT Account Manager"
+        },
+        {
+          "code": "225212",
+          "name": "ICT Business Development Manager"
+        },
+        {
+          "code": "225213",
+          "name": "ICT Sales Representative"
+        },
+        {
+          "code": "225311",
+          "name": "Public Relations Professional"
+        },
+        {
+          "code": "225411",
+          "name": "Sales Representative (Industrial Products)"
+        },
+        {
+          "code": "225412",
+          "name": "Sales Representative (Medical and Pharmaceutical Products)"
+        },
+        {
+          "code": "225499",
+          "name": "Technical Sales Representatives nec"
+        }
+      ],
+      "examples": [
+        {
+          "code": "221111",
+          "name": "Accountant (General)",
+          "nameZh": "会计师（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "223111",
+          "name": "Human Resource Adviser",
+          "nameZh": "人力资源顾问",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "225113",
+          "name": "Marketing Specialist",
+          "nameZh": "市场营销专员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "23",
+      "name": "Design, Engineering, Science and Transport Professionals",
+      "nameZh": "设计、工程、科学与运输专业人员",
+      "minorGroups": [
+        {
+          "code": "231",
+          "name": "Air and Marine Transport Professionals"
+        },
+        {
+          "code": "232",
+          "name": "Architects, Designers, Planners and Surveyors"
+        },
+        {
+          "code": "233",
+          "name": "Engineering Professionals"
+        },
+        {
+          "code": "234",
+          "name": "Natural and Physical Science Professionals"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "2311",
+          "name": "Air Transport Professionals"
+        },
+        {
+          "code": "2312",
+          "name": "Marine Transport Professionals"
+        },
+        {
+          "code": "2321",
+          "name": "Architects and Landscape Architects"
+        },
+        {
+          "code": "2322",
+          "name": "Surveyors and Spatial Scientists"
+        },
+        {
+          "code": "2323",
+          "name": "Fashion, Industrial and Jewellery Designers"
+        },
+        {
+          "code": "2324",
+          "name": "Graphic and Web Designers, and Illustrators"
+        },
+        {
+          "code": "2325",
+          "name": "Interior Designers"
+        },
+        {
+          "code": "2326",
+          "name": "Urban and Regional Planners"
+        },
+        {
+          "code": "2331",
+          "name": "Chemical and Materials Engineers"
+        },
+        {
+          "code": "2332",
+          "name": "Civil Engineering Professionals"
+        },
+        {
+          "code": "2333",
+          "name": "Electrical Engineers"
+        },
+        {
+          "code": "2334",
+          "name": "Electronics Engineers"
+        },
+        {
+          "code": "2335",
+          "name": "Industrial, Mechanical and Production Engineers"
+        },
+        {
+          "code": "2336",
+          "name": "Mining Engineers"
+        },
+        {
+          "code": "2339",
+          "name": "Other Engineering Professionals"
+        },
+        {
+          "code": "2341",
+          "name": "Agricultural, Fisheries and Forestry Scientists"
+        },
+        {
+          "code": "2342",
+          "name": "Chemists, and Food and Wine Scientists"
+        },
+        {
+          "code": "2343",
+          "name": "Environmental Scientists"
+        },
+        {
+          "code": "2344",
+          "name": "Geologists, Geophysicists and Hydrogeologists"
+        },
+        {
+          "code": "2345",
+          "name": "Life Scientists"
+        },
+        {
+          "code": "2346",
+          "name": "Medical Scientists"
+        },
+        {
+          "code": "2347",
+          "name": "Veterinarians"
+        },
+        {
+          "code": "2349",
+          "name": "Other Natural and Physical Science Professionals"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "231111",
+          "name": "Aeroplane Pilot"
+        },
+        {
+          "code": "231112",
+          "name": "Air Traffic Controller"
+        },
+        {
+          "code": "231113",
+          "name": "Flying Instructor"
+        },
+        {
+          "code": "231114",
+          "name": "Helicopter Pilot"
+        },
+        {
+          "code": "231199",
+          "name": "Air Transport Professionals nec"
+        },
+        {
+          "code": "231211",
+          "name": "Master Fisher"
+        },
+        {
+          "code": "231212",
+          "name": "Ship's Engineer"
+        },
+        {
+          "code": "231213",
+          "name": "Ship's Master"
+        },
+        {
+          "code": "231214",
+          "name": "Ship's Officer"
+        },
+        {
+          "code": "231215",
+          "name": "Marine Surveyor"
+        },
+        {
+          "code": "231299",
+          "name": "Marine Transport Professionals nec"
+        },
+        {
+          "code": "232111",
+          "name": "Architect"
+        },
+        {
+          "code": "232112",
+          "name": "Landscape Architect"
+        },
+        {
+          "code": "232212",
+          "name": "Surveyor"
+        },
+        {
+          "code": "232213",
+          "name": "Cartographer"
+        },
+        {
+          "code": "232214",
+          "name": "Other Spatial Scientist"
+        },
+        {
+          "code": "232311",
+          "name": "Fashion Designer"
+        },
+        {
+          "code": "232312",
+          "name": "Industrial Designer"
+        },
+        {
+          "code": "232313",
+          "name": "Jewellery Designer"
+        },
+        {
+          "code": "232411",
+          "name": "Graphic Designer"
+        },
+        {
+          "code": "232412",
+          "name": "Illustrator"
+        },
+        {
+          "code": "232413",
+          "name": "Multimedia Designer"
+        },
+        {
+          "code": "232414",
+          "name": "Web Designer"
+        },
+        {
+          "code": "232511",
+          "name": "Interior Designer"
+        },
+        {
+          "code": "232611",
+          "name": "Urban and Regional Planner"
+        },
+        {
+          "code": "233111",
+          "name": "Chemical Engineer"
+        },
+        {
+          "code": "233112",
+          "name": "Materials Engineer"
+        },
+        {
+          "code": "233211",
+          "name": "Civil Engineer"
+        },
+        {
+          "code": "233212",
+          "name": "Geotechnical Engineer"
+        },
+        {
+          "code": "233213",
+          "name": "Quantity Surveyor"
+        },
+        {
+          "code": "233214",
+          "name": "Structural Engineer"
+        },
+        {
+          "code": "233215",
+          "name": "Transport Engineer"
+        },
+        {
+          "code": "233311",
+          "name": "Electrical Engineer"
+        },
+        {
+          "code": "233411",
+          "name": "Electronics Engineer"
+        },
+        {
+          "code": "233511",
+          "name": "Industrial Engineer"
+        },
+        {
+          "code": "233512",
+          "name": "Mechanical Engineer"
+        },
+        {
+          "code": "233513",
+          "name": "Production or Plant Engineer"
+        },
+        {
+          "code": "233611",
+          "name": "Mining Engineer (excluding Petroleum)"
+        },
+        {
+          "code": "233612",
+          "name": "Petroleum Engineer"
+        },
+        {
+          "code": "233911",
+          "name": "Aeronautical Engineer"
+        },
+        {
+          "code": "233912",
+          "name": "Agricultural Engineer"
+        },
+        {
+          "code": "233913",
+          "name": "Biomedical Engineer"
+        },
+        {
+          "code": "233914",
+          "name": "Engineering Technologist"
+        },
+        {
+          "code": "233915",
+          "name": "Environmental Engineer"
+        },
+        {
+          "code": "233916",
+          "name": "Naval Architect / Marine Designer"
+        },
+        {
+          "code": "233999",
+          "name": "Engineering Professionals nec"
+        },
+        {
+          "code": "234111",
+          "name": "Agricultural Consultant"
+        },
+        {
+          "code": "234113",
+          "name": "Forester / Forest Scientist"
+        },
+        {
+          "code": "234114",
+          "name": "Agricultural  Research Scientist"
+        },
+        {
+          "code": "234115",
+          "name": "Agronomist"
+        },
+        {
+          "code": "234116",
+          "name": "Aquaculture or  Fisheries Scientist"
+        },
+        {
+          "code": "234211",
+          "name": "Chemist"
+        },
+        {
+          "code": "234212",
+          "name": "Food Technologist"
+        },
+        {
+          "code": "234213",
+          "name": "Wine Maker"
+        },
+        {
+          "code": "234311",
+          "name": "Conservation Officer"
+        },
+        {
+          "code": "234312",
+          "name": "Environmental Consultant"
+        },
+        {
+          "code": "234313",
+          "name": "Environmental Research Scientist"
+        },
+        {
+          "code": "234314",
+          "name": "Park Ranger"
+        },
+        {
+          "code": "234399",
+          "name": "Environmental Scientists nec"
+        },
+        {
+          "code": "234411",
+          "name": "Geologist"
+        },
+        {
+          "code": "234412",
+          "name": "Geophysicist"
+        },
+        {
+          "code": "234413",
+          "name": "Hydrogeologist"
+        },
+        {
+          "code": "234511",
+          "name": "Life Scientist (General)"
+        },
+        {
+          "code": "234513",
+          "name": "Biochemist"
+        },
+        {
+          "code": "234514",
+          "name": "Biotechnologist"
+        },
+        {
+          "code": "234515",
+          "name": "Botanist"
+        },
+        {
+          "code": "234516",
+          "name": "Marine Biologist"
+        },
+        {
+          "code": "234517",
+          "name": "Microbiologist"
+        },
+        {
+          "code": "234521",
+          "name": "Entomologist"
+        },
+        {
+          "code": "234522",
+          "name": "Zoologist"
+        },
+        {
+          "code": "234599",
+          "name": "Life Scientists nec"
+        },
+        {
+          "code": "234611",
+          "name": "Medical Laboratory Scientist"
+        },
+        {
+          "code": "234612",
+          "name": "Respiratory Scientist"
+        },
+        {
+          "code": "234711",
+          "name": "Veterinarian"
+        },
+        {
+          "code": "234911",
+          "name": "Conservator"
+        },
+        {
+          "code": "234912",
+          "name": "Metallurgist"
+        },
+        {
+          "code": "234913",
+          "name": "Meteorologist"
+        },
+        {
+          "code": "234914",
+          "name": "Physicist"
+        },
+        {
+          "code": "234915",
+          "name": "Exercise Physiologist"
+        },
+        {
+          "code": "234999",
+          "name": "Natural and Physical Science Professionals nec"
+        }
+      ],
+      "examples": [
+        {
+          "code": "233211",
+          "name": "Civil Engineer",
+          "nameZh": "土木工程师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "232111",
+          "name": "Architect",
+          "nameZh": "建筑师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "234611",
+          "name": "Medical Laboratory Scientist",
+          "nameZh": "医学检验科学家",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "24",
+      "name": "Education Professionals",
+      "nameZh": "教育专业人员",
+      "minorGroups": [
+        {
+          "code": "241",
+          "name": "School Teachers"
+        },
+        {
+          "code": "242",
+          "name": "Tertiary Education Teachers"
+        },
+        {
+          "code": "249",
+          "name": "Miscellaneous Education Professionals"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "2411",
+          "name": "Early Childhood (Pre-primary School) Teachers"
+        },
+        {
+          "code": "2412",
+          "name": "Primary School Teachers"
+        },
+        {
+          "code": "2413",
+          "name": "Middle School Teachers / Intermediate School Teachers"
+        },
+        {
+          "code": "2414",
+          "name": "Secondary School Teachers"
+        },
+        {
+          "code": "2415",
+          "name": "Special Education Teachers"
+        },
+        {
+          "code": "2421",
+          "name": "University Lecturers and Tutors"
+        },
+        {
+          "code": "2422",
+          "name": "Vocational Education Teachers / Polytechnic Teachers"
+        },
+        {
+          "code": "2491",
+          "name": "Education Advisers and Reviewers"
+        },
+        {
+          "code": "2492",
+          "name": "Private Tutors and Teachers"
+        },
+        {
+          "code": "2493",
+          "name": "Teachers of English to Speakers of Other Languages"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "241111",
+          "name": "Early Childhood (Pre-primary School) Teacher"
+        },
+        {
+          "code": "241112",
+          "name": "Kaiako Kohanga Reo (Māori Language Nest Teacher)"
+        },
+        {
+          "code": "241211",
+          "name": "Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)"
+        },
+        {
+          "code": "241212",
+          "name": "Pouako Kura Kaupapa Māori (Māori-medium Primary School Senior Teacher)"
+        },
+        {
+          "code": "241213",
+          "name": "Primary School Teacher"
+        },
+        {
+          "code": "241311",
+          "name": "Middle School Teacher / Intermediate School Teacher"
+        },
+        {
+          "code": "241411",
+          "name": "Secondary School Teacher"
+        },
+        {
+          "code": "241511",
+          "name": "Special Needs Teacher"
+        },
+        {
+          "code": "241512",
+          "name": "Teacher of the Hearing Impaired"
+        },
+        {
+          "code": "241513",
+          "name": "Teacher of the Sight Impaired"
+        },
+        {
+          "code": "241599",
+          "name": "Special Education Teachers nec"
+        },
+        {
+          "code": "242111",
+          "name": "University Lecturer"
+        },
+        {
+          "code": "242112",
+          "name": "University Tutor"
+        },
+        {
+          "code": "242211",
+          "name": "Vocational Education Teacher / Polytechnic Teacher"
+        },
+        {
+          "code": "249111",
+          "name": "Education Adviser"
+        },
+        {
+          "code": "249112",
+          "name": "Education Reviewer"
+        },
+        {
+          "code": "249211",
+          "name": "Art Teacher (Private Tuition)"
+        },
+        {
+          "code": "249212",
+          "name": "Dance Teacher (Private Tuition)"
+        },
+        {
+          "code": "249213",
+          "name": "Drama Teacher (Private Tuition)"
+        },
+        {
+          "code": "249214",
+          "name": "Music Teacher (Private Tuition)"
+        },
+        {
+          "code": "249299",
+          "name": "Private Tutors and Teachers nec"
+        },
+        {
+          "code": "249311",
+          "name": "Teacher of English to Speakers of Other Languages"
+        }
+      ],
+      "examples": [
+        {
+          "code": "241111",
+          "name": "Early Childhood (Pre-primary School) Teacher",
+          "nameZh": "幼儿教师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "241411",
+          "name": "Secondary School Teacher",
+          "nameZh": "中学教师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "242111",
+          "name": "University Lecturer",
+          "nameZh": "大学讲师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "25",
+      "name": "Health Professionals",
+      "nameZh": "医疗卫生专业人员",
+      "minorGroups": [
+        {
+          "code": "251",
+          "name": "Health Diagnostic and Promotion Professionals"
+        },
+        {
+          "code": "252",
+          "name": "Health Therapy Professionals"
+        },
+        {
+          "code": "253",
+          "name": "Medical Practitioners"
+        },
+        {
+          "code": "254",
+          "name": "Midwifery and Nursing Professionals"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "2511",
+          "name": "Nutrition Professionals"
+        },
+        {
+          "code": "2512",
+          "name": "Medical Imaging Professionals"
+        },
+        {
+          "code": "2513",
+          "name": "Occupational and Environmental Health Professionals"
+        },
+        {
+          "code": "2514",
+          "name": "Optometrists and Orthoptists"
+        },
+        {
+          "code": "2515",
+          "name": "Pharmacists"
+        },
+        {
+          "code": "2519",
+          "name": "Other Health Diagnostic and Promotion Professionals"
+        },
+        {
+          "code": "2521",
+          "name": "Chiropractors and Osteopaths"
+        },
+        {
+          "code": "2522",
+          "name": "Complementary Health Therapists"
+        },
+        {
+          "code": "2523",
+          "name": "Dental Practitioners"
+        },
+        {
+          "code": "2524",
+          "name": "Occupational Therapists"
+        },
+        {
+          "code": "2525",
+          "name": "Physiotherapists"
+        },
+        {
+          "code": "2526",
+          "name": "Podiatrists"
+        },
+        {
+          "code": "2527",
+          "name": "Audiologists and Speech Pathologists / Therapists"
+        },
+        {
+          "code": "2531",
+          "name": "General Practitioners and Resident Medical Officers"
+        },
+        {
+          "code": "2532",
+          "name": "Anaesthetists"
+        },
+        {
+          "code": "2533",
+          "name": "Specialist Physicians"
+        },
+        {
+          "code": "2534",
+          "name": "Psychiatrists"
+        },
+        {
+          "code": "2535",
+          "name": "Surgeons"
+        },
+        {
+          "code": "2539",
+          "name": "Other Medical Practitioners"
+        },
+        {
+          "code": "2541",
+          "name": "Midwives"
+        },
+        {
+          "code": "2542",
+          "name": "Nurse Educators and Researchers"
+        },
+        {
+          "code": "2543",
+          "name": "Nurse Managers"
+        },
+        {
+          "code": "2544",
+          "name": "Registered Nurses"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "251111",
+          "name": "Dietitian"
+        },
+        {
+          "code": "251112",
+          "name": "Nutritionist"
+        },
+        {
+          "code": "251211",
+          "name": "Medical Diagnostic Radiographer"
+        },
+        {
+          "code": "251212",
+          "name": "Medical Radiation Therapist"
+        },
+        {
+          "code": "251213",
+          "name": "Nuclear Medicine Technologist"
+        },
+        {
+          "code": "251214",
+          "name": "Sonographer"
+        },
+        {
+          "code": "251311",
+          "name": "Environmental Health Officer"
+        },
+        {
+          "code": "251312",
+          "name": "Occupational Health and Safety Adviser"
+        },
+        {
+          "code": "251411",
+          "name": "Optometrist"
+        },
+        {
+          "code": "251412",
+          "name": "Orthoptist"
+        },
+        {
+          "code": "251511",
+          "name": "Hospital Pharmacist"
+        },
+        {
+          "code": "251512",
+          "name": "Industrial Pharmacist"
+        },
+        {
+          "code": "251513",
+          "name": "Retail Pharmacist"
+        },
+        {
+          "code": "251911",
+          "name": "Health Promotion Officer"
+        },
+        {
+          "code": "251912",
+          "name": "Orthotist or Prosthetist"
+        },
+        {
+          "code": "251999",
+          "name": "Health Diagnostic and Promotion Professionals nec"
+        },
+        {
+          "code": "252111",
+          "name": "Chiropractor"
+        },
+        {
+          "code": "252112",
+          "name": "Osteopath"
+        },
+        {
+          "code": "252211",
+          "name": "Acupuncturist"
+        },
+        {
+          "code": "252212",
+          "name": "Homoeopath"
+        },
+        {
+          "code": "252213",
+          "name": "Naturopath"
+        },
+        {
+          "code": "252214",
+          "name": "Traditional Chinese Medicine Practitioner"
+        },
+        {
+          "code": "252215",
+          "name": "Traditional Māori Health Practitioner"
+        },
+        {
+          "code": "252299",
+          "name": "Complementary Health Therapists nec"
+        },
+        {
+          "code": "252311",
+          "name": "Dental Specialist"
+        },
+        {
+          "code": "252312",
+          "name": "Dentist"
+        },
+        {
+          "code": "252411",
+          "name": "Occupational Therapist"
+        },
+        {
+          "code": "252511",
+          "name": "Physiotherapist"
+        },
+        {
+          "code": "252611",
+          "name": "Podiatrist"
+        },
+        {
+          "code": "252711",
+          "name": "Audiologist"
+        },
+        {
+          "code": "252712",
+          "name": "Speech Pathologist / Speech Language Therapist"
+        },
+        {
+          "code": "253111",
+          "name": "General Practitioner"
+        },
+        {
+          "code": "253112",
+          "name": "Resident Medical Officer"
+        },
+        {
+          "code": "253211",
+          "name": "Anaesthetist"
+        },
+        {
+          "code": "253311",
+          "name": "Specialist Physician (General Medicine)"
+        },
+        {
+          "code": "253312",
+          "name": "Cardiologist"
+        },
+        {
+          "code": "253313",
+          "name": "Clinical Haematologist"
+        },
+        {
+          "code": "253314",
+          "name": "Medical Oncologist"
+        },
+        {
+          "code": "253315",
+          "name": "Endocrinologist"
+        },
+        {
+          "code": "253316",
+          "name": "Gastroenterologist"
+        },
+        {
+          "code": "253317",
+          "name": "Intensive Care Specialist"
+        },
+        {
+          "code": "253318",
+          "name": "Neurologist"
+        },
+        {
+          "code": "253321",
+          "name": "Paediatrician"
+        },
+        {
+          "code": "253322",
+          "name": "Renal Medicine Specialist"
+        },
+        {
+          "code": "253323",
+          "name": "Rheumatologist"
+        },
+        {
+          "code": "253324",
+          "name": "Thoracic Medicine Specialist"
+        },
+        {
+          "code": "253399",
+          "name": "Specialist Physicians nec"
+        },
+        {
+          "code": "253411",
+          "name": "Psychiatrist"
+        },
+        {
+          "code": "253511",
+          "name": "Surgeon (General)"
+        },
+        {
+          "code": "253512",
+          "name": "Cardiothoracic Surgeon"
+        },
+        {
+          "code": "253513",
+          "name": "Neurosurgeon"
+        },
+        {
+          "code": "253514",
+          "name": "Orthopaedic Surgeon"
+        },
+        {
+          "code": "253515",
+          "name": "Otorhinolaryngologist"
+        },
+        {
+          "code": "253516",
+          "name": "Paediatric Surgeon"
+        },
+        {
+          "code": "253517",
+          "name": "Plastic and Reconstructive Surgeon"
+        },
+        {
+          "code": "253518",
+          "name": "Urologist"
+        },
+        {
+          "code": "253521",
+          "name": "Vascular Surgeon"
+        },
+        {
+          "code": "253911",
+          "name": "Dermatologist"
+        },
+        {
+          "code": "253912",
+          "name": "Emergency Medicine Specialist"
+        },
+        {
+          "code": "253913",
+          "name": "Obstetrician and Gynaecologist"
+        },
+        {
+          "code": "253914",
+          "name": "Ophthalmologist"
+        },
+        {
+          "code": "253915",
+          "name": "Pathologist"
+        },
+        {
+          "code": "253917",
+          "name": "Diagnostic and Interventional Radiologist"
+        },
+        {
+          "code": "253918",
+          "name": "Radiation Oncologist"
+        },
+        {
+          "code": "253999",
+          "name": "Medical Practitioners nec"
+        },
+        {
+          "code": "254111",
+          "name": "Midwife"
+        },
+        {
+          "code": "254211",
+          "name": "Nurse Educator"
+        },
+        {
+          "code": "254212",
+          "name": "Nurse Researcher"
+        },
+        {
+          "code": "254311",
+          "name": "Nurse Manager"
+        },
+        {
+          "code": "254411",
+          "name": "Nurse Practitioner"
+        },
+        {
+          "code": "254412",
+          "name": "Registered Nurse (Aged Care)"
+        },
+        {
+          "code": "254413",
+          "name": "Registered Nurse (Child and Family Health)"
+        },
+        {
+          "code": "254414",
+          "name": "Registered Nurse (Community Health)"
+        },
+        {
+          "code": "254415",
+          "name": "Registered Nurse (Critical Care and Emergency)"
+        },
+        {
+          "code": "254416",
+          "name": "Registered Nurse (Developmental Disability)"
+        },
+        {
+          "code": "254417",
+          "name": "Registered Nurse (Disability and Rehabilitation)"
+        },
+        {
+          "code": "254418",
+          "name": "Registered Nurse (Medical)"
+        },
+        {
+          "code": "254421",
+          "name": "Registered Nurse (Medical Practice)"
+        },
+        {
+          "code": "254422",
+          "name": "Registered Nurse (Mental Health)"
+        },
+        {
+          "code": "254423",
+          "name": "Registered Nurse (Perioperative)"
+        },
+        {
+          "code": "254424",
+          "name": "Registered Nurse (Surgical)"
+        },
+        {
+          "code": "254425",
+          "name": "Registered Nurse (Paediatrics)"
+        },
+        {
+          "code": "254499",
+          "name": "Registered Nurses nec"
+        }
+      ],
+      "examples": [
+        {
+          "code": "254412",
+          "name": "Registered Nurse (Aged Care)",
+          "nameZh": "注册护士（老年护理）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "253111",
+          "name": "General Practitioner",
+          "nameZh": "全科医生",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "252511",
+          "name": "Physiotherapist",
+          "nameZh": "物理治疗师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "26",
+      "name": "ICT Professionals",
+      "nameZh": "信息通信技术（ICT）专业人员",
+      "minorGroups": [
+        {
+          "code": "261",
+          "name": "Business and Systems Analysts, and Programmers"
+        },
+        {
+          "code": "262",
+          "name": "Database and Systems Administrators, and ICT Security Specialists"
+        },
+        {
+          "code": "263",
+          "name": "ICT Network and Support Professionals"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "2611",
+          "name": "ICT Business and Systems Analysts"
+        },
+        {
+          "code": "2612",
+          "name": "Multimedia Specialists and Web Developers"
+        },
+        {
+          "code": "2613",
+          "name": "Software and Applications Programmers"
+        },
+        {
+          "code": "2621",
+          "name": "Database and Systems Administrators, and ICT Security Specialists"
+        },
+        {
+          "code": "2631",
+          "name": "Computer Network Professionals"
+        },
+        {
+          "code": "2632",
+          "name": "ICT Support and Test Engineers"
+        },
+        {
+          "code": "2633",
+          "name": "Telecommunications Engineering Professionals"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "261111",
+          "name": "ICT Business Analyst"
+        },
+        {
+          "code": "261112",
+          "name": "Systems Analyst"
+        },
+        {
+          "code": "261113",
+          "name": "User Experience Designer"
+        },
+        {
+          "code": "261211",
+          "name": "Multimedia Specialist"
+        },
+        {
+          "code": "261212",
+          "name": "Web Developer"
+        },
+        {
+          "code": "261311",
+          "name": "Analyst Programmer"
+        },
+        {
+          "code": "261312",
+          "name": "Developer Programmer"
+        },
+        {
+          "code": "261313",
+          "name": "Software Engineer"
+        },
+        {
+          "code": "261314",
+          "name": "Software Tester"
+        },
+        {
+          "code": "261315",
+          "name": "Cyber Security Engineer"
+        },
+        {
+          "code": "261316",
+          "name": "DevOps Engineer"
+        },
+        {
+          "code": "261317",
+          "name": "Penetration Tester"
+        },
+        {
+          "code": "261399",
+          "name": "Software and Applications Programmers nec"
+        },
+        {
+          "code": "262111",
+          "name": "Database Administrator"
+        },
+        {
+          "code": "262113",
+          "name": "Systems Administrator"
+        },
+        {
+          "code": "262114",
+          "name": "Cyber Governance Risk and Compliance Specialist"
+        },
+        {
+          "code": "262115",
+          "name": "Cyber Security Advice and Assessment Specialist"
+        },
+        {
+          "code": "262116",
+          "name": "Cyber Security Analyst"
+        },
+        {
+          "code": "262117",
+          "name": "Cyber Security Architect"
+        },
+        {
+          "code": "262118",
+          "name": "Cyber Security Operations Coordinator"
+        },
+        {
+          "code": "263111",
+          "name": "Computer Network and Systems Engineer"
+        },
+        {
+          "code": "263112",
+          "name": "Network Administrator"
+        },
+        {
+          "code": "263113",
+          "name": "Network Analyst"
+        },
+        {
+          "code": "263211",
+          "name": "ICT Quality Assurance Engineer"
+        },
+        {
+          "code": "263212",
+          "name": "ICT Support Engineer"
+        },
+        {
+          "code": "263213",
+          "name": "ICT Systems Test Engineer"
+        },
+        {
+          "code": "263299",
+          "name": "ICT Support and Test Engineers nec"
+        },
+        {
+          "code": "263311",
+          "name": "Telecommunications Engineer"
+        },
+        {
+          "code": "263312",
+          "name": "Telecommunications Network Engineer"
+        }
+      ],
+      "examples": [
+        {
+          "code": "261313",
+          "name": "Software Engineer",
+          "nameZh": "软件工程师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "261111",
+          "name": "ICT Business Analyst",
+          "nameZh": "ICT业务分析师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "262111",
+          "name": "Database Administrator",
+          "nameZh": "数据库管理员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "27",
+      "name": "Legal, Social and Welfare Professionals",
+      "nameZh": "法律、社会与福利专业人员",
+      "minorGroups": [
+        {
+          "code": "271",
+          "name": "Legal Professionals"
+        },
+        {
+          "code": "272",
+          "name": "Social and Welfare Professionals"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "2711",
+          "name": "Barristers"
+        },
+        {
+          "code": "2712",
+          "name": "Judicial and Other Legal Professionals"
+        },
+        {
+          "code": "2713",
+          "name": "Solicitors"
+        },
+        {
+          "code": "2721",
+          "name": "Counsellors"
+        },
+        {
+          "code": "2722",
+          "name": "Ministers of Religion"
+        },
+        {
+          "code": "2723",
+          "name": "Psychologists"
+        },
+        {
+          "code": "2724",
+          "name": "Social Professionals"
+        },
+        {
+          "code": "2725",
+          "name": "Social Workers"
+        },
+        {
+          "code": "2726",
+          "name": "Welfare, Recreation and Community Arts Workers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "271111",
+          "name": "Barrister"
+        },
+        {
+          "code": "271211",
+          "name": "Judge"
+        },
+        {
+          "code": "271212",
+          "name": "Magistrate"
+        },
+        {
+          "code": "271213",
+          "name": "Tribunal Member"
+        },
+        {
+          "code": "271214",
+          "name": "Intellectual Property Lawyer"
+        },
+        {
+          "code": "271299",
+          "name": "Judicial and Other Legal Professionals nec"
+        },
+        {
+          "code": "271311",
+          "name": "Solicitor"
+        },
+        {
+          "code": "272111",
+          "name": "Careers Counsellor"
+        },
+        {
+          "code": "272112",
+          "name": "Drug and Alcohol Counsellor"
+        },
+        {
+          "code": "272113",
+          "name": "Family and Marriage Counsellor"
+        },
+        {
+          "code": "272114",
+          "name": "Rehabilitation Counsellor"
+        },
+        {
+          "code": "272115",
+          "name": "Student Counsellor"
+        },
+        {
+          "code": "272199",
+          "name": "Counsellors nec"
+        },
+        {
+          "code": "272211",
+          "name": "Minister of Religion"
+        },
+        {
+          "code": "272311",
+          "name": "Clinical Psychologist"
+        },
+        {
+          "code": "272312",
+          "name": "Educational Psychologist"
+        },
+        {
+          "code": "272313",
+          "name": "Organisational Psychologist"
+        },
+        {
+          "code": "272314",
+          "name": "Psychotherapist"
+        },
+        {
+          "code": "272399",
+          "name": "Psychologists nec"
+        },
+        {
+          "code": "272411",
+          "name": "Historian"
+        },
+        {
+          "code": "272412",
+          "name": "Interpreter"
+        },
+        {
+          "code": "272413",
+          "name": "Translator"
+        },
+        {
+          "code": "272414",
+          "name": "Archaeologist"
+        },
+        {
+          "code": "272499",
+          "name": "Social Professionals nec"
+        },
+        {
+          "code": "272511",
+          "name": "Social Worker"
+        },
+        {
+          "code": "272611",
+          "name": "Community Arts Worker"
+        },
+        {
+          "code": "272612",
+          "name": "Recreation Officer / Recreation Coordinator"
+        },
+        {
+          "code": "272613",
+          "name": "Welfare Worker"
+        }
+      ],
+      "examples": [
+        {
+          "code": "272511",
+          "name": "Social Worker",
+          "nameZh": "社会工作者",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "271311",
+          "name": "Solicitor",
+          "nameZh": "事务律师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "272311",
+          "name": "Clinical Psychologist",
+          "nameZh": "临床心理学家",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "31",
+      "name": "Engineering, ICT and Science Technicians",
+      "nameZh": "工程、ICT与科学技术员",
+      "minorGroups": [
+        {
+          "code": "311",
+          "name": "Agricultural, Medical and Science Technicians"
+        },
+        {
+          "code": "312",
+          "name": "Building and Engineering Technicians"
+        },
+        {
+          "code": "313",
+          "name": "ICT and Telecommunications Technicians"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "3111",
+          "name": "Agricultural, Agritech and Aquaculture Technicians"
+        },
+        {
+          "code": "3112",
+          "name": "Medical Technicians"
+        },
+        {
+          "code": "3113",
+          "name": "Primary Products Assurance and Inspection Officers"
+        },
+        {
+          "code": "3114",
+          "name": "Science Technicians"
+        },
+        {
+          "code": "3121",
+          "name": "Architectural, Building and Surveying Technicians"
+        },
+        {
+          "code": "3122",
+          "name": "Civil Engineering Draftspersons and Technicians"
+        },
+        {
+          "code": "3123",
+          "name": "Electrical Engineering Draftspersons and Technicians"
+        },
+        {
+          "code": "3124",
+          "name": "Electronic Engineering Draftspersons and Technicians"
+        },
+        {
+          "code": "3125",
+          "name": "Mechanical Engineering Draftspersons and Technicians"
+        },
+        {
+          "code": "3126",
+          "name": "Safety Inspectors"
+        },
+        {
+          "code": "3129",
+          "name": "Other Building and Engineering Technicians"
+        },
+        {
+          "code": "3131",
+          "name": "ICT Support Technicians"
+        },
+        {
+          "code": "3132",
+          "name": "Telecommunications Technical Specialists"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "311112",
+          "name": "Agricultural and  Agritech Technician"
+        },
+        {
+          "code": "311113",
+          "name": "Animal Husbandry Technician"
+        },
+        {
+          "code": "311114",
+          "name": "Aquaculture or Fisheries Technician"
+        },
+        {
+          "code": "311115",
+          "name": "Irrigation Designer"
+        },
+        {
+          "code": "311211",
+          "name": "Anaesthetic Technician"
+        },
+        {
+          "code": "311212",
+          "name": "Cardiac Technician"
+        },
+        {
+          "code": "311213",
+          "name": "Medical Laboratory Technician"
+        },
+        {
+          "code": "311214",
+          "name": "Operating Theatre Technician"
+        },
+        {
+          "code": "311215",
+          "name": "Pharmacy Technician"
+        },
+        {
+          "code": "311216",
+          "name": "Pathology Collector / Phlebotomist"
+        },
+        {
+          "code": "311217",
+          "name": "Respiratory Technician"
+        },
+        {
+          "code": "311299",
+          "name": "Medical Technicians nec"
+        },
+        {
+          "code": "311311",
+          "name": "Fisheries Officer"
+        },
+        {
+          "code": "311312",
+          "name": "Meat Inspector"
+        },
+        {
+          "code": "311313",
+          "name": "Biosecurity Officer"
+        },
+        {
+          "code": "311314",
+          "name": "Primary Products Quality Assurance Officer"
+        },
+        {
+          "code": "311399",
+          "name": "Primary Products Assurance and Inspection Officers nec"
+        },
+        {
+          "code": "311411",
+          "name": "Chemistry Technician"
+        },
+        {
+          "code": "311412",
+          "name": "Earth Science Technician"
+        },
+        {
+          "code": "311413",
+          "name": "Life Science Technician"
+        },
+        {
+          "code": "311414",
+          "name": "School Laboratory Technician"
+        },
+        {
+          "code": "311415",
+          "name": "Hydrographer"
+        },
+        {
+          "code": "311499",
+          "name": "Science Technicians nec"
+        },
+        {
+          "code": "312111",
+          "name": "Architectural Draftsperson"
+        },
+        {
+          "code": "312112",
+          "name": "Building Associate"
+        },
+        {
+          "code": "312113",
+          "name": "Building Inspector"
+        },
+        {
+          "code": "312114",
+          "name": "Construction Estimator"
+        },
+        {
+          "code": "312115",
+          "name": "Plumbing Inspector"
+        },
+        {
+          "code": "312116",
+          "name": "Surveying or Spatial Science Technician"
+        },
+        {
+          "code": "312199",
+          "name": "Architectural, Building and Surveying Technicians nec"
+        },
+        {
+          "code": "312211",
+          "name": "Civil Engineering Draftsperson"
+        },
+        {
+          "code": "312212",
+          "name": "Civil Engineering Technician"
+        },
+        {
+          "code": "312311",
+          "name": "Electrical Engineering Draftsperson"
+        },
+        {
+          "code": "312312",
+          "name": "Electrical Engineering Technician"
+        },
+        {
+          "code": "312411",
+          "name": "Electronic Engineering Draftsperson"
+        },
+        {
+          "code": "312412",
+          "name": "Electronic Engineering Technician"
+        },
+        {
+          "code": "312511",
+          "name": "Mechanical Engineering Draftsperson"
+        },
+        {
+          "code": "312512",
+          "name": "Mechanical Engineering Technician"
+        },
+        {
+          "code": "312611",
+          "name": "Safety Inspector"
+        },
+        {
+          "code": "312911",
+          "name": "Maintenance Planner"
+        },
+        {
+          "code": "312912",
+          "name": "Metallurgical or Materials Technician"
+        },
+        {
+          "code": "312913",
+          "name": "Mine Deputy"
+        },
+        {
+          "code": "312914",
+          "name": "Other Draftsperson"
+        },
+        {
+          "code": "312999",
+          "name": "Building and Engineering Technicians nec"
+        },
+        {
+          "code": "313111",
+          "name": "Hardware Technician"
+        },
+        {
+          "code": "313112",
+          "name": "ICT Customer Support Officer"
+        },
+        {
+          "code": "313113",
+          "name": "Web Administrator"
+        },
+        {
+          "code": "313199",
+          "name": "ICT Support Technicians nec"
+        },
+        {
+          "code": "313211",
+          "name": "Radiocommunications Technician"
+        },
+        {
+          "code": "313212",
+          "name": "Telecommunications Field Engineer"
+        },
+        {
+          "code": "313213",
+          "name": "Telecommunications Network Planner"
+        },
+        {
+          "code": "313214",
+          "name": "Telecommunications Technical Officer or Technologist"
+        }
+      ],
+      "examples": [
+        {
+          "code": "312211",
+          "name": "Civil Engineering Draftsperson",
+          "nameZh": "土木工程绘图员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "313112",
+          "name": "ICT Customer Support Officer",
+          "nameZh": "ICT客户支持专员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "311213",
+          "name": "Medical Laboratory Technician",
+          "nameZh": "医学实验室技术员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "32",
+      "name": "Automotive and Engineering Trades Workers",
+      "nameZh": "汽车与工程技工",
+      "minorGroups": [
+        {
+          "code": "321",
+          "name": "Automotive Electricians and Mechanics"
+        },
+        {
+          "code": "322",
+          "name": "Fabrication Engineering Trades Workers"
+        },
+        {
+          "code": "323",
+          "name": "Mechanical Engineering Trades Workers"
+        },
+        {
+          "code": "324",
+          "name": "Panelbeaters, and Vehicle Body Builders, Trimmers and Painters"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "3211",
+          "name": "Automotive Electricians"
+        },
+        {
+          "code": "3212",
+          "name": "Motor Mechanics"
+        },
+        {
+          "code": "3221",
+          "name": "Metal Casting, Forging and Finishing Trades Workers"
+        },
+        {
+          "code": "3222",
+          "name": "Sheetmetal Workers"
+        },
+        {
+          "code": "3223",
+          "name": "Structural Steel and Welding Trades Workers"
+        },
+        {
+          "code": "3231",
+          "name": "Aircraft Maintenance Engineers"
+        },
+        {
+          "code": "3232",
+          "name": "Metal Fitters and Machinists"
+        },
+        {
+          "code": "3233",
+          "name": "Precision Metal Trades Workers"
+        },
+        {
+          "code": "3234",
+          "name": "Toolmakers and Engineering Patternmakers"
+        },
+        {
+          "code": "3241",
+          "name": "Panelbeaters"
+        },
+        {
+          "code": "3242",
+          "name": "Vehicle Body Builders and Trimmers"
+        },
+        {
+          "code": "3243",
+          "name": "Vehicle Painters"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "321111",
+          "name": "Automotive Electrician"
+        },
+        {
+          "code": "321211",
+          "name": "Motor Mechanic (General)"
+        },
+        {
+          "code": "321212",
+          "name": "Diesel Motor Mechanic"
+        },
+        {
+          "code": "321213",
+          "name": "Motorcycle Mechanic"
+        },
+        {
+          "code": "321214",
+          "name": "Small Engine Mechanic"
+        },
+        {
+          "code": "322111",
+          "name": "Blacksmith"
+        },
+        {
+          "code": "322112",
+          "name": "Electroplater"
+        },
+        {
+          "code": "322113",
+          "name": "Farrier"
+        },
+        {
+          "code": "322114",
+          "name": "Metal Casting Trades Worker"
+        },
+        {
+          "code": "322115",
+          "name": "Metal Polisher"
+        },
+        {
+          "code": "322211",
+          "name": "Sheetmetal Worker"
+        },
+        {
+          "code": "322311",
+          "name": "Metal Fabricator"
+        },
+        {
+          "code": "322312",
+          "name": "Pressure Welder"
+        },
+        {
+          "code": "322313",
+          "name": "Welder (First Class) (Aus) / Welder (NZ)"
+        },
+        {
+          "code": "323111",
+          "name": "Aircraft Maintenance Engineer (Avionics)"
+        },
+        {
+          "code": "323112",
+          "name": "Aircraft Maintenance Engineer (Mechanical)"
+        },
+        {
+          "code": "323113",
+          "name": "Aircraft Maintenance Engineer (Structures)"
+        },
+        {
+          "code": "323211",
+          "name": "Fitter (General)"
+        },
+        {
+          "code": "323212",
+          "name": "Fitter and Turner"
+        },
+        {
+          "code": "323213",
+          "name": "Fitter-Welder"
+        },
+        {
+          "code": "323214",
+          "name": "Metal Machinist (First Class)"
+        },
+        {
+          "code": "323215",
+          "name": "Textile, Clothing and Footwear Mechanic"
+        },
+        {
+          "code": "323299",
+          "name": "Metal Fitters and Machinists nec"
+        },
+        {
+          "code": "323311",
+          "name": "Engraver"
+        },
+        {
+          "code": "323312",
+          "name": "Gunsmith"
+        },
+        {
+          "code": "323313",
+          "name": "Locksmith"
+        },
+        {
+          "code": "323314",
+          "name": "Precision Instrument Maker and Repairer"
+        },
+        {
+          "code": "323315",
+          "name": "Saw Doctor"
+        },
+        {
+          "code": "323316",
+          "name": "Watch and Clock Maker and Repairer"
+        },
+        {
+          "code": "323411",
+          "name": "Engineering Patternmaker"
+        },
+        {
+          "code": "323412",
+          "name": "Toolmaker"
+        },
+        {
+          "code": "324111",
+          "name": "Panelbeater"
+        },
+        {
+          "code": "324211",
+          "name": "Vehicle Body Builder"
+        },
+        {
+          "code": "324212",
+          "name": "Vehicle Trimmer"
+        },
+        {
+          "code": "324311",
+          "name": "Vehicle Painter"
+        }
+      ],
+      "examples": [
+        {
+          "code": "321211",
+          "name": "Motor Mechanic (General)",
+          "nameZh": "汽车修理工（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "322313",
+          "name": "Welder (First Class) (Aus) / Welder (NZ)",
+          "nameZh": "焊工（一级）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "323211",
+          "name": "Fitter (General)",
+          "nameZh": "钳工（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "33",
+      "name": "Construction Trades Workers",
+      "nameZh": "建筑技工",
+      "minorGroups": [
+        {
+          "code": "331",
+          "name": "Bricklayers, and Carpenters and Joiners"
+        },
+        {
+          "code": "332",
+          "name": "Floor Finishers and Painters"
+        },
+        {
+          "code": "333",
+          "name": "Glaziers, Plasterers and Tilers"
+        },
+        {
+          "code": "334",
+          "name": "Plumbers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "3311",
+          "name": "Bricklayers and Stonemasons"
+        },
+        {
+          "code": "3312",
+          "name": "Carpenters and Joiners"
+        },
+        {
+          "code": "3321",
+          "name": "Floor Finishers"
+        },
+        {
+          "code": "3322",
+          "name": "Painters"
+        },
+        {
+          "code": "3331",
+          "name": "Glaziers"
+        },
+        {
+          "code": "3332",
+          "name": "Plasterers and Renderers"
+        },
+        {
+          "code": "3333",
+          "name": "Roof Tilers"
+        },
+        {
+          "code": "3334",
+          "name": "Wall and Floor Tilers"
+        },
+        {
+          "code": "3341",
+          "name": "Plumbers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "331111",
+          "name": "Bricklayer"
+        },
+        {
+          "code": "331112",
+          "name": "Stonemason"
+        },
+        {
+          "code": "331211",
+          "name": "Carpenter and Joiner"
+        },
+        {
+          "code": "331212",
+          "name": "Carpenter"
+        },
+        {
+          "code": "331213",
+          "name": "Joiner"
+        },
+        {
+          "code": "332111",
+          "name": "Floor Finisher"
+        },
+        {
+          "code": "332211",
+          "name": "Painter"
+        },
+        {
+          "code": "333111",
+          "name": "Glazier"
+        },
+        {
+          "code": "333211",
+          "name": "Plasterer (Wall and Ceiling)"
+        },
+        {
+          "code": "333212",
+          "name": "Renderer (Solid Plaster)"
+        },
+        {
+          "code": "333311",
+          "name": "Roof Tiler"
+        },
+        {
+          "code": "333411",
+          "name": "Wall and Floor Tiler"
+        },
+        {
+          "code": "334112",
+          "name": "Airconditioning and Mechanical Services Plumber"
+        },
+        {
+          "code": "334113",
+          "name": "Drainer"
+        },
+        {
+          "code": "334114",
+          "name": "Gasfitter"
+        },
+        {
+          "code": "334115",
+          "name": "Roof Plumber"
+        },
+        {
+          "code": "334116",
+          "name": "Plumber (General)"
+        },
+        {
+          "code": "334117",
+          "name": "Fire Protection Plumber"
+        }
+      ],
+      "examples": [
+        {
+          "code": "331212",
+          "name": "Carpenter",
+          "nameZh": "木工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "334115",
+          "name": "Roof Plumber",
+          "nameZh": "屋面管道工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "333411",
+          "name": "Wall and Floor Tiler",
+          "nameZh": "墙面与地面铺砖工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "34",
+      "name": "Electrotechnology and Telecommunications Trades Workers",
+      "nameZh": "电工电子与电信技工",
+      "minorGroups": [
+        {
+          "code": "341",
+          "name": "Electricians"
+        },
+        {
+          "code": "342",
+          "name": "Electronics and Telecommunications Trades Workers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "3411",
+          "name": "Electricians"
+        },
+        {
+          "code": "3421",
+          "name": "Airconditioning and Refrigeration Mechanics"
+        },
+        {
+          "code": "3422",
+          "name": "Electrical Distribution Trades Workers"
+        },
+        {
+          "code": "3423",
+          "name": "Electronics Trades Workers"
+        },
+        {
+          "code": "3424",
+          "name": "Telecommunications Trades Workers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "341111",
+          "name": "Electrician (General)"
+        },
+        {
+          "code": "341112",
+          "name": "Electrician (Special Class)"
+        },
+        {
+          "code": "341113",
+          "name": "Lift Mechanic"
+        },
+        {
+          "code": "342111",
+          "name": "Airconditioning and Refrigeration Mechanic"
+        },
+        {
+          "code": "342211",
+          "name": "Electrical Linesworker / Electrical Line Mechanic"
+        },
+        {
+          "code": "342212",
+          "name": "Technical Cable Jointer"
+        },
+        {
+          "code": "342311",
+          "name": "Business Machine Mechanic"
+        },
+        {
+          "code": "342312",
+          "name": "Communications Operator"
+        },
+        {
+          "code": "342313",
+          "name": "Electronic Equipment Trades Worker"
+        },
+        {
+          "code": "342314",
+          "name": "Electronic Instrument Trades Worker (General)"
+        },
+        {
+          "code": "342315",
+          "name": "Electronic Instrument Trades Worker (Special Class)"
+        },
+        {
+          "code": "342411",
+          "name": "Cabler (Data and Telecommunications)"
+        },
+        {
+          "code": "342412",
+          "name": "Telecommunications Cable Jointer"
+        },
+        {
+          "code": "342413",
+          "name": "Telecommunications Linesworker / Telecommunications Line Mechanic"
+        },
+        {
+          "code": "342414",
+          "name": "Telecommunications Technician"
+        }
+      ],
+      "examples": [
+        {
+          "code": "341111",
+          "name": "Electrician (General)",
+          "nameZh": "电工（综合）",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "342111",
+          "name": "Airconditioning and Refrigeration Mechanic",
+          "nameZh": "空调与制冷技工",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "342414",
+          "name": "Telecommunications Technician",
+          "nameZh": "电信技术员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "35",
+      "name": "Food Trades Workers",
+      "nameZh": "食品技工",
+      "minorGroups": [
+        {
+          "code": "351",
+          "name": "Food Trades Workers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "3511",
+          "name": "Bakers and Pastrycooks"
+        },
+        {
+          "code": "3512",
+          "name": "Butchers and Smallgoods Makers"
+        },
+        {
+          "code": "3513",
+          "name": "Chefs"
+        },
+        {
+          "code": "3514",
+          "name": "Cooks"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "351111",
+          "name": "Baker"
+        },
+        {
+          "code": "351112",
+          "name": "Pastrycook"
+        },
+        {
+          "code": "351211",
+          "name": "Butcher or Smallgoods Maker"
+        },
+        {
+          "code": "351311",
+          "name": "Chef"
+        },
+        {
+          "code": "351411",
+          "name": "Cook"
+        }
+      ],
+      "examples": [
+        {
+          "code": "351311",
+          "name": "Chef",
+          "nameZh": "主厨",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "351411",
+          "name": "Cook",
+          "nameZh": "厨师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "351111",
+          "name": "Baker",
+          "nameZh": "面包师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "36",
+      "name": "Skilled Animal, Agricultural and Horticultural Workers",
+      "nameZh": "动物、农业与园艺技术人员",
+      "minorGroups": [
+        {
+          "code": "361",
+          "name": "Animal Attendants and Trainers, and Veterinary Nurses"
+        },
+        {
+          "code": "362",
+          "name": "Horticultural Trades Workers"
+        },
+        {
+          "code": "363",
+          "name": "Primary Production Supervisors and Specialists"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "3611",
+          "name": "Animal Attendants and Trainers"
+        },
+        {
+          "code": "3613",
+          "name": "Veterinary Nurses"
+        },
+        {
+          "code": "3621",
+          "name": "Florists"
+        },
+        {
+          "code": "3623",
+          "name": "Sports Turf Managers and Trades Workers"
+        },
+        {
+          "code": "3624",
+          "name": "Nurserypersons"
+        },
+        {
+          "code": "3625",
+          "name": "Arboriculture Workers"
+        },
+        {
+          "code": "3626",
+          "name": "Gardeners (General)"
+        },
+        {
+          "code": "3627",
+          "name": "Landscape Gardeners and Irrigation Technicians"
+        },
+        {
+          "code": "3631",
+          "name": "Senior Aquaculture, Crop and Forestry Workers"
+        },
+        {
+          "code": "3632",
+          "name": "Senior Livestock Farm Workers"
+        },
+        {
+          "code": "3633",
+          "name": "Shearers and Wool Classers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "361111",
+          "name": "Dog Handler or Trainer"
+        },
+        {
+          "code": "361112",
+          "name": "Horse Trainer"
+        },
+        {
+          "code": "361113",
+          "name": "Pet Groomer"
+        },
+        {
+          "code": "361114",
+          "name": "Zookeeper"
+        },
+        {
+          "code": "361115",
+          "name": "Kennel Hand"
+        },
+        {
+          "code": "361116",
+          "name": "Track Rider"
+        },
+        {
+          "code": "361199",
+          "name": "Animal Attendants and Trainers nec"
+        },
+        {
+          "code": "361311",
+          "name": "Veterinary Nurse"
+        },
+        {
+          "code": "362111",
+          "name": "Florist"
+        },
+        {
+          "code": "362312",
+          "name": "Sports Turf Manager"
+        },
+        {
+          "code": "362313",
+          "name": "Sports Turf Trades Worker"
+        },
+        {
+          "code": "362411",
+          "name": "Nurseryperson"
+        },
+        {
+          "code": "362511",
+          "name": "Arborist"
+        },
+        {
+          "code": "362512",
+          "name": "Tree Worker"
+        },
+        {
+          "code": "362611",
+          "name": "Gardener (General)"
+        },
+        {
+          "code": "362711",
+          "name": "Landscape Gardener"
+        },
+        {
+          "code": "362712",
+          "name": "Irrigation Technician"
+        },
+        {
+          "code": "363111",
+          "name": "Aquaculture Supervisor"
+        },
+        {
+          "code": "363112",
+          "name": "Fishing Leading Hand"
+        },
+        {
+          "code": "363113",
+          "name": "Forestry Operations Supervisor"
+        },
+        {
+          "code": "363114",
+          "name": "Horticultural Supervisor or Specialist"
+        },
+        {
+          "code": "363115",
+          "name": "Senior Broadacre Crop and Livestock Farm Worker"
+        },
+        {
+          "code": "363116",
+          "name": "Senior Broadacre Crop Farm Worker"
+        },
+        {
+          "code": "363117",
+          "name": "Vineyard Supervisor"
+        },
+        {
+          "code": "363199",
+          "name": "Senior Aquaculture, Crop and Forestry Workers nec"
+        },
+        {
+          "code": "363211",
+          "name": "Senior Beef Cattle Station Worker"
+        },
+        {
+          "code": "363212",
+          "name": "Senior Cattle and Sheep Farm Worker"
+        },
+        {
+          "code": "363213",
+          "name": "Senior Dairy Cattle Farm Worker"
+        },
+        {
+          "code": "363214",
+          "name": "Senior Piggery Stockperson"
+        },
+        {
+          "code": "363215",
+          "name": "Senior Sheep Farm Worker"
+        },
+        {
+          "code": "363299",
+          "name": "Senior Livestock Farm Workers nec"
+        },
+        {
+          "code": "363311",
+          "name": "Shearer"
+        },
+        {
+          "code": "363312",
+          "name": "Wool Classer"
+        }
+      ],
+      "examples": [
+        {
+          "code": "361311",
+          "name": "Veterinary Nurse",
+          "nameZh": "兽医护士",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "362111",
+          "name": "Florist",
+          "nameZh": "花艺师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "362511",
+          "name": "Arborist",
+          "nameZh": "树艺师",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "41",
+      "name": "Health and Welfare Support Workers",
+      "nameZh": "医疗与福利辅助人员",
+      "minorGroups": [
+        {
+          "code": "411",
+          "name": "Health and Welfare Support Workers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "4111",
+          "name": "Ambulance Officers and Paramedics"
+        },
+        {
+          "code": "4112",
+          "name": "Dental Hygienists, Technicians and Therapists"
+        },
+        {
+          "code": "4113",
+          "name": "Diversional Therapists"
+        },
+        {
+          "code": "4114",
+          "name": "Enrolled and Mothercraft Nurses"
+        },
+        {
+          "code": "4115",
+          "name": "Indigenous Health Workers"
+        },
+        {
+          "code": "4116",
+          "name": "Massage Therapists"
+        },
+        {
+          "code": "4117",
+          "name": "Welfare Support Workers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "411111",
+          "name": "Ambulance Officer"
+        },
+        {
+          "code": "411112",
+          "name": "Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)"
+        },
+        {
+          "code": "411211",
+          "name": "Dental Hygienist"
+        },
+        {
+          "code": "411212",
+          "name": "Dental Prosthetist"
+        },
+        {
+          "code": "411213",
+          "name": "Dental Technician"
+        },
+        {
+          "code": "411214",
+          "name": "Dental Therapist"
+        },
+        {
+          "code": "411311",
+          "name": "Diversional Therapist"
+        },
+        {
+          "code": "411411",
+          "name": "Enrolled Nurse"
+        },
+        {
+          "code": "411412",
+          "name": "Mothercraft Nurse"
+        },
+        {
+          "code": "411511",
+          "name": "Aboriginal and Torres Strait Islander Health Worker"
+        },
+        {
+          "code": "411512",
+          "name": "Kaiāwhina (Hauora) (Māori Health Assistant)"
+        },
+        {
+          "code": "411611",
+          "name": "Massage Therapist"
+        },
+        {
+          "code": "411711",
+          "name": "Community Worker"
+        },
+        {
+          "code": "411712",
+          "name": "Disabilities Services Officer"
+        },
+        {
+          "code": "411713",
+          "name": "Family Support Worker"
+        },
+        {
+          "code": "411714",
+          "name": "Parole or Probation Officer"
+        },
+        {
+          "code": "411715",
+          "name": "Residential Care Officer"
+        },
+        {
+          "code": "411716",
+          "name": "Youth Worker"
+        }
+      ],
+      "examples": [
+        {
+          "code": "411411",
+          "name": "Enrolled Nurse",
+          "nameZh": "登记护士",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "411711",
+          "name": "Community Worker",
+          "nameZh": "社区工作者",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "411712",
+          "name": "Disabilities Services Officer",
+          "nameZh": "残障服务专员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "45",
+      "name": "Sports and Personal Service Workers",
+      "nameZh": "体育与个人服务人员",
+      "minorGroups": [
+        {
+          "code": "451",
+          "name": "Personal Service and Travel Workers"
+        },
+        {
+          "code": "452",
+          "name": "Sports and Fitness Workers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "4511",
+          "name": "Beauty Therapists"
+        },
+        {
+          "code": "4512",
+          "name": "Driving Instructors"
+        },
+        {
+          "code": "4513",
+          "name": "Funeral Workers"
+        },
+        {
+          "code": "4514",
+          "name": "Gallery, Museum and Tour Guides"
+        },
+        {
+          "code": "4515",
+          "name": "Personal Care Consultants"
+        },
+        {
+          "code": "4516",
+          "name": "Tourism and Travel Advisers"
+        },
+        {
+          "code": "4517",
+          "name": "Travel Attendants"
+        },
+        {
+          "code": "4518",
+          "name": "Other Personal Service Workers"
+        },
+        {
+          "code": "4521",
+          "name": "Fitness Instructors"
+        },
+        {
+          "code": "4522",
+          "name": "Outdoor Adventure Guides"
+        },
+        {
+          "code": "4523",
+          "name": "Sports Coaches, Instructors and Officials"
+        },
+        {
+          "code": "4524",
+          "name": "Sportspersons"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "451111",
+          "name": "Beauty Therapist"
+        },
+        {
+          "code": "451211",
+          "name": "Driving Instructor"
+        },
+        {
+          "code": "451311",
+          "name": "Funeral Director"
+        },
+        {
+          "code": "451399",
+          "name": "Funeral Workers nec"
+        },
+        {
+          "code": "451411",
+          "name": "Gallery or Museum Guide"
+        },
+        {
+          "code": "451412",
+          "name": "Tour Guide"
+        },
+        {
+          "code": "451511",
+          "name": "Natural Remedy Consultant"
+        },
+        {
+          "code": "451512",
+          "name": "Weight Loss Consultant"
+        },
+        {
+          "code": "451513",
+          "name": "Herbalist (Western)"
+        },
+        {
+          "code": "451611",
+          "name": "Tourist Information Officer"
+        },
+        {
+          "code": "451612",
+          "name": "Travel Consultant"
+        },
+        {
+          "code": "451711",
+          "name": "Flight Attendant"
+        },
+        {
+          "code": "451799",
+          "name": "Travel Attendants nec"
+        },
+        {
+          "code": "451811",
+          "name": "Civil Celebrant"
+        },
+        {
+          "code": "451812",
+          "name": "Hair or Beauty Salon Assistant"
+        },
+        {
+          "code": "451813",
+          "name": "Sex Worker or Escort"
+        },
+        {
+          "code": "451814",
+          "name": "Body Artist"
+        },
+        {
+          "code": "451815",
+          "name": "First Aid Trainer"
+        },
+        {
+          "code": "451816",
+          "name": "Religious Assistant"
+        },
+        {
+          "code": "451899",
+          "name": "Personal Service Workers nec"
+        },
+        {
+          "code": "452111",
+          "name": "Fitness Instructor"
+        },
+        {
+          "code": "452211",
+          "name": "Bungy Jump Master"
+        },
+        {
+          "code": "452212",
+          "name": "Fishing Guide"
+        },
+        {
+          "code": "452213",
+          "name": "Hunting Guide"
+        },
+        {
+          "code": "452214",
+          "name": "Mountain or Glacier Guide"
+        },
+        {
+          "code": "452215",
+          "name": "Outdoor Adventure Instructor"
+        },
+        {
+          "code": "452216",
+          "name": "Trekking Guide"
+        },
+        {
+          "code": "452217",
+          "name": "Whitewater Rafting Guide"
+        },
+        {
+          "code": "452299",
+          "name": "Outdoor Adventure Guides nec"
+        },
+        {
+          "code": "452311",
+          "name": "Diving Instructor (Open Water)"
+        },
+        {
+          "code": "452312",
+          "name": "Gymnastics Coach or Instructor"
+        },
+        {
+          "code": "452313",
+          "name": "Horse Riding Coach or Instructor"
+        },
+        {
+          "code": "452314",
+          "name": "Snowsport Instructor"
+        },
+        {
+          "code": "452315",
+          "name": "Swimming Coach or Instructor"
+        },
+        {
+          "code": "452316",
+          "name": "Tennis Coach"
+        },
+        {
+          "code": "452317",
+          "name": "Other Sports Coach or Instructor"
+        },
+        {
+          "code": "452318",
+          "name": "Dog and Horse Racing Official"
+        },
+        {
+          "code": "452321",
+          "name": "Sports Development Officer"
+        },
+        {
+          "code": "452322",
+          "name": "Sports Umpire"
+        },
+        {
+          "code": "452323",
+          "name": "Other Sports Official"
+        },
+        {
+          "code": "452411",
+          "name": "Footballer"
+        },
+        {
+          "code": "452412",
+          "name": "Golfer"
+        },
+        {
+          "code": "452413",
+          "name": "Jockey"
+        },
+        {
+          "code": "452414",
+          "name": "Lifeguard"
+        },
+        {
+          "code": "452499",
+          "name": "Sportspersons nec"
+        }
+      ],
+      "examples": [
+        {
+          "code": "452111",
+          "name": "Fitness Instructor",
+          "nameZh": "健身教练",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "452312",
+          "name": "Gymnastics Coach or Instructor",
+          "nameZh": "体操教练",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "451612",
+          "name": "Travel Consultant",
+          "nameZh": "旅游顾问",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    },
+    {
+      "code": "51",
+      "name": "Office Managers and Program Administrators",
+      "nameZh": "办公室经理与项目行政人员",
+      "minorGroups": [
+        {
+          "code": "511",
+          "name": "Contract, Program and Project Administrators"
+        },
+        {
+          "code": "512",
+          "name": "Office and Practice Managers"
+        }
+      ],
+      "unitGroups": [
+        {
+          "code": "5111",
+          "name": "Contract, Program and Project Administrators"
+        },
+        {
+          "code": "5121",
+          "name": "Office Managers"
+        },
+        {
+          "code": "5122",
+          "name": "Practice Managers"
+        }
+      ],
+      "occupations": [
+        {
+          "code": "511111",
+          "name": "Contract Administrator"
+        },
+        {
+          "code": "511112",
+          "name": "Program or Project Administrator"
+        },
+        {
+          "code": "512111",
+          "name": "Office Manager"
+        },
+        {
+          "code": "512211",
+          "name": "Health Practice Manager"
+        },
+        {
+          "code": "512299",
+          "name": "Practice Managers nec"
+        }
+      ],
+      "examples": [
+        {
+          "code": "511111",
+          "name": "Contract Administrator",
+          "nameZh": "合同管理员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "511112",
+          "name": "Program or Project Administrator",
+          "nameZh": "项目行政人员",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        },
+        {
+          "code": "512111",
+          "name": "Office Manager",
+          "nameZh": "办公室经理",
+          "knownInvitedThisRound": null,
+          "invitationCount190": null,
+          "invitationCount491": null,
+          "points": null,
+          "status": "classification_example_only"
+        }
+      ]
+    }
+  ]
+}
