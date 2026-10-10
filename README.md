@@ -64,7 +64,7 @@ npm run build
 
 `verify:local` 会创建全新临时数据库、应用迁移、加载已核对样本、启动只读 API、运行错误和隔离检查、导出快照，最后关闭服务。不会连接默认的本机业务数据库。`ATLAS_DOTNET` 可指定 dotnet 可执行文件路径。
 
-验证记录在 `artifacts/verification.json`。前端生成类型由后端 OpenAPI 导出。CI 文件是可用模板，本次没有连接仓库或执行远程 CI。
+本地验证记录在 `artifacts/verification.json`。前端生成类型由后端 OpenAPI 导出。公开仓库包含 GitHub Actions 校验流程，远程执行结果以仓库 Actions 页为准。
 
 ## 项目入口
 
