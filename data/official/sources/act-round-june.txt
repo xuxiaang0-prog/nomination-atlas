@@ -1,0 +1,127 @@
+Canberra Matrix – Invitation Round - Migration (https://www.act.gov.au/migration/resources/canberra-matrix-invitation-round)
+【turn2view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.act.gov.au/migration/resources/canberra-matrix-invitation-round","lineno":null}); Total lines: 124
+L0: 【0†Skip to content】
+L1: 
+L2: 【1†Migration】
+L3: 
+L4:   * 【2†About us】
+L5:   * 【3†Contact us】
+L6:   * [Input: Search]
+L7: 
+L8: 【1†Migration】
+L9:   * 【4†Skilled migrants】
+L10:     * 【5†ACT Government nomination】
+L11:     * 【6†ACT Migration Application Portal】
+L12:     * 【7†ACT Nominated Migration Program Occupation List】
+L13:     * 【8†190 nomination criteria】
+L14:     * 【9†491 nomination criteria】
+L15:     * 【10†Canberra Matrix】
+L16:     * 【11†Key documents checklist】
+L17:     * 【12†COVID-19 impact on ACT Nomination】
+L18:     * 【13†After your Visa is granted】
+L19:     * 【14†National Innovation Visa (subclass 858)】
+L20:   * 【15†Employers】
+L21:     * 【16†Information for employers】
+L22:     * 【17†Settle and retain overseas workers】
+L23:   * 【18†Business】
+L24:     * 【19†188 eligibility criteria】
+L25:     * 【20†888 eligibility criteria】
+L26:     * 【21†After your visa is granted】
+L27:     * 【22†Applying for ACT nomination】
+L28:     * 【23†Business migration (investment)】
+L29:   * 【24†Resources】
+L30:     * 【25†Attachments】
+L31:     * 【26†Canberra Matrix – Invitation Round】
+L32:     * 【27†Education for dependants】
+L33:     * 【28†Glossary】
+L34:     * 【29†Key documents checklist】
+L35:     * 【30†Library - guidelines and invitations】
+L36:     * 【31†ACT Migration - Application Fees】
+L37: ## Tentative Invitation Round Schedule 2026-27
+L38: 
+L39:   * Week starting 12 October 2026 (Subclass 190 only)
+L40:   * Week starting 25 January 2027
+L41:   * Week starting 22 March 2027
+L42:   * Week starting 24 May 2027
+L43: 
+L44: Please note that invitation round dates are tentative and subject to change without notice, depending on final allocation of nomination places and operational requirements. Any changes will be published on this website.
+L45: ## Canberra Matrix Invitation Round: 11 June 2026
+L46: 
+L47: The ACT has a fixed number of nomination places available each month (pro-rata against the annual allocation). The highest ranked Matrix in each occupation were invited to apply for ACT nomination. The cut‑off for selection depended on the remaining monthly allocation, the date and time of Matrix submission, occupation cap and demand. The greater the demand for an occupation, the higher the rank of the Matrix score invited.
+L48: The minimum ranking score is an indication only and not a guarantee that an invitation was issued. Invitations will not be issued if you have an active application in the system; or if you have previously received ACT nomination.
+L49: 
+L50: Canberra Matrix submissions in occupations in critical sectors may be prioritised.
+L51: ### Requests for ranking information
+L52: 
+L53: Invitations are not guaranteed. We will not respond to requests for information on ranking or the likelihood of receiving an invitation. Matrix will not be prioritised or issued invitations based on personal circumstances. This includes, but is not limited to, visa expiry dates or a change in circumstances including critical birthdays.
+L54: 
+L55: #### Matrix nominating Doctorate Streamlined Pathway
+L56: 
+L57:   * 190 nominations: 8 invitations
+L58:   * 491 nominations: 5 invitations
+L59: ### Canberra residents
+L60: 
+L61: #### Matrix nominating Small Business Owners
+L62: 
+L63:   * 190 nominations: 3 invitations
+L64:   * 190 minimum matrix score: 110
+L65:   * 491 nominations: 0 invitation
+L66:   * 491 minimum matrix score: -
+L67: 
+L68: #### Matrix nominating Critical Skill Occupations
+L69: 
+L70:   * 190 nominations: 66 invitations
+L71:   * 491 nominations: 0 invitation
+L72: 
+L73: ### Overseas applicants
+L74: #### Matrix nominating Critical Skill Occupations:
+L75: 
+L76:   * 190 nominations: 0 invitation
+L77:   * 491 nominations: 0 invitation
+L78: 
+L79: 【32†Download a copy of the Matrix invitation ranking】
+L80: 
+L81: * * *
+L82: 
+L83: ## 2025-2026 Allocation of ACT Nomination Places:
+L84: 
+L85: Skilled Nominated (subclass 190) visa: 800 places
+L86: 
+L87: Skilled Work Regional (subclass 491) visa: 800 places
+L88: 
+L89: The allocation for the 2026-27 financial year has not yet been announced. The website will be updated when this information becomes available.
+L90: ### Application Count @ 30 June 2026
+L91: 
+L92: #### Total approvals: 1600 approvals
+L93: 
+L94:   * 190 Nominations: 800 approvals
+L95:   * 491 Nominations: 800 approvals
+L96: 
+L97: #### Total refusals: 229 applications
+L98: 
+L99:   * 190 Nominations: 111 refusals (12.2%)
+L100:   * 491 Nominations: 128 refusals (13.8%)
+L101: 
+L102: #### Approvals by residency status since the last invitation round
+L103: 
+L104:   * ACT Resident: 1417 approvals (89%)
+L105:   * Overseas Resident: 183 approvals (11%)
+L106: #### Remaining Allocation 2025-2026
+L107: 
+L108: Total allocation remaining: 0 nomination places
+L109: 
+L110:   * 190 Nominations: 0
+L111:   * 491 Nominations: 0
+L112: #### 【33†Acknowledgement of Country†www.communityservices.act.gov.au】
+L113: 
+L114: We acknowledge the Ngunnawal people as traditional custodians of the ACT and recognise any other people or families with connection to the lands of the ACT and region. We acknowledge and respect their continuing culture and the contribution they make to the life of this city and this region.
+L115:   * 【34†Feedback†www.accesscanberra.act.gov.au】
+L116:   * 【3†Contact us】
+L117:   * 【35†Jobs†www.jobs.act.gov.au】
+L118:   * 【36†Emergency Services†www.esa.act.gov.au】
+L119: 
+L120:   * 【37†Accessibility】
+L121:   * 【38†Privacy†www.cmtedd.act.gov.au】
+L122:   * 【39†Disclaimer】
+L123:   * 【40†Copyright】
+

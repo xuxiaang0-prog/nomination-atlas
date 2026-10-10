@@ -1,0 +1,1202 @@
+L0: ACT INVITATION ROUND 11 June 2026
+L1: Minimum Matrix score ranked
+L2: Please note: N/A = Matrix submissions were not considered.
+L3: ANZSCO
+L4: Unit
+L5: group
+L6: UNIT GROUP TITLE
+L7: Canberra
+L8: resident
+L9: 491
+L10: Canberra
+L11: resident
+L12: 190
+L13: Overseas
+L14: applicant
+L15: 491
+L16: Overseas
+L17: applicant
+L18: 190
+L19: 1331 Construction Managers N/A 100 N/A N/A
+L20: 1332 Engineering Managers N/A 85 N/A N/A
+L21: 1336 Supply, Distribution and
+L22: Procurement Managers N/A N/A N/A N/A
+L23: 1341 Child Care Centre Managers N/A 65 N/A N/A
+L24: 1342 Health and Welfare Services
+L25: Managers N/A N/A N/A N/A
+L26: 1351 ICT Managers N/A N/A N/A N/A
+L27: 1399 Other Specialist Managers N/A N/A N/A N/A
+L28: 1411 Cafe and Restaurant Managers N/A 130 N/A N/A
+L29: 1413 Hotel and Motel Managers N/A 105 N/A N/A
+L30: 2211 Accountants N/A N/A N/A N/A
+L31: 2212 Auditors, Company Secretaries and
+L32: Corporate Treasurers N/A N/A N/A N/A
+L33: 2242 Archivists, Curators and Records
+L34: Managers N/A N/A N/A N/A
+L35: 2321 Architects and Landscape
+L36: Architects N/A N/A N/A N/A
+L37: 2322 Surveyors and Spatial Scientists N/A 90 N/A N/A
+L38: 2326 Urban and Regional Planners N/A 90 N/A N/A
+L39: 2332 Civil Engineering Professionals N/A 110 N/A N/A
+L40: 2333 Electrical Engineers N/A 105 N/A N/A
+L41: 2334 Electronics Engineers N/A 115 N/A N/A
+L42: 2335 Industrial, Mechanical and
+L43: Production Engineers N/A 105 N/A N/A
+L44: 2339 Other Engineering Professionals N/A N/A N/A N/A
+L45: 2343 Environmental Scientists N/A 90 N/A N/A
+L46: 2345 Life Scientists N/A 90 N/A N/A
+L47: 2346 Medical Laboratory Scientists N/A 65 N/A N/A
+L48: 2347 Veterinarians N/A N/A N/A N/A
+L49: 2349 Other Natural and Physical Science
+L50: Professionals N/A 85 N/A N/A
+L51: 2411 Early Childhood (Pre-primary
+L52: School) Teachers N/A 125 (4/5/2026) N/A N/A
+L53: 2412 Primary School Teachers N/A 65 N/A N/A
+L54: 2413 Middle School Teachers /
+L55: Intermediate School Teachers N/A 65 N/A N/A2414 Secondary School Teachers N/A 70 N/A N/A
+L56: 2415 Special Education Teachers N/A 65 N/A N/A
+L57: 2422 Vocational Education Teachers /
+L58: Polytechnic Teachers N/A N/A N/A N/A
+L59: 2511 Nutrition Professionals N/A 65 N/A N/A
+L60: 2512 Medical Imaging Professionals N/A 65 N/A N/A
+L61: 2513 Occupational and Environmental
+L62: Health Professionals N/A 65 N/A N/A
+L63: 2514 Optometrists and Orthoptists N/A 65 N/A N/A
+L64: 2515 Pharmacists N/A 85 N/A N/A
+L65: 2519 Other Health Diagnostic and
+L66: Promotion Professionals N/A 75 N/A N/A
+L67: 2521 Chiropractors and Osteopaths N/A 65 N/A N/A
+L68: 2522 Complementary Health Therapists N/A 65 N/A N/A
+L69: 2523 Dental Practitioners N/A 65 N/A N/A
+L70: 2524 Occupational Therapists N/A 65 N/A N/A
+L71: 2525 Physiotherapists N/A 65 N/A N/A
+L72: 2526 Podiatrists N/A 65 N/A N/A
+L73: 2527 Audiologists and Speech
+L74: Pathologists / Therapists N/A 65 N/A N/A
+L75: 2531 General Practitioners and Resident
+L76: Medical Officers N/A 65 N/A N/A
+L77: 2532 Anaesthetists N/A 65 N/A N/A
+L78: 2533 Specialist Physicians N/A 65 N/A N/A
+L79: 2534 Psychiatrists N/A 65 N/A N/A
+L80: 2535 Surgeons N/A 65 N/A N/A
+L81: 2539 Other Medical Practitioners N/A 65 N/A N/A
+L82: 2541 Midwives N/A 65 N/A N/A
+L83: 2542 Nurse Educators and Researchers N/A 65 N/A N/A
+L84: 2543 Nurse Managers N/A 65 N/A N/A
+L85: 2544 Registered Nurses N/A 105
+L86: (2/3/2026) N/A N/A
+L87: 2611 ICT Business and Systems
+L88: Analysts N/A N/A N/A N/A
+L89: 2613 Software and Applications
+L90: Programmers N/A 130 N/A N/A
+L91: 2621
+L92: Database and Systems
+L93: Administrators, and ICT Security
+L94: Specialists
+L95: N/A 130 N/A N/A
+L96: 2631 Computer Network Professionals N/A N/A N/A N/A
+L97: 2632 ICT Support and Test Engineers N/A 130 N/A N/A
+L98: 2633 Telecommunications Engineering
+L99: Professionals N/A N/A N/A N/A
+L100: 2713 Solicitors N/A N/A N/A N/A
+L101: 2721 Counsellors N/A 65 N/A N/A
+L102: 2723 Psychologists N/A 65 N/A N/A
+L103: 2725 Social Workers N/A 65 N/A N/A2726 Welfare, Recreation and
+L104: Community Arts Workers N/A 105 N/A N/A
+L105: 3112 Medical Technicians N/A 80 N/A N/A
+L106: 3114 Science Technicians N/A 90 N/A N/A
+L107: 3121 Architectural, Building and
+L108: Surveying Technicians N/A 90 N/A N/A
+L109: 3122 Civil Engineering Draftspersons and
+L110: Technicians N/A 120 N/A N/A
+L111: 3123 Electrical Engineering
+L112: Draftspersons and Technicians N/A 90 N/A N/A
+L113: 3125 Mechanical Engineering
+L114: Draftspersons and Technicians N/A 90 N/A N/A
+L115: 3129 Other Building and Engineering
+L116: Technicians N/A 90 N/A N/A
+L117: 3131 ICT Support Technicians N/A N/A N/A N/A
+L118: 3132 Telecommunications Technical
+L119: Specialists N/A N/A N/A N/A
+L120: 3211 Automotive Electricians N/A 90 N/A N/A
+L121: 3212 Motor Mechanics N/A 110 N/A N/A
+L122: 3231 Aircraft Maintenance Engineers N/A 90 N/A N/A
+L123: 3232 Metal Fitters and Machinists N/A N/A N/A N/A
+L124: 3233 Precision Metal Trades Workers N/A 90 N/A N/A
+L125: 3241 Panelbeaters N/A 90 N/A N/A
+L126: 3242 Vehicle Body Builders and
+L127: Trimmers N/A 90 N/A N/A
+L128: 3243 Vehicle Painters N/A 90 N/A N/A
+L129: 3311 Bricklayers and Stonemasons N/A 90 N/A N/A
+L130: 3312 Carpenters and Joiners N/A 100 N/A N/A
+L131: 3321 Floor Finishers N/A 90 N/A N/A
+L132: 3322 Painting Trades Workers N/A 100 N/A N/A
+L133: 3331 Glaziers N/A 90 N/A N/A
+L134: 3332 Plasterers N/A 90 N/A N/A
+L135: 3333 Roof Tilers N/A 90 N/A N/A
+L136: 3334 Wall and Floor Tilers N/A 90 N/A N/A
+L137: 3341 Plumbers N/A 90 N/A N/A
+L138: 3411 Electricians N/A 90 N/A N/A
+L139: 3421 Airconditioning and Refrigeration
+L140: Mechanics N/A 90 N/A N/A
+L141: 3422 Electrical Distribution Trades
+L142: Workers N/A 90 N/A N/A
+L143: 3424 Telecommunications Trades
+L144: Workers N/A N/A N/A N/A
+L145: 3512 Butchers and Smallgoods Makers N/A N/A N/A N/A
+L146: 3513 Chefs N/A 125 N/A N/A
+L147: 3514 Cook N/A 125 N/A N/A
+L148: 3613 Veterinary Nurses N/A N/A N/A N/A
+L149: 4111 Ambulance Officers and
+L150: Paramedics N/A 65 N/A N/A4112 Dental Hygienists, Technicians and
+L151: Therapists N/A 65 N/A N/A
+L152: 4113 Diversional Therapist N/A 110 N/A N/A
+L153: 4114 Enrolled and Mothercraft Nurses N/A 90 N/A N/A
+L154: 4117 Welfare Support Workers N/A 80 N/A N/A
+L155: 5111 Contract, Program and Project
+L156: Administrators N/A N/A N/A N/A
+L157: ACT INVITATION ROUND 6 May 2026
+L158: Minimum Matrix score ranked
+L159: ANZSCO
+L160: Unit
+L161: group
+L162: UNIT GROUP TITLE
+L163: Canberra
+L164: resident
+L165: 491
+L166: Canberra
+L167: resident
+L168: 190
+L169: Overseas
+L170: applicant
+L171: 491
+L172: Overseas
+L173: applicant
+L174: 190
+L175: 1331 Construction Managers 90 95 90 95
+L176: 1332 Engineering Managers 80 85 85 90
+L177: 1336 Supply, Distribution and
+L178: Procurement Managers 90 95 90 95
+L179: 1341 Child Care Centre Managers 60 65 65 80
+L180: 1342 Health and Welfare Services
+L181: Managers 60 N/A 85 N/A
+L182: 1351 ICT Managers 120 125 90 90
+L183: 1399 Other Specialist Managers 90 110 90 100
+L184: 1411 Cafe and Restaurant Managers 120
+L185: (30/3/2026) 125 90 90
+L186: 1413 Hotel and Motel Managers 105 105 85 90
+L187: 2211 Accountants 130 135 100 115
+L188: 2212 Auditors, Company Secretaries
+L189: and Corporate Treasurers 125 130 100 120
+L190: 2242 Archivists, Curators and Records
+L191: Managers 85 90 85 90
+L192: 2321 Architects and Landscape
+L193: Architects 85 90 85 90
+L194: 2322 Surveyors and Spatial Scientists 80 90 80 80
+L195: 2326 Urban and Regional Planners 80 90 80 90
+L196: 2332 Civil Engineering Professionals 110 110 90 90
+L197: 2333 Electrical Engineers 95 95 90 90
+L198: 2334 Electronics Engineers 110 115 90 90
+L199: 2335 Industrial, Mechanical and
+L200: Production Engineers 95 100 95 95
+L201: 2339 Other Engineering Professionals 115 120 95 95
+L202: 2343 Environmental Scientists 80 85 80 802345 Life Scientists 80 90 85 85
+L203: 2346 Medical Laboratory Scientists 60 65 75 85
+L204: 2347 Veterinarians 90 95 90 95
+L205: 2349 Other Natural and Physical
+L206: Science Professionals 80 85 75 80
+L207: 2411 Early Childhood (Pre-primary
+L208: School) Teachers
+L209: 115
+L210: (2/4/2026)
+L211: 125
+L212: (13/3/2026) 75 80
+L213: 2412 Primary School Teachers 60 70 70 80
+L214: 2413 Middle School Teachers /
+L215: Intermediate School Teachers 60 65 60 80
+L216: 2414 Secondary School Teachers 60 75 85 85
+L217: 2415 Special Education Teachers 60 65 65 70
+L218: 2422 Vocational Education Teachers /
+L219: Polytechnic Teachers 80 N/A 80 N/A
+L220: 2511 Nutrition Professionals 65 65 75 80
+L221: 2512 Medical Imaging Professionals 60 65 65 70
+L222: 2513 Occupational and Environmental
+L223: Health Professionals 60 65 70 80
+L224: 2514 Optometrists and Orthoptists 60 65 65 70
+L225: 2515 Pharmacists 75 85 90 95
+L226: 2519 Other Health Diagnostic and
+L227: Promotion Professionals 65 75 75 75
+L228: 2521 Chiropractors and Osteopaths 60 65 65 70
+L229: 2522 Complementary Health
+L230: Therapists 60 65 65 70
+L231: 2523 Dental Practitioners 60 65 65 70
+L232: 2524 Occupational Therapists 60 65 65 70
+L233: 2525 Physiotherapists 60 90 65 70
+L234: 2526 Podiatrists 60 65 65 70
+L235: 2527 Audiologists and Speech
+L236: Pathologists / Therapists 60 65 65 70
+L237: 2531 General Practitioners and
+L238: Resident Medical Officers 60 65 60 70
+L239: 2532 Anaesthetists 60 65 65 70
+L240: 2533 Specialist Physicians 60 65 65 70
+L241: 2534 Psychiatrists 60 65 60 70
+L242: 2535 Surgeons 60 65 65 70
+L243: 2539 Other Medical Practitioners 60 65 65 70
+L244: 2541 Midwives 60 65 65 70
+L245: 2542 Nurse Educators and
+L246: Researchers 60 65 65 70
+L247: 2543 Nurse Managers 60 65 65 70
+L248: 2544 Registered Nurses 100 105
+L249: (27/1/2026) 80 90
+L250: 2611 ICT Business and Systems
+L251: Analysts
+L252: 120
+L253: (9/3/2026) 130 95 1002613 Software and Applications
+L254: Programmers 125 130 100 105
+L255: 2621
+L256: Database and Systems
+L257: Administrators, and ICT Security
+L258: Specialists
+L259: 120
+L260: (16/3/2026) 125 90 90
+L261: 2631 Computer Network Professionals 120 125 95 90
+L262: 2632 ICT Support and Test Engineers 120
+L263: (16/3/2026) 125 95 95
+L264: 2633 Telecommunications Engineering
+L265: Professionals
+L266: 100
+L267: (14/1/2026) 105 100 90
+L268: 2713 Solicitors 100 115 90 90
+L269: 2721 Counsellors 70 75 70 75
+L270: 2723 Psychologists 60 65 60 70
+L271: 2725 Social Workers 60 65 65 70
+L272: 2726 Welfare, Recreation and
+L273: Community Arts Workers 80 85 85 85
+L274: 3112 Medical Technicians 75 80 90 90
+L275: 3114 Science Technicians 80 90 80 90
+L276: 3121 Architectural, Building and
+L277: Surveying Technicians 100 100 90 90
+L278: 3122 Civil Engineering Draftspersons
+L279: and Technicians 110 110 85 90
+L280: 3123 Electrical Engineering
+L281: Draftspersons and Technicians 80 90 75 80
+L282: 3125 Mechanical Engineering
+L283: Draftspersons and Technicians 80 90 80 90
+L284: 3129 Other Building and Engineering
+L285: Technicians 100 90 90 90
+L286: 3131 ICT Support Technicians 120 125 90 90
+L287: 3132 Telecommunications Technical
+L288: Specialists 90 95 90 95
+L289: 3211 Automotive Electricians 80 90 80 90
+L290: 3212 Motor Mechanics 105 110 90 90
+L291: 3231 Aircraft Maintenance Engineers 80 90 80 90
+L292: 3232 Metal Fitters and Machinists 90 95 90 95
+L293: 3233 Precision Metal Trades Workers 80 90 80 90
+L294: 3241 Panelbeaters 80 85 80 85
+L295: 3242 Vehicle Body Builders and
+L296: Trimmers 80 90 80 90
+L297: 3243 Vehicle Painters 80 90 80 90
+L298: 3311 Bricklayers and Stonemasons 80 90 80 90
+L299: 3312 Carpenters and Joiners 95 100 80 90
+L300: 3321 Floor Finishers 80 90 80 90
+L301: 3322 Painting Trades Workers 90 95 80 90
+L302: 3331 Glaziers 80 90 80 90
+L303: 3332 Plasterers 80 90 80 90
+L304: 3333 Roof Tilers 80 90 80 90
+L305: 3334 Wall and Floor Tilers 80 90 80 903341 Plumbers 80 90 80 90
+L306: 3411 Electricians 80 90 80 90
+L307: 3421 Airconditioning and Refrigeration
+L308: Mechanics 80 90 80 90
+L309: 3422 Electrical Distribution Trades
+L310: Workers 80 90 80 85
+L311: 3424 Telecommunications Trades
+L312: Workers 90 95 90 95
+L313: 3512 Butchers and Smallgoods
+L314: Makers 90 95 90 95
+L315: 3513 Chefs 125 130 85 95
+L316: 3514 Cook 125 125 80 100
+L317: 3613 Veterinary Nurses 90 95 90 95
+L318: 4111 Ambulance Officers and
+L319: Paramedics 60 65 85 90
+L320: 4112 Dental Hygienists, Technicians
+L321: and Therapists 60 65 65 65
+L322: 4113 Diversional Therapist 110 110 85 90
+L323: 4114 Enrolled and Mothercraft Nurses 100 100 75 80
+L324: 4117 Welfare Support Workers 90 90 65 80
+L325: 5111 Contract, Program and Project
+L326: Administrators 125 130 95 95
+L327: ACT INVITATION ROUND 12 March 2026
+L328: Minimum Matrix score ranked
+L329: ANZSCO
+L330: Unit
+L331: group
+L332: UNIT GROUP TITLE
+L333: Canberra
+L334: resident
+L335: 491
+L336: Canberra
+L337: resident
+L338: 190
+L339: Overseas
+L340: applicant
+L341: 491
+L342: Overseas
+L343: applicant
+L344: 190
+L345: 1331 Construction Managers 80 90 85 90
+L346: 1332 Engineering Managers 80 90 85 90
+L347: 1336 Supply, Distribution and
+L348: Procurement Managers 85 95 90 100
+L349: 1341 Child Care Centre Managers 60 65 65 75
+L350: 1342 Health and Welfare Services
+L351: Managers 60 N/A 75 N/A
+L352: 1351 ICT Managers 120 125 90 100
+L353: 1399 Other Specialist Managers 85 95 90 100
+L354: 1411 Cafe and Restaurant
+L355: Managers 120 125 85 90
+L356: 1413 Hotel and Motel Managers 100 105 80 90
+L357: 2211 Accountants 125
+L358: (7/10/2025) 135 100 1202212
+L359: Auditors, Company
+L360: Secretaries and Corporate
+L361: Treasurers
+L362: 120 130 100 120
+L363: 2242 Archivists, Curators and
+L364: Records Managers 85 90 85 90
+L365: 2321 Architects and Landscape
+L366: Architects 85 90 85 95
+L367: 2322 Surveyors and Spatial
+L368: Scientists 80 90 80 90
+L369: 2326 Urban and Regional Planners 80 90 80 90
+L370: 2332 Civil Engineering
+L371: Professionals 110 120 85 90
+L372: 2333 Electrical Engineers 85
+L373: (8/12/2025) 90 85 90
+L374: 2334 Electronics Engineers 105 110 85 95
+L375: 2335 Industrial, Mechanical and
+L376: Production Engineers 95 105 90 100
+L377: 2339 Other Engineering
+L378: Professionals 110 120 95 100
+L379: 2343 Environmental Scientists 80 90 80 90
+L380: 2345 Life Scientists 80 90 80
+L381: (1/10/2025) 90
+L382: 2346 Medical Laboratory Scientists 60 65 75 85
+L383: 2347 Veterinarians 90 95 90 95
+L384: 2349 Other Natural and Physical
+L385: Science Professionals 80 85 80 90
+L386: 2411 Early Childhood (Pre-primary
+L387: School) Teachers
+L388: 105
+L389: (8/1/2026)
+L390: 120
+L391: (13/2/2026) 75 80
+L392: 2412 Primary School Teachers 60 65 60 80
+L393: 2413 Middle School Teachers /
+L394: Intermediate School Teachers 60 65 60 80
+L395: 2414 Secondary School Teachers 60 65 80 90
+L396: 2415 Special Education Teachers 60 65 65 70
+L397: 2422
+L398: Vocational Education
+L399: Teachers / Polytechnic
+L400: Teachers
+L401: 80 N/A 80 N/A
+L402: 2511 Nutrition Professionals 60 N/A 65 N/A
+L403: 2512 Medical Imaging Professionals 60 65 65 70
+L404: 2513
+L405: Occupational and
+L406: Environmental Health
+L407: Professionals
+L408: 60 65 65 80
+L409: 2514 Optometrists and Orthoptists 60 65 65 70
+L410: 2515 Pharmacists 75 85 90 95
+L411: 2519 Other Health Diagnostic and
+L412: Promotion Professionals 60 65 65 75
+L413: 2521 Chiropractors and Osteopaths 60 65 65 70
+L414: 2522 Complementary Health
+L415: Therapists 60 65 60 70
+L416: 2523 Dental Practitioners 60 65 65 70
+L417: 2524 Occupational Therapists 60 65 65 70
+L418: 2525 Physiotherapists 60 65 65 702526 Podiatrists 60 65 65 70
+L419: 2527 Audiologists and Speech
+L420: Pathologists / Therapists 60 65 65 70
+L421: 2531 General Practitioners and
+L422: Resident Medical Officers 60 65 60 65
+L423: 2532 Anaesthetists 60 65 65 70
+L424: 2533 Specialist Physicians 60 65 65 70
+L425: 2534 Psychiatrists 60 65 65 70
+L426: 2535 Surgeons 60 65 65 70
+L427: 2539 Other Medical Practitioners 60 65 65 70
+L428: 2541 Midwives 60 65 65 70
+L429: 2542 Nurse Educators and
+L430: Researchers 60 65 65 70
+L431: 2543 Nurse Managers 60 65 60 70
+L432: 2544 Registered Nurses 70
+L433: (15/9/2025)
+L434: 105
+L435: (16/12/2025) 70 80
+L436: 2611 ICT Business and Systems
+L437: Analysts
+L438: 120
+L439: (20/2/2026) 130 90 100
+L440: 2613 Software and Applications
+L441: Programmers 120 125(10/12/2025) 100 110
+L442: 2621
+L443: Database and Systems
+L444: Administrators, and ICT
+L445: Security Specialists
+L446: 115
+L447: (9/2/2026) 125 90 95
+L448: 2631 Computer Network
+L449: Professionals
+L450: 115
+L451: (9/2/2026) 120 90 100
+L452: 2632 ICT Support and Test
+L453: Engineers
+L454: 115
+L455: (13/2/2026)
+L456: 120
+L457: (7/1/2026) 95 100
+L458: 2633 Telecommunications
+L459: Engineering Professionals
+L460: 100
+L461: (5/2/2026) N/A 100 N/A
+L462: 2713 Solicitors 100
+L463: (15/1/2026) 115 90 110
+L464: 2721 Counsellors 60 65 60 65
+L465: 2723 Psychologists 60 65 60 65
+L466: 2725 Social Workers 60 65 65 70
+L467: 2726 Welfare, Recreation and
+L468: Community Arts Workers 80 90 80 95
+L469: 3112 Medical Technicians 60 65 85
+L470: (20/2/2026) 90
+L471: 3114 Science Technicians 80 90 80 95
+L472: 3121 Architectural, Building and
+L473: Surveying Technicians 95 100 90 95
+L474: 3122
+L475: Civil Engineering
+L476: Draftspersons and
+L477: Technicians
+L478: 100 110 85 95
+L479: 3123
+L480: Electrical Engineering
+L481: Draftspersons and
+L482: Technicians
+L483: 80 90 80 953125
+L484: Mechanical Engineering
+L485: Draftspersons and
+L486: Technicians
+L487: 80 90 80 90
+L488: 3129 Other Building and
+L489: Engineering Technicians 80 90 85 95
+L490: 3131 ICT Support Technicians 115 120 110 120
+L491: 3132 Telecommunications
+L492: Technical Specialists 90 95 90 95
+L493: 3211 Automotive Electricians 80 90 80 90
+L494: 3212 Motor Mechanics 105 110 85 90
+L495: 3231 Aircraft Maintenance
+L496: Engineers 80 N/A 80 N/A
+L497: 3232 Metal Fitters and Machinists 90 95 90 95
+L498: 3233 Precision Metal Trades
+L499: Workers 80 90 80 90
+L500: 3241 Panelbeaters 80 90 80 90
+L501: 3242 Vehicle Body Builders and
+L502: Trimmers 80 90 80 90
+L503: 3243 Vehicle Painters 80 90 80 90
+L504: 3311 Bricklayers and Stonemasons 80 90 80 90
+L505: 3312 Carpenters and Joiners 80 90 80 90
+L506: 3321 Floor Finishers 80 90 80 90
+L507: 3322 Painting Trades Workers 80 90 80 90
+L508: 3331 Glaziers 80 90 80 90
+L509: 3332 Plasterers 80 90 80 90
+L510: 3333 Roof Tilers 80 90 80 90
+L511: 3334 Wall and Floor Tilers 80 90 80 90
+L512: 3341 Plumbers 80 90 80 90
+L513: 3411 Electricians 80 90 80 90
+L514: 3421 Airconditioning and
+L515: Refrigeration Mechanics 80 90 80 90
+L516: 3422 Electrical Distribution Trades
+L517: Workers 80 90 80 90
+L518: 3424 Telecommunications Trades
+L519: Workers 90 95 90 95
+L520: 3512 Butchers and Smallgoods
+L521: Makers 90 95 90 90
+L522: 3513 Chefs 120
+L523: (5/1/2026) 125 85 100
+L524: 3514 Cook 120 125 80 100
+L525: 3613 Veterinary Nurses 90 95 90 95
+L526: 4111 Ambulance Officers and
+L527: Paramedics 60 65 75 85
+L528: 4112 Dental Hygienists,
+L529: Technicians and Therapists 60 65 60 65
+L530: 4113 Diversional Therapist 100 105 80 90
+L531: 4114 Enrolled and Mothercraft
+L532: Nurses
+L533: 90
+L534: (20/11/2025) 95 75 804117 Welfare Support Workers 75
+L535: (8/1/2026) 70 60(4/12/2025) 85
+L536: 5111 Contract, Program and Project
+L537: Administrators 120 130 120 130
+L538: ACT INVITATION ROUND 29 January 2026
+L539: Minimum Matrix score ranked
+L540: ANZSCO
+L541: Unit
+L542: group
+L543: UNIT GROUP TITLE
+L544: Canberra
+L545: resident
+L546: 491
+L547: Canberra
+L548: resident
+L549: 190
+L550: Overseas
+L551: applicant
+L552: 491
+L553: Overseas
+L554: applicant
+L555: 190
+L556: 1331 Construction Managers 80 90 85 90
+L557: 1332 Engineering Managers 80 90 85 90
+L558: 1336 Supply, Distribution and
+L559: Procurement Managers 85 95 90 95
+L560: 1341 Child Care Centre Managers 60 60 65 80
+L561: 1342 Health and Welfare Services
+L562: Managers 60 N/A 75 N/A
+L563: 1351 ICT Managers 120 125 120 125
+L564: 1399 Other Specialist Managers 85 95 105 110
+L565: 1411 Cafe and Restaurant Managers 120 125 80 90
+L566: 1413 Hotel and Motel Managers 100 105 80 90
+L567: 2211 Accountants 125
+L568: (19/8/2025) 135 125 135
+L569: 2212 Auditors, Company Secretaries
+L570: and Corporate Treasurers 120 130 120 130
+L571: 2242 Archivists, Curators and Records
+L572: Managers 85 90 85 90
+L573: 2321 Architects and Landscape
+L574: Architects 90 95 90 95
+L575: 2322 Surveyors and Spatial Scientists 80 90 80 90
+L576: 2326 Urban and Regional Planners 80 90 80 90
+L577: 2332 Civil Engineering Professionals 110 120 85 90
+L578: 2333 Electrical Engineers 85
+L579: (29/7/2025) 90 80(4/9/2025) 90
+L580: 2334 Electronics Engineers 105 110 85 95
+L581: 2335 Industrial, Mechanical and
+L582: Production Engineers 95 105 90 100
+L583: 2339 Other Engineering Professionals 110 120 90 95
+L584: 2343 Environmental Scientists 85 90 80 90
+L585: 2345 Life Scientists 80 85 85 90
+L586: 2346 Medical Laboratory Scientists 60 60 80 90
+L587: 2347 Veterinarians 90 95 90 952349 Other Natural and Physical
+L588: Science Professionals 80 85 80 90
+L589: 2411 Early Childhood (Pre-primary
+L590: School) Teachers
+L591: 105
+L592: (3/1/2026)
+L593: 115
+L594: (22/12/2025) 80 90
+L595: 2412 Primary School Teachers 60 60 65 80
+L596: 2413 Middle School Teachers /
+L597: Intermediate School Teachers 60 60 65 80
+L598: 2414 Secondary School Teachers 60 80 80 90
+L599: 2415 Special Education Teachers 60 65 70 80
+L600: 2422 Vocational Education Teachers /
+L601: Polytechnic Teachers 80 85 80 90
+L602: 2511 Nutrition Professionals 60 N/A 70 N/A
+L603: 2512 Medical Imaging Professionals 60 65 65 80
+L604: 2513 Occupational and Environmental
+L605: Health Professionals 60 65 70 80
+L606: 2514 Optometrists and Orthoptists 60 65 65 80
+L607: 2515 Pharmacists 75 85
+L608: (17/12/2025) 90 100
+L609: 2519 Other Health Diagnostic and
+L610: Promotion Professionals 60 65 65 75
+L611: 2521 Chiropractors and Osteopaths 60 65 65 70
+L612: 2522 Complementary Health
+L613: Therapists 60 65 65 70
+L614: 2523 Dental Practitioners 60 65 65 70
+L615: 2524 Occupational Therapists 60 65 65 75
+L616: 2525 Physiotherapists 60 65 65 70
+L617: 2526 Podiatrists 60 65 65 70
+L618: 2527 Audiologists and Speech
+L619: Pathologists / Therapists 60 65 65 70
+L620: 2531 General Practitioners and
+L621: Resident Medical Officers 60 65 65 70
+L622: 2532 Anaesthetists 60 65 65 70
+L623: 2533 Specialist Physicians 60 65 65 70
+L624: 2534 Psychiatrists 60 65 65 70
+L625: 2535 Surgeons 60 65 65 70
+L626: 2539 Other Medical Practitioners 60 65 65 70
+L627: 2541 Midwives 60 65 65 70
+L628: 2542 Nurse Educators and
+L629: Researchers 60 65 65 70
+L630: 2543 Nurse Managers 60 65 65 70
+L631: 2544 Registered Nurses 75
+L632: (1/1/2026)
+L633: 105
+L634: (1/12/2025) 80 90
+L635: 2611 ICT Business and Systems
+L636: Analysts 120 130 90 100
+L637: 2613 Software and Applications
+L638: Programmers 120 125(28/11/2025) 105 1102621
+L639: Database and Systems
+L640: Administrators, and ICT Security
+L641: Specialists
+L642: 115 125 100 105
+L643: 2631 Computer Network Professionals 115
+L644: (13/12/2025) 120 100 120
+L645: 2632 ICT Support and Test Engineers 115
+L646: (11/1/2026)
+L647: 120
+L648: (19/12/2025) 95 105
+L649: 2633 Telecommunications Engineering
+L650: Professionals
+L651: 100
+L652: (17/11/2025) N/A 100 N/A
+L653: 2713 Solicitors 85 115 90 110
+L654: 2721 Counsellors 60 65 65 70
+L655: 2723 Psychologists 60 65 65 70
+L656: 2725 Social Workers 60 65 70 90
+L657: 2726 Welfare, Recreation and
+L658: Community Arts Workers 80 100 85 105
+L659: 3112 Medical Technicians 60 65 85 95
+L660: 3114 Science Technicians 80 90 85 95
+L661: 3121 Architectural, Building and
+L662: Surveying Technicians 80 90 85 95
+L663: 3122 Civil Engineering Draftspersons
+L664: and Technicians 105 115 85 95
+L665: 3123 Electrical Engineering
+L666: Draftspersons and Technicians 80 90 85 95
+L667: 3125 Mechanical Engineering
+L668: Draftspersons and Technicians 80 90 85 90
+L669: 3129 Other Building and Engineering
+L670: Technicians 80 90 85 95
+L671: 3131 ICT Support Technicians 115 120 110 120
+L672: 3132 Telecommunications Technical
+L673: Specialists 90 95 90 95
+L674: 3211 Automotive Electricians 80 90 85 90
+L675: 3212 Motor Mechanics 105 110 85 95
+L676: 3231 Aircraft Maintenance Engineers 80 N/A 80 N/A
+L677: 3232 Metal Fitters and Machinists 90 95 90 95
+L678: 3233 Precision Metal Trades Workers 80 90 80 90
+L679: 3241 Panelbeaters 80 90 80 90
+L680: 3242 Vehicle Body Builders and
+L681: Trimmers 80 90 80 90
+L682: 3243 Vehicle Painters 80 90 80 90
+L683: 3311 Bricklayers and Stonemasons 80 90 80 90
+L684: 3312 Carpenters and Joiners 80 90 80 90
+L685: 3321 Floor Finishers 80 90 80 90
+L686: 3322 Painting Trades Workers 80 90 80 90
+L687: 3331 Glaziers 80 90 80 90
+L688: 3332 Plasterers 80 90 80 903333 Roof Tilers 80 90 80 90
+L689: 3334 Wall and Floor Tilers 80 90 80 90
+L690: 3341 Plumbers 80 90 80 90
+L691: 3411 Electricians 80 90 80 90
+L692: 3421 Airconditioning and Refrigeration
+L693: Mechanics 80 90 80 90
+L694: 3422 Electrical Distribution Trades
+L695: Workers 80 90 80 90
+L696: 3424 Telecommunications Trades
+L697: Workers 90 95 90 95
+L698: 3512 Butchers and Smallgoods Makers 90 95 90 95
+L699: 3513 Chefs 120
+L700: (6/11/2025) 125 95 100
+L701: 3514 Cook 120
+L702: (5/1/2026) 125 95 100
+L703: 3613 Veterinary Nurses 90 95 90 95
+L704: 4111 Ambulance Officers and
+L705: Paramedics 60 65 75 80
+L706: 4112 Dental Hygienists, Technicians
+L707: and Therapists 60 65 65 70
+L708: 4113 Diversional Therapist 100 105 85 95
+L709: 4114 Enrolled and Mothercraft Nurses 95
+L710: (1/11/2025) 100 80 90
+L711: 4117 Welfare Support Workers 65 75 80 90
+L712: 5111 Contract, Program and Project
+L713: Administrators 120 N/A 120 N/A
+L714: ACT INVITATION ROUND 10 December 2025
+L715: Minimum Matrix score ranked
+L716: ANZSCO
+L717: Unit
+L718: group
+L719: UNIT GROUP TITLE
+L720: Canberra
+L721: resident
+L722: 491
+L723: Canberra
+L724: resident
+L725: 190
+L726: Overseas
+L727: applicant
+L728: 491
+L729: Overseas
+L730: applicant
+L731: 190
+L732: 1331 Construction Managers 85 90 80
+L733: (19/10/2025)
+L734: 85
+L735: (27/08/2025)
+L736: 1332 Engineering Managers 75 80 80
+L737: (28/07/2025) 85
+L738: 1336 Supply, Distribution and
+L739: Procurement Managers 85 95 90 95
+L740: 1341 Child Care Centre Managers 60 60 65 80
+L741: 1342 Health and Welfare Services
+L742: Managers 60 N/A 75 N/A
+L743: 1351 ICT Managers 120 125 120 130
+L744: 1399 Other Specialist Managers 100 110 100 1101411 Cafe and Restaurant
+L745: Managers
+L746: 115
+L747: (20/06/2025)
+L748: 120
+L749: (28/07/2025) 80 85
+L750: 1413 Hotel and Motel Managers 105
+L751: (20/09/2025)
+L752: 95
+L753: (03/07/2025) 80 85
+L754: 2211 Accountants 130 140 130 140
+L755: 2212
+L756: Auditors, Company
+L757: Secretaries and Corporate
+L758: Treasurers
+L759: 120
+L760: (03/09/2025) 130 120 130
+L761: 2242 Archivists, Curators and
+L762: Records Managers 85 90 85 90
+L763: 2321 Architects and Landscape
+L764: Architects
+L765: 90
+L766: (06/08/2025) 95 90 100
+L767: 2322 Surveyors and Spatial
+L768: Scientists 80 90 80 90
+L769: 2326 Urban and Regional Planners 90 90 90 90
+L770: 2332 Civil Engineering
+L771: Professionals
+L772: 105
+L773: (03/09/2025)
+L774: 110
+L775: (24/08/2025)
+L776: 85
+L777: (17/08/2025) 90
+L778: 2333 Electrical Engineers 85
+L779: (30/06/2025) 100 80(07/08/2025) 95
+L780: 2334 Electronics Engineers 105 110 85 95
+L781: 2335 Industrial, Mechanical and
+L782: Production Engineers
+L783: 95
+L784: (05/08/2025)
+L785: 100
+L786: (23/06/2025)
+L787: 85
+L788: (11/10/2025) 100
+L789: 2339 Other Engineering
+L790: Professionals
+L791: 105
+L792: (02/07/2025)
+L793: 110
+L794: (02/07/2025) 90 95
+L795: 2343 Environmental Scientists 85 90 80 85
+L796: 2345 Life Scientists 80 85 85 90
+L797: 2346 Medical Laboratory Scientists 60 60 80 90
+L798: 2347 Veterinarians 80 85 80 85
+L799: 2349 Other Natural and Physical
+L800: Science Professionals 80 85 80 85
+L801: 2411 Early Childhood (Pre-primary
+L802: School) Teachers
+L803: 100
+L804: (15/09/2025)
+L805: 110
+L806: (26/09/2025) 80 80
+L807: 2412 Primary School Teachers 100 70 65 75
+L808: 2413
+L809: Middle School Teachers /
+L810: Intermediate School
+L811: Teachers
+L812: 60 60 70 70
+L813: 2414 Secondary School Teachers 70 95
+L814: (24/11/2025) 80 90
+L815: 2415 Special Education Teachers 60 65 70 80
+L816: 2422
+L817: Vocational Education
+L818: Teachers / Polytechnic
+L819: Teachers
+L820: 80 85 80 90
+L821: 2511 Nutrition Professionals 60 N/A 70 N/A
+L822: 2512 Medical Imaging
+L823: Professionals 60 65 65 70 (04/11/2025)2513
+L824: Occupational and
+L825: Environmental Health
+L826: Professionals
+L827: 60 65 70 80
+L828: 2514 Optometrists and Orthoptists 65 65 65 70
+L829: 2515 Pharmacists 75 85 90 100
+L830: 2519 Other Health Diagnostic and
+L831: Promotion Professionals 60 65 65 75
+L832: 2521 Chiropractors and
+L833: Osteopaths 60 65 65 70
+L834: 2522 Complementary Health
+L835: Therapists 60 65 65 70
+L836: 2523 Dental Practitioners 60 65 65 70
+L837: 2524 Occupational Therapists 60 65 65 70
+L838: 2525 Physiotherapists 60 65 65 70
+L839: 2526 Podiatrists 60 65 65 70
+L840: 2527 Audiologists and Speech
+L841: Pathologists / Therapists 60 65 65 70
+L842: 2531 General Practitioners and
+L843: Resident Medical Officers 60 65 65 70
+L844: 2532 Anaesthetists 60 65 65 70
+L845: 2533 Specialist Physicians 60 65 65 70
+L846: 2534 Psychiatrists 60 65 65 70
+L847: 2535 Surgeons 60 65 65 70
+L848: 2539 Other Medical Practitioners 60 65 65 70
+L849: 2541 Midwives 60 65 65 70
+L850: 2542 Nurse Educators and
+L851: Researchers 60 65 65 70
+L852: 2543 Nurse Managers 60 65 65 70
+L853: 2544 Registered Nurses 70
+L854: (04/08/2025)
+L855: 105
+L856: (20/06/2025) 85 115
+L857: 2611 ICT Business and Systems
+L858: Analysts 120 125(04/11/2025) 90 95
+L859: 2613 Software and Applications
+L860: Programmers
+L861: 115
+L862: (05/11/2025)
+L863: 130
+L864: (14/08/2025) 105 110(11/08/2025)
+L865: 2621
+L866: Database and Systems
+L867: Administrators, and ICT
+L868: Security Specialists
+L869: 115 120 95 100
+L870: 2631 Computer Network
+L871: Professionals
+L872: 115
+L873: (13/11/2025)
+L874: 120
+L875: (01/11/2025) 115 120
+L876: 2632 ICT Support and Test
+L877: Engineers 115 120(06/11/2025) 95 105
+L878: 2633 Telecommunications
+L879: Engineering Professionals
+L880: 100
+L881: (01/10/2025) N/A 100 N/A
+L882: 2713 Solicitors 85 110 90 110
+L883: 2721 Counsellors 60 65 70 80
+L884: 2723 Psychologists 60 65 60 80
+L885: 2725 Social Workers 60 65 70 80
+L886: 2726 Welfare, Recreation and
+L887: Community Arts Workers 80 100 85 105
+L888: 3112 Medical Technicians 70 85 85 953114 Science Technicians 80 90 85 95
+L889: 3121 Architectural, Building and
+L890: Surveying Technicians 80 90 85 95
+L891: 3122
+L892: Civil Engineering
+L893: Draftspersons and
+L894: Technicians
+L895: 100 105 100 105
+L896: 3123
+L897: Electrical Engineering
+L898: Draftspersons and
+L899: Technicians
+L900: 80 90 85 95
+L901: 3125
+L902: Mechanical Engineering
+L903: Draftspersons and
+L904: Technicians
+L905: 85 95 90 100
+L906: 3129 Other Building and
+L907: Engineering Technicians 80 85
+L908: 3131 ICT Support Technicians 110 (06/08/2025) 120 110 120
+L909: 3132 Telecommunications
+L910: Technical Specialists 90 95 90 100
+L911: 3211 Automotive Electricians 80 90 80 90
+L912: 3212 Motor Mechanics 105 (05/09/2025) 110 85 95
+L913: 3231 Aircraft Maintenance
+L914: Engineers 80 N/A 80 N/A
+L915: 3232 Metal Fitters and Machinists 90 95 90 95
+L916: 3233 Precision Metal Trades
+L917: Workers 80 90 80 90
+L918: 3241 Panelbeaters 80 90 80 90
+L919: 3242 Vehicle Body Builders and
+L920: Trimmers 80 90 80 90
+L921: 3243 Vehicle Painters 80 90 80 90
+L922: 3311 Bricklayers and
+L923: Stonemasons 80 90 80 90
+L924: 3312 Carpenters and Joiners 80 90 80 90
+L925: 3321 Floor Finishers 80 90 80 90
+L926: 3322 Painting Trades Workers 80 85 80 90
+L927: 3331 Glaziers 80 85 80 90
+L928: 3332 Plasterers 80 90 80 90
+L929: 3333 Roof Tilers 80 90 80 90
+L930: 3334 Wall and Floor Tilers 80 85 80 90
+L931: 3341 Plumbers 80 90 80 90
+L932: 3411 Electricians 80 90 80 90
+L933: 3421 Airconditioning and
+L934: Refrigeration Mechanics 80 90 80 90
+L935: 3422 Electrical Distribution Trades
+L936: Workers 80 90 80 90
+L937: 3424 Telecommunications Trades
+L938: Workers 85 95 90 100
+L939: 3512 Butchers and Smallgoods
+L940: Makers 85 95 90 100
+L941: 3513 Chefs 120
+L942: (21/08/2025) 125 95 1003514 Cook 120
+L943: (28/07/2025) 125 85 100
+L944: 3613 Veterinary Nurses 85 95 90 100
+L945: 4111 Ambulance Officers and
+L946: Paramedics 60 65 70 75
+L947: 4112 Dental Hygienists,
+L948: Technicians and Therapists 60 65 65 70
+L949: 4113 Diversional Therapist 80 90 80 90
+L950: 4114 Enrolled and Mothercraft
+L951: Nurses
+L952: 95
+L953: (14/07/2025) 100 105 110
+L954: 4117 Welfare Support Workers 65 75 80 90
+L955: 5111 Contract, Program and
+L956: Project Administrators 120 N/A 120 N/A
+L957: ACT INVITATION ROUND 15 September 2025
+L958: Minimum Matrix score ranked
+L959: Please note: N/A = Matrix submissions were not considered.
+L960: ANZSCO
+L961: Unit
+L962: group
+L963: UNIT GROUP TITLE
+L964: Canberra
+L965: resident
+L966: 491
+L967: Canberra
+L968: resident
+L969: 190
+L970: Overseas
+L971: applicant
+L972: 491
+L973: Overseas
+L974: applicant
+L975: 190
+L976: 1311 Advertising, Public Relations and
+L977: Sales Managers 90 110 N/A N/A
+L978: 1321 Corporate Services Managers 90 110 N/A N/A
+L979: 1322 Finance Managers 125 130 N/A N/A
+L980: 1323 Human Resource Managers 90 100 N/A N/A
+L981: 1324 Policy and Planning Managers 90 N/A N/A N/A
+L982: 1325 Research and Development
+L983: Managers 80 110 85 110
+L984: 1331 Construction Managers 80 100 85 105
+L985: 1332 Engineering Managers 80 90 85 100
+L986: 1335 Production Managers 90 100 N/A N/A1336 Supply, Distribution and Procurement
+L987: Managers 90 100 N/A N/A
+L988: 1341 Child Care Centre Managers 60 65 65 80
+L989: 1342 Health and Welfare Services
+L990: Managers 60 65 75 80
+L991: 1343 School Principals 60 65 65 80
+L992: 1344 Other Education Managers 60 60 60 60
+L993: 1351 ICT Managers 110
+L994: (6/05/2025) 120 N/A N/A
+L995: 1399 Other Specialist Managers 90 100 N/A N/A
+L996: 1411 Cafe and Restaurant Managers 120
+L997: (28/7/2025) 125 N/A N/A
+L998: 1413 Hotel and Motel Managers 95
+L999: (2/05/2025) 110 N/A N/A
+L1000: 1419 Other Accommodation and
+L1001: Hospitality Managers 90 100 N/A N/A
+L1002: 1492 Call or Contact Centre and Customer
+L1003: Service Managers 90 115 N/A N/A
+L1004: 1493 Conference and Event Organisers 95 105 N/A N/A
+L1005: 1499 Other Hospitality, Retail and Service
+L1006: Managers 95 100 N/A N/A
+L1007: 2124 Journalists and Other Writers 105
+L1008: (15/5/2025) 115 N/A N/A
+L1009: 2211 Accountants 125
+L1010: (13/5/2025)
+L1011: 130
+L1012: (14/07/2025) N/A N/A
+L1013: 2212 Auditors, Company Secretaries and
+L1014: Corporate Treasurers
+L1015: 120
+L1016: (16/7/2025) 130 N/A N/A
+L1017: 2223 Financial Investment Advisers and
+L1018: Managers 95 110 N/A N/A
+L1019: 2231 Human Resource Professionals 115 125 N/A N/A
+L1020: 2232 ICT Trainers 115 120 N/A N/A
+L1021: 2241 Actuaries, Mathematicians and
+L1022: Statisticians 100 130 N/A N/A
+L1023: 2242 Archivists, Curators and Records
+L1024: Managers 90 100 N/A N/A
+L1025: 2243 Economists 80 100 85 N/A
+L1026: 2244 Intelligence and Policy Analysts 90 N/A N/A N/A
+L1027: 2246 Librarians 90 100 N/A N/A
+L1028: 2247 Management and Organisation
+L1029: Analysts 100 120 N/A N/A
+L1030: 2249 Other Information and Organisation
+L1031: Professionals 115 120 N/A N/A
+L1032: 2251 Advertising and Marketing
+L1033: Professionals
+L1034: 110
+L1035: (28/8/2025) 135 N/A N/A2252 ICT Sales Professionals 105
+L1036: (1/05/2025) 125 N/A N/A
+L1037: 2253 Public Relations Professionals 90 120 N/A N/A
+L1038: 2321 Architects and Landscape Architects 95 120 N/A N/A
+L1039: 2322 Surveyors and Spatial Scientists 90 100 N/A N/A
+L1040: 2324 Graphic and Web Designers, and
+L1041: Illustrators 85 105 N/A N/A
+L1042: 2326 Urban and Regional Planners 80 90 85 90
+L1043: 2331 Chemical and Materials Engineers 90 100 N/A N/A
+L1044: 2332 Civil Engineering Professionals 110 115 N/A N/A
+L1045: 2333 Electrical Engineers 85
+L1046: (30/5/2025) 100 N/A N/A
+L1047: 2334 Electronics Engineers 105 110 N/A N/A
+L1048: 2335 Industrial, Mechanical and
+L1049: Production Engineers 100 110 N/A N/A
+L1050: 2339 Other Engineering Professionals 110
+L1051: (23/3/2025) 120 N/A N/A
+L1052: 2343 Environmental Scientists 80 90 85 100
+L1053: 2345 Life Scientists 80 95 90 105
+L1054: 2346 Medical Laboratory Scientists 60 65 65 80
+L1055: 2347 Veterinarians 90 100 N/A N/A
+L1056: 2349 Other Natural and Physical Science
+L1057: Professionals 80 90 90 100
+L1058: 2411 Early Childhood (Pre
+L1059: -primary School)
+L1060: Teachers 100 110 N/A N/A
+L1061: 2412 Primary School Teachers 60 65 60 65
+L1062: 2413 Middle School Teachers
+L1063: \
+L1064: Intermediate School Teachers 60 65 60 65
+L1065: 2414 Secondary School Teachers 60 65 60 65
+L1066: 2415 Special Education Teachers 60 65 60 65
+L1067: 2421 University Lecturers and Tutors 95 110 N/A N/A
+L1068: 2422 Vocational Education Teachers
+L1069: \
+L1070: Polytechnic Teachers 80 N/A 90 N/A
+L1071: 2491 Education Advisers and Reviewers 90 100 N/A N/A
+L1072: 2493 Teachers of English to Speakers of
+L1073: Other Languages 90 100 N/A N/A
+L1074: 2511 Nutrition Professionals 60 65 65 80
+L1075: 2512 Medical Imaging Professionals 60 65 65 65
+L1076: 2513 Occupational and Environmental
+L1077: Health Professionals 60 65 65 80
+L1078: 2514 Optometrists and Orthoptists 60 65 65 80
+L1079: 2515 Pharmacists 80 85 90 95
+L1080: 2519 Other Health Diagnostic and
+L1081: Promotion Professionals 60 65 65 80
+L1082: 2521 Chiropractors and Osteopaths 60 65 65 80
+L1083: 2522 Complementary Health Therapists 60 65 65 802523 Dental Practitioners 60 65 65 80
+L1084: 2524 Occupational Therapists 60 65 65 80
+L1085: 2525 Physiotherapists 60 65 65 80
+L1086: 2526 Podiatrists 60 65 65 80
+L1087: 2527 Audiologists and Speech
+L1088: Pathologists \ Therapists 60 65 65 80
+L1089: 2531 General Practitioners and Resident
+L1090: Medical Officers 60 65 65 80
+L1091: 2532 Anaesthetists 60 N/A 65 N/A
+L1092: 2533 Specialist Physicians 60 65 65 80
+L1093: 2534 Psychiatrists 60 65 65 80
+L1094: 2535 Surgeons 60 65 65 80
+L1095: 2539 Other Medical Practitioners 60 65 65 80
+L1096: 2541 Midwives 60 65 65 80
+L1097: 2542 Nurse Educators and Researchers 60 65 65 80
+L1098: 2543 Nurse Managers 60 65 65 80
+L1099: 2544 Registered Nurses 90 115 N/A N/A
+L1100: 2611 ICT Business and Systems Analysts 115 125 N/A N/A
+L1101: 2612 Multimedia Specialists and Web
+L1102: Developers 110 120 N/A N/A
+L1103: 2613 Software and Applications
+L1104: Programmers
+L1105: 110
+L1106: (7/07/2025) 125 N/A N/A
+L1107: 2621
+L1108: Database and Systems
+L1109: Administrators, and ICT Security
+L1110: Specialists
+L1111: 110
+L1112: (2/05/2025)
+L1113: 115
+L1114: (05/06/2025) N/A N/A
+L1115: 2631 Computer Network Professionals 110
+L1116: (26/5/2025) 120 N/A N/A
+L1117: 2632 ICT Support and Test Engineers 115
+L1118: (27/7/2025)
+L1119: 120
+L1120: (09/05/2025) N/A N/A
+L1121: 2633 Telecommunications Engineering
+L1122: Professionals 105 115 N/A N/A
+L1123: 2713 Solicitors 95 115 N/A N/A
+L1124: 2721 Counsellors 75 85 N/A N/A
+L1125: 2723 Psychologists 60 65 65 80
+L1126: 2724 Social Professionals 90 110 N/A N/A
+L1127: 2725 Social Workers 60 65 65 80
+L1128: 2726 Welfare, Recreation and Community
+L1129: Arts Workers 60 65 70 90
+L1130: 3112 Medical Technicians 75 90 85
+L1131: (29/05/2025) 95
+L1132: 3114 Science Technicians 80 100 N/A N/A
+L1133: 3121 Architectural, Building and Surveying
+L1134: Technicians 80 100 90 100
+L1135: 3122 Civil Engineering Draftspersons and
+L1136: Technicians 110 115 N/A N/A3123 Electrical Engineering Draftspersons
+L1137: and Technicians 115 115 N/A N/A
+L1138: 3125 Mechanical Engineering
+L1139: Draftspersons and Technicians 80 90 90 100
+L1140: 3129 Other Building and Engineering
+L1141: Technicians 85 90 N/A N/A
+L1142: 3131 ICT Support Technicians 105
+L1143: (29/4/2025) 115 N/A N/A
+L1144: 3211 Automotive Electricians 90 100 N/A N/A
+L1145: 3212 Motor Mechanics 110
+L1146: (21/5/2025) 120 N/A N/A
+L1147: 3222 Sheetmetal Trades Workers 90 100 N/A N/A
+L1148: 3223 Structural Steel and Welding Trades
+L1149: Workers 90 100 N/A N/A
+L1150: 3231 Aircraft Maintenance Engineers 90 100 N/A N/A
+L1151: 3232 Metal Fitters and Machinists 90 100 N/A N/A
+L1152: 3233 Precision Metal Trades Workers 90 100 N/A N/A
+L1153: 3234 Toolmakers and Engineering
+L1154: Patternmakers 90 100 N/A N/A
+L1155: 3241 Panelbeaters 90 100 N/A N/A
+L1156: 3242 Vehicle Body Builders and Trimmers 90 100 N/A N/A
+L1157: 3243 Vehicle Painters 90 N/A N/A N/A
+L1158: 3311 Bricklayers and Stonemasons 80 90 85 100
+L1159: 3312 Carpenters and Joiners 80 90 85 100
+L1160: 3321 Floor Finishers 80 N/A 85 N/A
+L1161: 3322 Painting Trades Workers 80 90 85 100
+L1162: 3331 Glaziers 80 90 85 100
+L1163: 3332 Plasterers 80 90 85 100
+L1164: 3333 Roof Tilers 80 90 85 100
+L1165: 3334 Wall and Floor Tilers 80 90 85 100
+L1166: 3341 Plumbers 80 90 85 100
+L1167: 3411 Electricians 80 90 85 100
+L1168: 3421 Airconditioning and Refrigeration
+L1169: Mechanics 80 90 85 100
+L1170: 3422 Electrical Distribution Trades
+L1171: Workers 80 90 85 100
+L1172: 3423 Electronics Trades Workers 90 100 N/A N/A
+L1173: 3511 Bakers and Pastrycooks 95 100 N/A N/A
+L1174: 3513 Chefs 125 130 N/A N/A
+L1175: 3514 Cooks 120
+L1176: (4/06/2025) 125 N/A N/A
+L1177: 3611 Animal Attendants and Trainers 90 100 N/A N/A
+L1178: 3613 Veterinary Nurses 90 100 N/A N/A
+L1179: 3622 Gardeners 90 100 N/A N/A
+L1180: 3911 Hairdressers 90 100 N/A N/A3933 Upholsterers 90 100 N/A N/A
+L1181: 3941 Cabinetmakers 90 100 N/A N/A
+L1182: 4111 Ambulance Officers and Paramedics 60 65 70 80
+L1183: 4112 Dental Hygienists, Technicians and
+L1184: Therapists 60 65 65 80
+L1185: 4113 Diversional Therapists 90 100 N/A N/A
+L1186: 4114 Enrolled and Mothercraft Nurses 100 110 N/A N/A
+L1187: 4116 Massage Therapists 90 100 N/A N/A
+L1188: 4117 Welfare Support Workers 65 65 65 80
+L1189: 4412 Fire and Emergency Workers 60 N/A 65 N/A
+L1190: 4518 Other Personal Service Workers 60 N/A 70 N/A
+L1191: 4523 Sports Coaches, Instructors and
+L1192: Officials 90 100 N/A N/A
+L1193: 5111 Contract, Program and Project
+L1194: Administrators
+L1195: 115
+L1196: (19/5/2025) 125 N/A N/A
+L1197: 5996 Insurance Investigators, Loss
+L1198: Adjusters and Risk Surveyors 90 100 N/A N/A
+L1199: 5999 Other Miscellaneous Clerical and
+L1200: Administrative Workers 90 N/A N/A N/A
+L1201: 6121 Real Estate Sales Agents 100 N/A N/A N/A
