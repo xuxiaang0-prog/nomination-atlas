@@ -1,0 +1,32 @@
+name: Verify local reference application
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.401'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: |
+            package-lock.json
+            apps/web/package-lock.json
+      - run: npm ci
+      - run: dotnet restore src/Api --locked-mode
+      - run: dotnet build src/Api --no-restore
+      - run: dotnet run --project tests/ContractChecks
+      - run: npm run verify:local
+      - run: npm ci
+        working-directory: apps/web
+      - run: npx openapi-typescript ../../artifacts/openapi.json -o src/generated/api.d.ts
+        working-directory: apps/web
+      - run: git diff --exit-code -- src/generated/api.d.ts
+        working-directory: apps/web
+      - run: npm test
+        working-directory: apps/web
+      - run: npm run build
+        working-directory: apps/web
